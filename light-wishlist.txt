@@ -3,13 +3,13 @@ description:tyhals attempt at creating a dim wishlist from light.gg
 // weapon: Cerberus+1
 dimwishlist:item=-1541131350 cannot random roll -  [unpopular weapon]
 // weapon: Monte Carlo
-dimwishlist:item=4068264807 cannot random roll -  Popularity [ CompPvP: 0.20%  QuickPvP: 0.35%  CompCoop: 0.60% ]
+dimwishlist:item=4068264807 cannot random roll -  Popularity [ CompPvP: 0.2%  QuickPvP: 0.3%  CompCoop: 0.6% ]
 // weapon: SUROS Regime
-dimwishlist:item=2856683562 cannot random roll -  Popularity [ CompPvP: 0.36%  QuickPvP: 0.69% ]
+dimwishlist:item=2856683562 cannot random roll -  Popularity [ CompPvP: 0.4%  QuickPvP: 0.7% ]
 // weapon: Sweet Business
-dimwishlist:item=1345867570 cannot random roll -  Popularity [ CompPvP: 0.20%  QuickPvP: 0.27%  CompCoop: 0.73% ]
+dimwishlist:item=1345867570 cannot random roll -  Popularity [ CompPvP: 0.2%  QuickPvP: 0.3%  CompCoop: 0.7% ]
 // weapon: Hard Light
-dimwishlist:item=4124984448 cannot random roll -  Popularity [ CompPvP: 0.17%  QuickPvP: 0.32%  CompCoop: 0.39% ]
+dimwishlist:item=4124984448 cannot random roll -  Popularity [ CompPvP: 0.2%  QuickPvP: 0.3%  CompCoop: 0.4% ]
 // weapon: Tommy's Matchbook
 dimwishlist:item=-776191470 cannot random roll -  [unpopular weapon]
 // weapon: BrayTech Werewolf
@@ -236,7 +236,7 @@ dimwishlist:item=-1752585070 cannot random roll -  [unpopular weapon]
 // weapon: Breakneck
 dimwishlist:item=-324382200 cannot random roll -  [unpopular weapon]
 // weapon: Chroma Rush
-//notes: godroll - Popularity [ CompPvP: 0.95%  QuickPvP: 2.36%  PvE: 2.44%  CompCoop: 4.62% ] 
+//notes: godroll - Popularity [ CompPvP: 0.9%  QuickPvP: 2.4%  PvE: 2.4%  CompCoop: 4.6% ] 
 dimwishlist:item=1119734784&perks=1482024992,106909392,2779035018,3425386926
 dimwishlist:item=1119734784&perks=1482024992,106909392,2779035018,1015611457
 dimwishlist:item=1119734784&perks=1482024992,106909392,1570042021,3425386926
@@ -261,7 +261,7 @@ dimwishlist:item=1119734784&perks=839105230,3142289711,2779035018,3425386926
 dimwishlist:item=1119734784&perks=839105230,3142289711,2779035018,1015611457
 dimwishlist:item=1119734784&perks=839105230,3142289711,1570042021,3425386926
 dimwishlist:item=1119734784&perks=839105230,3142289711,1570042021,1015611457
-//notes: mixed pve - Popularity [ PvE: 2.44%  CompCoop: 4.62% ] 
+//notes: mixed pve - Popularity [ PvE: 2.4%  CompCoop: 4.6% ] 
 dimwishlist:item=1119734784&perks=839105230,3142289711,1820235745,1015611457
 dimwishlist:item=1119734784&perks=1482024992,106909392,1820235745,3425386926
 dimwishlist:item=1119734784&perks=1482024992,106909392,1820235745,1015611457
@@ -380,7 +380,7 @@ dimwishlist:item=1119734784&perks=3250034553,1087426260,1820235745,3592538738
 dimwishlist:item=1119734784&perks=1482024992,1087426260,1820235745,11612903
 dimwishlist:item=1119734784&perks=1482024992,1087426260,1820235745,3592538738
 dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,11612903
-//notes: mixed pvp - Popularity [ CompPvP: 0.95%  QuickPvP: 2.36%  CompCoop: 4.62% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.9%  QuickPvP: 2.4%  CompCoop: 4.6% ] 
 dimwishlist:item=1119734784&perks=839105230,106909392,2779035018,1890422124
 dimwishlist:item=1119734784&perks=1482024992,106909392,1359896290,1015611457
 dimwishlist:item=1119734784&perks=839105230,3142289711,2779035018,1890422124
@@ -411,7 +411,7 @@ dimwishlist:item=1119734784&perks=1482024992,3142289711,1359896290,1890422124
 dimwishlist:item=1119734784&perks=839105230,3142289711,1359896290,1890422124
 dimwishlist:item=1119734784&perks=1482024992,106909392,1359896290,1890422124
 dimwishlist:item=1119734784&perks=839105230,106909392,1359896290,1890422124
-//notes: pure pve - Popularity [ PvE: 2.44% ] 
+//notes: pure pve - Popularity [ PvE: 2.4% ] 
 dimwishlist:item=1119734784&perks=4090651448,1087426260,1820235745,3592538738
 dimwishlist:item=1119734784&perks=4090651448,1087426260,1820235745,11612903
 // weapon: Duty Bound
@@ -474,7 +474,7 @@ dimwishlist:item=-1839565992&perks=1452368634,3230963543,1359896290,2039302152
 dimwishlist:item=-1839565992&perks=1288081797,1885400500,1890422124,1645158859
 dimwishlist:item=-1839565992&perks=1288081797,1885400500,1890422124,2039302152
 // weapon: False Promises
-//notes: godroll - Popularity [ CompPvP: 0.20%  QuickPvP: 0.34%  PvE: 0.28%  CompCoop: 1.07% ] 
+//notes: godroll - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3%  PvE: 0.3%  CompCoop: 1.1% ] 
 dimwishlist:item=3143732432&perks=1482024992,679225683,2779035018,3425386926
 dimwishlist:item=3143732432&perks=1482024992,679225683,2779035018,3108830275
 dimwishlist:item=3143732432&perks=1482024992,679225683,2779035018,4082225868
@@ -655,7 +655,7 @@ dimwishlist:item=3143732432&perks=3661387068,1561002382,2450788523,4082225868
 dimwishlist:item=3143732432&perks=3661387068,1561002382,3643424744,3425386926
 dimwishlist:item=3143732432&perks=3661387068,1561002382,3643424744,3108830275
 dimwishlist:item=3143732432&perks=3661387068,1561002382,3643424744,4082225868
-//notes: mixed pve - Popularity [ PvE: 0.28%  CompCoop: 1.07% ] 
+//notes: mixed pve - Popularity [ PvE: 0.3%  CompCoop: 1.1% ] 
 dimwishlist:item=3143732432&perks=4090651448,679225683,2779035018,3108830275
 dimwishlist:item=3143732432&perks=1482024992,679225683,1820235745,3108830275
 dimwishlist:item=3143732432&perks=1482024992,679225683,1820235745,4082225868
@@ -1050,7 +1050,7 @@ dimwishlist:item=3143732432&perks=1392496348,1087426260,1820235745,3708227201
 dimwishlist:item=3143732432&perks=1482024992,2420895100,1820235745,3708227201
 dimwishlist:item=3143732432&perks=1482024992,1087426260,1820235745,3708227201
 dimwishlist:item=3143732432&perks=3661387068,1087426260,1820235745,3708227201
-//notes: mixed pvp - Popularity [ CompPvP: 0.20%  QuickPvP: 0.34%  CompCoop: 1.07% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3%  CompCoop: 1.1% ] 
 dimwishlist:item=3143732432&perks=1482024992,679225683,2779035018,699525795
 dimwishlist:item=3143732432&perks=1482024992,679225683,2779035018,2387244414
 dimwishlist:item=3143732432&perks=1482024992,679225683,2779035018,3350417888
@@ -1351,7 +1351,7 @@ dimwishlist:item=3143732432&perks=1482024992,679225683,1359896290,3350417888
 dimwishlist:item=3143732432&perks=1482024992,679225683,1359896290,2387244414
 dimwishlist:item=3143732432&perks=1482024992,679225683,1359896290,699525795
 dimwishlist:item=3143732432&perks=1840239774,1561002382,1359896290,3350417888
-//notes: pure pve - Popularity [ PvE: 0.28% ] 
+//notes: pure pve - Popularity [ PvE: 0.3% ] 
 dimwishlist:item=3143732432&perks=4090651448,1087426260,1820235745,3708227201
 dimwishlist:item=3143732432&perks=4090651448,2420895100,1820235745,3708227201
 // weapon: Foregone Conclusion
@@ -2671,7 +2671,7 @@ dimwishlist:item=-1952163498&perks=1467527085,679225683,2039302152,1359896290
 // weapon: Scathelocke
 dimwishlist:item=-3762467078 cannot random roll -  [unpopular weapon]
 // weapon: Seventh Seraph Carbine
-//notes: mixed pve - Popularity [ PvE: 0.38%  CompCoop: 0.90% ] 
+//notes: mixed pve - Popularity [ PvE: 0.4%  CompCoop: 0.9% ] 
 dimwishlist:item=1561006927&perks=3661387068,1561002382,1354429876,1546637391
 dimwishlist:item=1561006927&perks=3661387068,1561002382,3300816228,1546637391
 dimwishlist:item=1561006927&perks=1467527085,1561002382,1354429876,1546637391
@@ -2744,7 +2744,7 @@ dimwishlist:item=1561006927&perks=839105230,1087426260,3300816228,1546637391
 dimwishlist:item=1561006927&perks=839105230,1087426260,1354429876,1546637391
 dimwishlist:item=1561006927&perks=839105230,2420895100,3300816228,1546637391
 dimwishlist:item=1561006927&perks=1840239774,1561002382,3300816228,3425386926
-//notes: mixed pvp - Popularity [ CompCoop: 0.90% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.9% ] 
 dimwishlist:item=1561006927&perks=3661387068,1561002382,4071163871,1546637391
 dimwishlist:item=1561006927&perks=3661387068,1561002382,3161816588,1546637391
 dimwishlist:item=1561006927&perks=1467527085,1561002382,4071163871,1546637391
@@ -2851,7 +2851,7 @@ dimwishlist:item=1561006927&perks=1482024992,3230963543,3161816588,1546637391
 dimwishlist:item=1561006927&perks=1482024992,3230963543,4071163871,1546637391
 dimwishlist:item=1561006927&perks=1482024992,679225683,3161816588,1546637391
 dimwishlist:item=1561006927&perks=1482024992,1561002382,3161816588,3511092054
-//notes: pure pve - Popularity [ PvE: 0.38% ] 
+//notes: pure pve - Popularity [ PvE: 0.4% ] 
 dimwishlist:item=1561006927&perks=1840239774,1968497646,3300816228,3425386926
 dimwishlist:item=1561006927&perks=1840239774,1968497646,3300816228,4082225868
 dimwishlist:item=1561006927&perks=1840239774,1968497646,1354429876,3425386926
@@ -3439,14 +3439,14 @@ dimwishlist:item=-1099433612 cannot random roll -  [unpopular weapon]
 // weapon: The Forward Path
 dimwishlist:item=-2014642399 cannot random roll -  [unpopular weapon]
 // weapon: The Forward Path
-//notes: godroll - Popularity [ QuickPvP: 0.44%  PvE: 0.18%  CompCoop: 0.49% ] 
+//notes: godroll - Popularity [ QuickPvP: 0.4%  PvE: 0.2%  CompCoop: 0.5% ] 
 dimwishlist:item=1690783811&perks=2405638014,3230963543,2779035018,2458213969
 dimwishlist:item=1690783811&perks=2405638014,3230963543,2779035018,11551321
 dimwishlist:item=1690783811&perks=2405638014,106909392,2779035018,2458213969
 dimwishlist:item=1690783811&perks=2405638014,106909392,2779035018,11551321
 dimwishlist:item=1690783811&perks=2405638014,1087426260,2779035018,2458213969
 dimwishlist:item=1690783811&perks=2405638014,1087426260,2779035018,11551321
-//notes: mixed pve - Popularity [ PvE: 0.18%  CompCoop: 0.49% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2%  CompCoop: 0.5% ] 
 dimwishlist:item=1690783811&perks=13792278,3230963543,2779035018,2458213969
 dimwishlist:item=1690783811&perks=13792279,1087426260,2779035018,2458213969
 dimwishlist:item=1690783811&perks=2405638014,3230963543,1354429876,11551321
@@ -3511,7 +3511,7 @@ dimwishlist:item=1690783811&perks=13792278,106909392,1354429876,4082225868
 dimwishlist:item=1690783811&perks=13792278,1431678320,1354429876,11551321
 dimwishlist:item=1690783811&perks=13792278,3230963543,1354429876,4082225868
 dimwishlist:item=1690783811&perks=13792279,1431678320,2779035018,4082225868
-//notes: mixed pvp - Popularity [ QuickPvP: 0.44%  CompCoop: 0.49% ] 
+//notes: mixed pvp - Popularity [ QuickPvP: 0.4%  CompCoop: 0.5% ] 
 dimwishlist:item=1690783811&perks=2405638015,3230963543,2779035018,2458213969
 dimwishlist:item=1690783811&perks=679077872,106909392,2779035018,11551321
 dimwishlist:item=1690783811&perks=2405638014,3230963543,1359896290,2458213969
@@ -3654,10 +3654,10 @@ dimwishlist:item=1690783811&perks=679077873,3142289711,2779035018,1890422124
 dimwishlist:item=1690783811&perks=679077873,3142289711,2779035018,699525795
 dimwishlist:item=1690783811&perks=2405638014,3177308360,1359896290,1890422124
 dimwishlist:item=1690783811&perks=679077873,3142289711,1359896290,2458213969
-//notes: pure pve - Popularity [ PvE: 0.18% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=1690783811&perks=13792278,1431678320,1354429876,4082225868
 dimwishlist:item=1690783811&perks=13792279,1431678320,1354429876,4082225868
-//notes: pure pvp - Popularity [ QuickPvP: 0.44% ] 
+//notes: pure pvp - Popularity [ QuickPvP: 0.4% ] 
 dimwishlist:item=1690783811&perks=2405638015,3177308360,1359896290,1890422124
 dimwishlist:item=1690783811&perks=2405638015,3177308360,1359896290,699525795
 dimwishlist:item=1690783811&perks=2405638015,3142289711,1359896290,1890422124
@@ -4336,7 +4336,7 @@ dimwishlist:item=-1775804198&perks=965619221,2420895100,706527188,1015611457
 dimwishlist:item=-1775804198&perks=965619221,2420895100,706527188,2213355989
 dimwishlist:item=-1775804198&perks=965619221,2420895100,706527188,3425386926
 // weapon: Gnawing Hunger
-//notes: mixed pve - Popularity [ PvE: 1.49%  CompCoop: 3.03% ] 
+//notes: mixed pve - Popularity [ PvE: 1.5%  CompCoop: 3.0% ] 
 dimwishlist:item=821154603&perks=839105230,106909392,2387244414,3523296417
 dimwishlist:item=821154603&perks=4090651448,106909392,1890422124,3523296417
 dimwishlist:item=821154603&perks=3661387068,106909392,2387244414,3523296417
@@ -4505,7 +4505,7 @@ dimwishlist:item=821154603&perks=839105230,1087426260,1890422124,4082225868
 dimwishlist:item=821154603&perks=1840239774,2420895100,2869569095,3523296417
 dimwishlist:item=821154603&perks=839105230,1087426260,1890422124,2458213969
 dimwishlist:item=821154603&perks=839105230,1087426260,1890422124,3425386926
-//notes: mixed pvp - Popularity [ CompPvP: 0.93%  QuickPvP: 2.08%  CompCoop: 3.03% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.9%  QuickPvP: 2.1%  CompCoop: 3.0% ] 
 dimwishlist:item=821154603&perks=3250034553,106909392,2387244414,3523296417
 dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,3523296417
 dimwishlist:item=821154603&perks=1482024992,106909392,1890422124,3523296417
@@ -4530,7 +4530,7 @@ dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,1015611457
 dimwishlist:item=821154603&perks=1467527085,3142289711,2387244414,1015611457
 dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,1015611457
 dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,1015611457
-//notes: pure pve - Popularity [ PvE: 1.49% ] 
+//notes: pure pve - Popularity [ PvE: 1.5% ] 
 dimwishlist:item=821154603&perks=1840239774,2420895100,3300816228,4082225868
 dimwishlist:item=821154603&perks=1840239774,2420895100,3300816228,2458213969
 dimwishlist:item=821154603&perks=1840239774,2420895100,3300816228,3425386926
@@ -4743,7 +4743,7 @@ dimwishlist:item=-3393130645 cannot random roll -  [unpopular weapon]
 // weapon: Prosecutor
 dimwishlist:item=-1909527966 cannot random roll -  [unpopular weapon]
 // weapon: Reckless Oracle
-//notes: godroll - Popularity [ PvE: 0.13% ] 
+//notes: godroll - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=3385326721&perks=4090651448,1885400500,1168162263,3523296417
 dimwishlist:item=3385326721&perks=4090651448,1885400500,1168162263,4082225868
 dimwishlist:item=3385326721&perks=4090651448,1885400500,1168162263,1015611457
@@ -4756,7 +4756,7 @@ dimwishlist:item=3385326721&perks=839105230,1885400500,1168162263,1015611457
 dimwishlist:item=3385326721&perks=839105230,1561002382,1168162263,3523296417
 dimwishlist:item=3385326721&perks=839105230,1561002382,1168162263,4082225868
 dimwishlist:item=3385326721&perks=839105230,1561002382,1168162263,1015611457
-//notes: mixed pve - Popularity [ PvE: 0.13% ] 
+//notes: mixed pve - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=3385326721&perks=3250034553,1885400500,1168162263,3523296417
 dimwishlist:item=3385326721&perks=3661387068,1885400500,1168162263,1015611457
 dimwishlist:item=3385326721&perks=3661387068,1885400500,1168162263,4082225868
@@ -5606,7 +5606,7 @@ dimwishlist:item=-93253474&perks=3433396027,1561002382,706527188,1890422124
 dimwishlist:item=-93253474&perks=3433396027,1885400500,706527188,1890422124
 dimwishlist:item=-93253474&perks=1096957638,1885400500,706527188,1890422124
 // weapon: The Summoner
-//notes: godroll - Popularity [ CompPvP: 0.25% ] 
+//notes: godroll - Popularity [ CompPvP: 0.2% ] 
 dimwishlist:item=1907698332&perks=1467527085,679225683,588594999,3511092054
 dimwishlist:item=1907698332&perks=1467527085,679225683,3643424744,3511092054
 dimwishlist:item=1907698332&perks=1467527085,1561002382,588594999,3511092054
@@ -5662,7 +5662,7 @@ dimwishlist:item=-1907698332&perks=1840239774,1087426260,3643424744,2848615171
 dimwishlist:item=-1907698332&perks=1840239774,1087426260,588594999,3425386926
 dimwishlist:item=-1907698332&perks=1840239774,1087426260,588594999,2848615171
 dimwishlist:item=-1907698332&perks=1840239774,1087426260,3643424744,3425386926
-//notes: mixed pvp - Popularity [ CompPvP: 0.25% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2% ] 
 dimwishlist:item=1907698332&perks=839105230,1561002382,2387244414,3511092054
 dimwishlist:item=1907698332&perks=3661387068,679225683,3643424744,3511092054
 dimwishlist:item=1907698332&perks=1482024992,679225683,588594999,3511092054
@@ -5823,7 +5823,7 @@ dimwishlist:item=1907698332&perks=1482024992,3230963543,588594999,1264398905
 dimwishlist:item=1907698332&perks=1482024992,679225683,2387244414,2846385770
 dimwishlist:item=1907698332&perks=1482024992,679225683,2387244414,1264398905
 dimwishlist:item=1907698332&perks=1482024992,3230963543,3643424744,2846385770
-//notes: pure pvp - Popularity [ CompPvP: 0.25% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.2% ] 
 dimwishlist:item=1907698332&perks=1482024992,3230963543,2387244414,1264398905
 dimwishlist:item=1907698332&perks=1482024992,3230963543,2387244414,2846385770
 dimwishlist:item=1907698332&perks=1482024992,1885400500,2387244414,1264398905
@@ -6107,11 +6107,11 @@ dimwishlist:item=-3762467079 cannot random roll -  [unpopular weapon]
 // weapon: Wish-Ender
 dimwishlist:item=-814876684 cannot random roll -  [unpopular weapon]
 // weapon: Le Monarque
-dimwishlist:item=3588934839 cannot random roll -  Popularity [ CompPvP: 0.58%  QuickPvP: 0.39% ]
+dimwishlist:item=3588934839 cannot random roll -  Popularity [ CompPvP: 0.6%  QuickPvP: 0.4% ]
 // weapon: Ticuu's Divination
-dimwishlist:item=3260753130 cannot random roll -  Popularity [ CompCoop: 0.35% ]
+dimwishlist:item=3260753130 cannot random roll -  Popularity [ CompCoop: 0.4% ]
 // weapon: Trinity Ghoul
-dimwishlist:item=814876685 cannot random roll -  Popularity [ PvE: 0.43%  CompCoop: 0.32% ]
+dimwishlist:item=814876685 cannot random roll -  Popularity [ PvE: 0.4%  CompCoop: 0.3% ]
 // weapon: Leviathan's Breath
 dimwishlist:item=-2591746970 cannot random roll -  [unpopular weapon]
 // weapon: Accrued Redemption
@@ -6446,7 +6446,7 @@ dimwishlist:item=-421573768&perks=2801223209,3429800428,2846385770,706527188
 dimwishlist:item=-421573768&perks=852209214,3827198035,2846385770,706527188
 dimwishlist:item=-421573768&perks=2801223209,3827198035,588594999,706527188
 // weapon: Whispering Slab
-//notes: godroll - Popularity [ CompCoop: 0.36% ] 
+//notes: godroll - Popularity [ CompCoop: 0.4% ] 
 dimwishlist:item=211938782&perks=852209214,3827198035,2450788523,4082225868
 dimwishlist:item=211938782&perks=852209214,3827198035,2450788523,3523296417
 dimwishlist:item=211938782&perks=852209214,3827198035,2450788523,3350417888
@@ -6463,7 +6463,7 @@ dimwishlist:item=211938782&perks=852209214,3429800428,201365942,4082225868
 dimwishlist:item=211938782&perks=852209214,3429800428,201365942,3523296417
 dimwishlist:item=211938782&perks=852209214,3429800428,201365942,3350417888
 dimwishlist:item=211938782&perks=852209214,3429800428,201365942,1546637391
-//notes: mixed pve - Popularity [ CompCoop: 0.36% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.4% ] 
 dimwishlist:item=211938782&perks=3768438372,3827198035,2450788523,4082225868
 dimwishlist:item=211938782&perks=852209214,3827198035,706527188,3523296417
 dimwishlist:item=211938782&perks=852209214,3827198035,706527188,3350417888
@@ -6556,7 +6556,7 @@ dimwishlist:item=211938782&perks=3768438372,16392701,706527188,4082225868
 dimwishlist:item=211938782&perks=3768438372,16392701,706527188,3523296417
 dimwishlist:item=211938782&perks=3768438372,16392701,706527188,3350417888
 dimwishlist:item=211938782&perks=3768438372,16392701,706527188,1546637391
-//notes: mixed pvp - Popularity [ CompCoop: 0.36% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.4% ] 
 dimwishlist:item=211938782&perks=852209214,3429800428,2450788523,3108830275
 dimwishlist:item=211938782&perks=852209214,3827198035,2450788523,47981717
 dimwishlist:item=211938782&perks=852209214,3827198035,201365942,3108830275
@@ -6914,21 +6914,21 @@ dimwishlist:item=-2721249463&perks=3371775011,3827198035,908147344,3425386926
 dimwishlist:item=-2721249463&perks=4067834857,3827198035,201365942,3425386926
 dimwishlist:item=-2721249463&perks=4067834857,3827198035,908147344,3425386926
 // weapon: Bastion
-dimwishlist:item=2415517654 cannot random roll -  Popularity [ CompPvP: 1.21%  QuickPvP: 0.48% ]
+dimwishlist:item=2415517654 cannot random roll -  Popularity [ CompPvP: 1.2%  QuickPvP: 0.5% ]
 // weapon: Jötunn
-dimwishlist:item=417164956 cannot random roll -  Popularity [ CompPvP: 1.06%  QuickPvP: 1.08%  PvE: 0.17%  CompCoop: 1.44% ]
+dimwishlist:item=417164956 cannot random roll -  Popularity [ CompPvP: 1.1%  QuickPvP: 1.1%  PvE: 0.2%  CompCoop: 1.4% ]
 // weapon: Merciless
 dimwishlist:item=-4190156464 cannot random roll -  [unpopular weapon]
 // weapon: Telesto
-dimwishlist:item=2208405142 cannot random roll -  Popularity [ CompPvP: 0.65%  QuickPvP: 0.55%  PvE: 0.34%  CompCoop: 0.68% ]
+dimwishlist:item=2208405142 cannot random roll -  Popularity [ CompPvP: 0.6%  QuickPvP: 0.6%  PvE: 0.3%  CompCoop: 0.7% ]
 // weapon: Vex Mythoclast
-dimwishlist:item=4289226715 cannot random roll -  Popularity [ QuickPvP: 0.25%  PvE: 0.24% ]
+dimwishlist:item=4289226715 cannot random roll -  Popularity [ QuickPvP: 0.3%  PvE: 0.2% ]
 // weapon: One Thousand Voices
-dimwishlist:item=2069224589 cannot random roll -  Popularity [ PvE: 0.14% ]
+dimwishlist:item=2069224589 cannot random roll -  Popularity [ PvE: 0.1% ]
 // weapon: Cartesian Coordinate
 dimwishlist:item=-2502422772 cannot random roll -  [unpopular weapon]
 // weapon: Cartesian Coordinate
-//notes: mixed pve - Popularity [ PvE: 0.13% ] 
+//notes: mixed pve - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=2481881293&perks=2405638014,1687452232,2779035018,2213355989
 dimwishlist:item=2481881293&perks=2405638014,1687452232,2779035018,4082225868
 dimwishlist:item=2481881293&perks=2405638014,1687452232,2779035018,1546637391
@@ -6954,7 +6954,7 @@ dimwishlist:item=-2481881293&perks=2405638015,1687452232,1645158859,2213355989
 dimwishlist:item=-2481881293&perks=2405638015,1687452232,1645158859,4082225868
 dimwishlist:item=-2481881293&perks=2405638015,689005463,1645158859,2213355989
 dimwishlist:item=-2481881293&perks=2405638015,689005463,1645158859,4082225868
-//notes: pure pve - Popularity [ PvE: 0.13% ] 
+//notes: pure pve - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=2481881293&perks=13792278,2680121939,2779035018,1546637391
 dimwishlist:item=2481881293&perks=13792279,2680121939,2779035018,1546637391
 // weapon: Conjecture TSc
@@ -9109,7 +9109,7 @@ dimwishlist:item=-1706206669&perks=1467527085,2969185026,1866048759,2846385770
 dimwishlist:item=-1706206669&perks=1467527085,3868766766,1866048759,1890422124
 dimwishlist:item=-1706206669&perks=1467527085,3868766766,1866048759,2846385770
 // weapon: Glacioclasm
-//notes: godroll - Popularity [ CompPvP: 0.64%  QuickPvP: 0.38% ] 
+//notes: godroll - Popularity [ CompPvP: 0.6%  QuickPvP: 0.4% ] 
 dimwishlist:item=1030895163&perks=1482024992,1687452232,2450788523,2213355989
 dimwishlist:item=1030895163&perks=1482024992,1687452232,2450788523,4082225868
 dimwishlist:item=1030895163&perks=1482024992,1687452232,2450788523,3523296417
@@ -9219,7 +9219,7 @@ dimwishlist:item=-1030895163&perks=1482024992,2680121939,2869569095,3300816228
 dimwishlist:item=-1030895163&perks=1840239774,1483536627,2869569095,3300816228
 dimwishlist:item=-1030895163&perks=1840239774,2680121939,2869569095,3300816228
 dimwishlist:item=-1030895163&perks=839105230,2680121939,2869569095,3300816228
-//notes: mixed pvp - Popularity [ CompPvP: 0.64%  QuickPvP: 0.38% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.6%  QuickPvP: 0.4% ] 
 dimwishlist:item=1030895163&perks=1482024992,2969185026,2450788523,2213355989
 dimwishlist:item=1030895163&perks=1482024992,2969185026,2450788523,4082225868
 dimwishlist:item=1030895163&perks=1482024992,2969185026,2450788523,3523296417
@@ -9709,9 +9709,9 @@ dimwishlist:item=-2502422774 cannot random roll -  [unpopular weapon]
 // weapon: Nox Veneris II
 dimwishlist:item=-4105447486 cannot random roll -  [unpopular weapon]
 // weapon: Null Composure
-dimwishlist:item=1644680957 cannot random roll -  Popularity [ CompPvP: 0.20%  QuickPvP: 0.52%  PvE: 2.81%  CompCoop: 2.17% ]
+dimwishlist:item=1644680957 cannot random roll -  Popularity [ CompPvP: 0.2%  QuickPvP: 0.5%  PvE: 2.8%  CompCoop: 2.2% ]
 // weapon: PLUG ONE.1
-//notes: mixed pve - Popularity [ PvE: 0.24%  CompCoop: 0.44% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2%  CompCoop: 0.4% ] 
 dimwishlist:item=1289000550&perks=1840239774,1687452232,4252909580,1427256713
 dimwishlist:item=1289000550&perks=3250034553,1687452232,2779035018,1754714824
 dimwishlist:item=1289000550&perks=839105230,1687452232,4252909580,1754714824
@@ -9768,14 +9768,14 @@ dimwishlist:item=1289000550&perks=839105230,689005463,2779035018,1427256713
 dimwishlist:item=1289000550&perks=839105230,689005463,2779035018,1754714824
 dimwishlist:item=1289000550&perks=839105230,689005463,4252909580,1427256713
 dimwishlist:item=1289000550&perks=839105230,689005463,4252909580,1754714824
-//notes: mixed pvp - Popularity [ CompPvP: 0.23%  QuickPvP: 0.39%  CompCoop: 0.44% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.4%  CompCoop: 0.4% ] 
 dimwishlist:item=1289000550&perks=3661387068,1687452232,1645158859,1427256713
 dimwishlist:item=1289000550&perks=3661387068,1687452232,1645158859,1754714824
 dimwishlist:item=1289000550&perks=3661387068,1687452232,1570042021,1427256713
 dimwishlist:item=1289000550&perks=3661387068,1687452232,1570042021,1754714824
 dimwishlist:item=1289000550&perks=3661387068,1687452232,1645158859,2726471870
 dimwishlist:item=1289000550&perks=3661387068,1687452232,1570042021,2726471870
-//notes: pure pve - Popularity [ PvE: 0.24% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=1289000550&perks=3250034553,2680121939,2779035018,1799762209
 dimwishlist:item=1289000550&perks=3250034553,2680121939,4252909580,1799762209
 dimwishlist:item=1289000550&perks=3250034553,689005463,2779035018,1799762209
@@ -10741,7 +10741,7 @@ dimwishlist:item=-3055192515&perks=1409978309,2680121939,1556840489,1683379515
 dimwishlist:item=-3055192515&perks=1628165637,3868766766,280464955,957782887
 dimwishlist:item=-3055192515&perks=194952922,3868766766,280464955,957782887
 // weapon: Trinary System
-//notes: mixed pve - Popularity [ CompCoop: 0.31% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=3258665412&perks=1840239774,1687452232,3436462433,2213355989
 dimwishlist:item=3258665412&perks=1840239774,1687452232,2779035018,2213355989
 dimwishlist:item=3258665412&perks=839105230,1687452232,3300816228,2213355989
@@ -10790,7 +10790,7 @@ dimwishlist:item=3258665412&perks=839105230,2680121939,3300816228,4082225868
 dimwishlist:item=3258665412&perks=1840239774,2680121939,2779035018,3592538738
 dimwishlist:item=3258665412&perks=839105230,2680121939,3436462433,3592538738
 dimwishlist:item=3258665412&perks=839105230,2680121939,2779035018,4082225868
-//notes: mixed pvp - Popularity [ CompCoop: 0.31% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=3258665412&perks=839105230,1687452232,1645158859,2213355989
 dimwishlist:item=3258665412&perks=1840239774,1687452232,706527188,2213355989
 dimwishlist:item=3258665412&perks=839105230,1687452232,2450788523,2213355989
@@ -11122,11 +11122,11 @@ dimwishlist:item=-2209003210&perks=1392496348,3868766766,1645158859,1600092898
 dimwishlist:item=-2209003210&perks=1482024992,3868766766,1645158859,1600092898
 dimwishlist:item=-2209003210&perks=3661387068,3868766766,1645158859,1600092898
 // weapon: Witherhoard
-dimwishlist:item=2357297366 cannot random roll -  Popularity [ CompPvP: 0.40%  QuickPvP: 1.50%  PvE: 4.11%  CompCoop: 3.09% ]
+dimwishlist:item=2357297366 cannot random roll -  Popularity [ CompPvP: 0.4%  QuickPvP: 1.5%  PvE: 4.1%  CompCoop: 3.1% ]
 // weapon: Fighting Lion
 dimwishlist:item=-3549153978 cannot random roll -  [unpopular weapon]
 // weapon: Anarchy
-dimwishlist:item=2376481550 cannot random roll -  Popularity [ PvE: 9.08%  CompCoop: 1.53% ]
+dimwishlist:item=2376481550 cannot random roll -  Popularity [ PvE: 9.1%  CompCoop: 1.5% ]
 // weapon: Salvation's Grip
 dimwishlist:item=-370712896 cannot random roll -  [unpopular weapon]
 // weapon: The Colony
@@ -11134,7 +11134,7 @@ dimwishlist:item=-3899270607 cannot random roll -  [unpopular weapon]
 // weapon: The Prospector
 dimwishlist:item=-3549153979 cannot random roll -  [unpopular weapon]
 // weapon: Ignition Code
-//notes: godroll - Popularity [ CompPvP: 0.32%  QuickPvP: 0.53%  PvE: 2.79%  CompCoop: 2.24% ] 
+//notes: godroll - Popularity [ CompPvP: 0.3%  QuickPvP: 0.5%  PvE: 2.8%  CompCoop: 2.2% ] 
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,4104185692
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,3523296417
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,1546637391
@@ -11147,7 +11147,7 @@ dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391
 dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,4104185692
 dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,3523296417
 dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,1546637391
-//notes: mixed pve - Popularity [ PvE: 2.79%  CompCoop: 2.24% ] 
+//notes: mixed pve - Popularity [ PvE: 2.8%  CompCoop: 2.2% ] 
 dimwishlist:item=304659313&perks=1478423395,3301904089,3161816588,4104185692
 dimwishlist:item=304659313&perks=1478423395,3032599245,3161816588,3523296417
 dimwishlist:item=304659313&perks=3525010810,3301904089,2010801679,3523296417
@@ -11184,7 +11184,7 @@ dimwishlist:item=304659313&perks=3525010810,3032599245,2010801679,4049631843
 dimwishlist:item=304659313&perks=1478423395,3032599245,3161816588,4049631843
 dimwishlist:item=304659313&perks=1478423395,3032599245,2010801679,4049631843
 dimwishlist:item=304659313&perks=1478423395,3301904089,2010801679,4049631843
-//notes: mixed pvp - Popularity [ CompPvP: 0.32%  QuickPvP: 0.53%  CompCoop: 2.24% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.3%  QuickPvP: 0.5%  CompCoop: 2.2% ] 
 dimwishlist:item=304659313&perks=981914802,409831596,3161816588,4104185692
 dimwishlist:item=304659313&perks=3525010810,3301904089,706527188,3523296417
 dimwishlist:item=304659313&perks=3525010810,3301904089,706527188,1546637391
@@ -11244,7 +11244,7 @@ dimwishlist:item=304659313&perks=1844523823,409831596,706527188,4104185692
 dimwishlist:item=304659313&perks=3525010810,409831596,706527188,2726471870
 dimwishlist:item=304659313&perks=1844523823,3301904089,706527188,2726471870
 dimwishlist:item=304659313&perks=981914802,409831596,706527188,2726471870
-//notes: pure pvp - Popularity [ CompPvP: 0.32%  QuickPvP: 0.53% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.3%  QuickPvP: 0.5% ] 
 dimwishlist:item=304659313&perks=1844523823,409831596,706527188,2726471870
 // weapon: The Militia's Birthright
 //notes: godroll - Popularity [] 
@@ -11275,7 +11275,7 @@ dimwishlist:item=-3745974521&perks=1441682018,409831596,706527188,957782887
 // weapon: The Mountaintop
 dimwishlist:item=-3993415705 cannot random roll -  [unpopular weapon]
 // weapon: Deafening Whisper
-//notes: mixed pve - Popularity [ PvE: 0.49%  CompCoop: 0.33% ] 
+//notes: mixed pve - Popularity [ PvE: 0.5%  CompCoop: 0.3% ] 
 dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3300816228
 dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738
 dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3425386926
@@ -11295,7 +11295,7 @@ dimwishlist:item=981718087&perks=1441682018,2822142346,1556840489,3300816228
 dimwishlist:item=981718087&perks=1441682018,2822142346,1556840489,3592538738
 dimwishlist:item=981718087&perks=1441682018,2822142346,1556840489,3425386926
 // weapon: Empty Vessel
-//notes: mixed pve - Popularity [ PvE: 0.53%  CompCoop: 0.58% ] 
+//notes: mixed pve - Popularity [ PvE: 0.5%  CompCoop: 0.6% ] 
 dimwishlist:item=4255586669&perks=1478423395,3301904089,2779035018,1546637391
 dimwishlist:item=4255586669&perks=1478423395,3301904089,2010801679,1546637391
 dimwishlist:item=4255586669&perks=1478423395,3301904089,4071163871,1546637391
@@ -11400,10 +11400,10 @@ dimwishlist:item=4255586669&perks=3525010810,3301904089,2010801679,4082225868
 dimwishlist:item=4255586669&perks=1478423395,3032599245,2779035018,3523296417
 dimwishlist:item=4255586669&perks=1478423395,3032599245,2779035018,2458213969
 dimwishlist:item=4255586669&perks=1478423395,3032599245,4071163871,2458213969
-//notes: mixed pvp - Popularity [ CompCoop: 0.58% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.6% ] 
 dimwishlist:item=4255586669&perks=1478423395,3301904089,706527188,1546637391
 dimwishlist:item=4255586669&perks=1478423395,3301904089,706527188,2726471870
-//notes: pure pve - Popularity [ PvE: 0.53% ] 
+//notes: pure pve - Popularity [ PvE: 0.5% ] 
 dimwishlist:item=4255586669&perks=3525010810,3032599245,2010801679,4049631843
 dimwishlist:item=4255586669&perks=3525010810,3032599245,2010801679,4082225868
 dimwishlist:item=4255586669&perks=3525010810,3032599245,2010801679,3523296417
@@ -11511,7 +11511,7 @@ dimwishlist:item=-3850168899&perks=1478423395,2822142346,2869569095,2846385770
 dimwishlist:item=-3850168899&perks=1478423395,2822142346,3300816228,3523296417
 dimwishlist:item=-3850168899&perks=1478423395,2822142346,3300816228,2846385770
 // weapon: Orewing's Maul
-//notes: mixed pve - Popularity [ PvE: 0.13% ] 
+//notes: mixed pve - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=2108920981&perks=3525010810,3301904089,972757866,3523296417
 dimwishlist:item=2108920981&perks=1441682018,3301904089,1631667848,3523296417
 dimwishlist:item=2108920981&perks=1441682018,3301904089,2869569095,3300816228
@@ -11564,9 +11564,9 @@ dimwishlist:item=-2108920981&perks=1478423395,409831596,706527188,3300816228
 // weapon: Orewing's Maul
 dimwishlist:item=-1870979911 cannot random roll -  [unpopular weapon]
 // weapon: Salvager's Salvo
-dimwishlist:item=2060863616 cannot random roll -  Popularity [ CompPvP: 0.86%  QuickPvP: 1.02%  PvE: 3.89%  CompCoop: 3.26% ]
+dimwishlist:item=2060863616 cannot random roll -  Popularity [ CompPvP: 0.9%  QuickPvP: 1.0%  PvE: 3.9%  CompCoop: 3.3% ]
 // weapon: Truthteller
-//notes: godroll - Popularity [ CompPvP: 0.42%  QuickPvP: 0.44%  PvE: 1.13%  CompCoop: 0.68% ] 
+//notes: godroll - Popularity [ CompPvP: 0.4%  QuickPvP: 0.4%  PvE: 1.1%  CompCoop: 0.7% ] 
 dimwishlist:item=1946491241&perks=3798852852,3301904089,2779035018,1683379515
 dimwishlist:item=1946491241&perks=3798852852,3301904089,2779035018,706527188
 dimwishlist:item=1946491241&perks=3798852852,3301904089,2779035018,3523296417
@@ -11594,7 +11594,7 @@ dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,3523296417
 dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,1683379515
 dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,706527188
 dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,3523296417
-//notes: mixed pve - Popularity [ PvE: 1.13%  CompCoop: 0.68% ] 
+//notes: mixed pve - Popularity [ PvE: 1.1%  CompCoop: 0.7% ] 
 dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,4082225868
 dimwishlist:item=1946491241&perks=3798852852,3301904089,2779035018,2458213969
 dimwishlist:item=1946491241&perks=3798852852,3301904089,2869569095,4082225868
@@ -11658,7 +11658,7 @@ dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,4082225868
 dimwishlist:item=1946491241&perks=3798852852,3032599245,2779035018,2458213969
 dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,2458213969
 dimwishlist:item=1946491241&perks=3798852852,3032599245,2779035018,4082225868
-//notes: mixed pvp - Popularity [ CompPvP: 0.42%  QuickPvP: 0.44%  CompCoop: 0.68% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.4%  QuickPvP: 0.4%  CompCoop: 0.7% ] 
 dimwishlist:item=1946491241&perks=3798852852,2822142346,2779035018,1683379515
 dimwishlist:item=1946491241&perks=3798852852,2822142346,2779035018,706527188
 dimwishlist:item=1946491241&perks=3798852852,2822142346,2779035018,3523296417
@@ -11763,7 +11763,7 @@ dimwishlist:item=-1757129747&perks=1478423395,409831596,2846385770,706527188
 // weapon: Berenger's Memory
 dimwishlist:item=-1983332562 cannot random roll -  [unpopular weapon]
 // weapon: Berenger's Memory
-//notes: mixed pve - Popularity [ CompCoop: 0.24% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.2% ] 
 dimwishlist:item=407621213&perks=3798852852,3301904089,706527188,3523296417
 dimwishlist:item=407621213&perks=981914802,3301904089,706527188,3523296417
 dimwishlist:item=407621213&perks=981914802,3301904089,706527188,1683379515
@@ -11806,7 +11806,7 @@ dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,1683379515
 dimwishlist:item=407621213&perks=981914802,3301904089,706527188,3300816228
 dimwishlist:item=407621213&perks=3798852852,2985827016,2284787283,1683379515
 dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,1683379515
-//notes: mixed pvp - Popularity [ CompCoop: 0.24% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.2% ] 
 dimwishlist:item=407621213&perks=1844523823,3373736292,706527188,3523296417
 dimwishlist:item=407621213&perks=1478423395,409831596,706527188,3523296417
 dimwishlist:item=407621213&perks=1478423395,3373736292,706527188,1683379515
@@ -11869,7 +11869,7 @@ dimwishlist:item=-2453357042&perks=1441682018,3301904089,2284787283,3300816228
 dimwishlist:item=-2453357042&perks=1441682018,3301904089,2284787283,2396489472
 dimwishlist:item=-2453357042&perks=3809316345,2985827016,2284787283,3592538738
 dimwishlist:item=-2453357042&perks=3809316345,3301904089,2284787283,3592538738
-//notes: mixed pvp - Popularity [ QuickPvP: 0.22% ] 
+//notes: mixed pvp - Popularity [ QuickPvP: 0.2% ] 
 dimwishlist:item=2453357042&perks=1441682018,409831596,706527188,3592538738
 dimwishlist:item=2453357042&perks=1441682018,409831596,2450788523,3592538738
 dimwishlist:item=2453357042&perks=1441682018,409831596,706527188,1683379515
@@ -11889,7 +11889,7 @@ dimwishlist:item=-2453357042&perks=3809316345,2985827016,2284787283,3300816228
 dimwishlist:item=-2453357042&perks=3809316345,2985827016,2284787283,2396489472
 dimwishlist:item=-2453357042&perks=3809316345,3301904089,2284787283,3300816228
 dimwishlist:item=-2453357042&perks=3809316345,3301904089,2284787283,2396489472
-//notes: pure pvp - Popularity [ QuickPvP: 0.22% ] 
+//notes: pure pvp - Popularity [ QuickPvP: 0.2% ] 
 dimwishlist:item=2453357042&perks=1844523823,409831596,706527188,1683379515
 dimwishlist:item=2453357042&perks=1844523823,409831596,706527188,3425386926
 dimwishlist:item=2453357042&perks=1844523823,409831596,2450788523,1683379515
@@ -12230,7 +12230,7 @@ dimwishlist:item=-3690523502&perks=1478423395,1771897777,4071163871,2888557110
 dimwishlist:item=-3690523502&perks=1478423395,3301904089,2869569095,2888557110
 dimwishlist:item=-3690523502&perks=1478423395,3301904089,4071163871,2888557110
 // weapon: Memory Interdict
-//notes: mixed pve - Popularity [ PvE: 0.28%  CompCoop: 0.48% ] 
+//notes: mixed pve - Popularity [ PvE: 0.3%  CompCoop: 0.5% ] 
 dimwishlist:item=3165547384&perks=981914802,3301904089,2284787283,2396489472
 dimwishlist:item=3165547384&perks=1478423395,3301904089,3300816228,2396489472
 dimwishlist:item=3165547384&perks=981914802,3301904089,3300816228,2396489472
@@ -12243,7 +12243,7 @@ dimwishlist:item=3165547384&perks=3525010810,3301904089,2284787283,2396489472
 dimwishlist:item=3165547384&perks=1478423395,3301904089,2284787283,3592538738
 dimwishlist:item=3165547384&perks=3525010810,3301904089,3300816228,3592538738
 dimwishlist:item=3165547384&perks=3525010810,3301904089,2284787283,3592538738
-//notes: mixed pvp - Popularity [ CompPvP: 0.21%  QuickPvP: 0.37%  CompCoop: 0.48% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.4%  CompCoop: 0.5% ] 
 dimwishlist:item=3165547384&perks=981914802,3301904089,706527188,2396489472
 dimwishlist:item=3165547384&perks=1478423395,3301904089,706527188,2396489472
 dimwishlist:item=3165547384&perks=1478423395,3301904089,951095735,2396489472
@@ -12265,14 +12265,14 @@ dimwishlist:item=-3329842376 cannot random roll -  [unpopular weapon]
 // weapon: Orthrus
 dimwishlist:item=-1983332561 cannot random roll -  [unpopular weapon]
 // weapon: Outrageous Fortune
-//notes: godroll - Popularity [ CompCoop: 0.26% ] 
+//notes: godroll - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=4146702548&perks=3525010810,409831596,2846385770,706527188
 dimwishlist:item=4146702548&perks=3525010810,409831596,2846385770,3425386926
 dimwishlist:item=4146702548&perks=1441682018,409831596,2846385770,706527188
 dimwishlist:item=4146702548&perks=1441682018,409831596,2846385770,3425386926
 dimwishlist:item=4146702548&perks=1478423395,409831596,2846385770,706527188
 dimwishlist:item=4146702548&perks=1478423395,409831596,2846385770,3425386926
-//notes: mixed pve - Popularity [ CompCoop: 0.26% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=4146702548&perks=1441682018,1380253176,2846385770,706527188
 dimwishlist:item=4146702548&perks=1478423395,1380253176,2846385770,3425386926
 dimwishlist:item=4146702548&perks=1478423395,1380253176,2846385770,706527188
@@ -12321,7 +12321,7 @@ dimwishlist:item=4146702548&perks=1441682018,1996142143,4071163871,3096702027
 dimwishlist:item=4146702548&perks=3525010810,1996142143,4071163871,3096702027
 dimwishlist:item=4146702548&perks=3525010810,1380253176,4071163871,3096702027
 dimwishlist:item=4146702548&perks=1441682018,1380253176,4071163871,3096702027
-//notes: mixed pvp - Popularity [ CompCoop: 0.26% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=4146702548&perks=3525010810,409831596,957782887,706527188
 dimwishlist:item=4146702548&perks=3525010810,409831596,957782887,3425386926
 dimwishlist:item=4146702548&perks=1441682018,409831596,957782887,706527188
@@ -12354,25 +12354,25 @@ dimwishlist:item=-578459533 cannot random roll -  [unpopular weapon]
 // weapon: Wicked Sister
 dimwishlist:item=-2168486467 cannot random roll -  [unpopular weapon]
 // weapon: Ace of Spades
-dimwishlist:item=347366834 cannot random roll -  Popularity [ CompPvP: 1.88%  QuickPvP: 2.20%  PvE: 0.16%  CompCoop: 0.47% ]
+dimwishlist:item=347366834 cannot random roll -  Popularity [ CompPvP: 1.9%  QuickPvP: 2.2%  PvE: 0.2%  CompCoop: 0.5% ]
 // weapon: Crimson
-dimwishlist:item=3437746471 cannot random roll -  Popularity [ CompPvP: 1.69%  QuickPvP: 1.58%  CompCoop: 0.35% ]
+dimwishlist:item=3437746471 cannot random roll -  Popularity [ CompPvP: 1.7%  QuickPvP: 1.6%  CompCoop: 0.3% ]
 // weapon: Hawkmoon
-dimwishlist:item=-3856705927 no random rolls specified -  Popularity [ CompPvP: 0.54%  QuickPvP: 0.74% ]
+dimwishlist:item=-3856705927 no random rolls specified -  Popularity [ CompPvP: 0.5%  QuickPvP: 0.7% ]
 // weapon: Lumina
 dimwishlist:item=-3512014804 cannot random roll -  [unpopular weapon]
 // weapon: Malfeasance
-dimwishlist:item=204878059 cannot random roll -  Popularity [ CompCoop: 0.55% ]
+dimwishlist:item=204878059 cannot random roll -  Popularity [ CompCoop: 0.6% ]
 // weapon: Sturm
-dimwishlist:item=2907129556 cannot random roll -  Popularity [ CompPvP: 0.91%  QuickPvP: 0.42% ]
+dimwishlist:item=2907129556 cannot random roll -  Popularity [ CompPvP: 0.9%  QuickPvP: 0.4% ]
 // weapon: The Last Word
-dimwishlist:item=1364093401 cannot random roll -  Popularity [ CompPvP: 2.57%  QuickPvP: 1.73% ]
+dimwishlist:item=1364093401 cannot random roll -  Popularity [ CompPvP: 2.6%  QuickPvP: 1.7% ]
 // weapon: Thorn
-dimwishlist:item=3973202132 cannot random roll -  Popularity [ CompPvP: 0.80%  QuickPvP: 0.75% ]
+dimwishlist:item=3973202132 cannot random roll -  Popularity [ CompPvP: 0.8%  QuickPvP: 0.7% ]
 // weapon: Eriana's Vow
-dimwishlist:item=3524313097 cannot random roll -  Popularity [ PvE: 0.13% ]
+dimwishlist:item=3524313097 cannot random roll -  Popularity [ PvE: 0.1% ]
 // weapon: Sunshot
-dimwishlist:item=2907129557 cannot random roll -  Popularity [ CompPvP: 0.22%  QuickPvP: 0.38%  PvE: 0.29%  CompCoop: 0.40% ]
+dimwishlist:item=2907129557 cannot random roll -  Popularity [ CompPvP: 0.2%  QuickPvP: 0.4%  PvE: 0.3%  CompCoop: 0.4% ]
 // weapon: Agamid
 dimwishlist:item=-1406475890 cannot random roll -  [unpopular weapon]
 // weapon: Austringer
@@ -12693,7 +12693,7 @@ dimwishlist:item=-4238497225 cannot random roll -  [unpopular weapon]
 // weapon: Dire Promise
 dimwishlist:item=-582335600 cannot random roll -  [unpopular weapon]
 // weapon: Dire Promise
-//notes: godroll - Popularity [ CompPvP: 0.66%  QuickPvP: 0.72% ] 
+//notes: godroll - Popularity [ CompPvP: 0.7%  QuickPvP: 0.7% ] 
 dimwishlist:item=2742838701&perks=1926090092,1561002382,3643424744,3511092054
 dimwishlist:item=2742838701&perks=1926090092,1561002382,3643424744,4082225868
 dimwishlist:item=2742838701&perks=1926090095,1561002382,3643424744,3511092054
@@ -12776,7 +12776,7 @@ dimwishlist:item=-2742838701&perks=1926090092,1968497646,3400784728,1774574192
 dimwishlist:item=-2742838701&perks=1926090092,1968497646,3300816228,1774574192
 dimwishlist:item=-2742838701&perks=1926090094,1087426260,3400784728,1774574192
 dimwishlist:item=-2742838701&perks=1926090094,1968497646,3300816228,1774574192
-//notes: mixed pvp - Popularity [ CompPvP: 0.66%  QuickPvP: 0.72% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.7%  QuickPvP: 0.7% ] 
 dimwishlist:item=2742838701&perks=1926090092,1885400500,3643424744,3511092054
 dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,3511092054
 dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,4082225868
@@ -12875,7 +12875,7 @@ dimwishlist:item=2742838701&perks=1926090093,3230963543,957782887,4082225868
 dimwishlist:item=2742838701&perks=1926090093,3230963543,957782887,3511092054
 dimwishlist:item=2742838701&perks=1926090093,3230963543,3643424744,2846385770
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770
-//notes: pure pvp - Popularity [ CompPvP: 0.66%  QuickPvP: 0.72% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.7%  QuickPvP: 0.7% ] 
 dimwishlist:item=2742838701&perks=1926090093,3230963543,957782887,2846385770
 dimwishlist:item=2742838701&perks=1926090093,3230963543,47981717,2846385770
 dimwishlist:item=2742838701&perks=1926090093,1885400500,957782887,2846385770
@@ -12973,10 +12973,10 @@ dimwishlist:item=-2112909414&perks=1926090093,47981717,1561002382,1015611457
 dimwishlist:item=-2112909414&perks=1926090093,47981717,1431678320,588594999
 dimwishlist:item=-2112909414&perks=1926090093,47981717,1431678320,1015611457
 // weapon: Fatebringer
-//notes: godroll - Popularity [ CompPvP: 1.12%  QuickPvP: 1.57%  PvE: 5.03%  CompCoop: 1.64% ] 
+//notes: godroll - Popularity [ CompPvP: 1.1%  QuickPvP: 1.6%  PvE: 5.0%  CompCoop: 1.6% ] 
 dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,1015611457
 dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,1015611457
-//notes: mixed pve - Popularity [ PvE: 5.03%  CompCoop: 1.64% ] 
+//notes: mixed pve - Popularity [ PvE: 5.0%  CompCoop: 1.6% ] 
 dimwishlist:item=2171478765&perks=202670084,106909392,3038247973,1015611457
 dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,4104185692
 dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,3824105627
@@ -13009,14 +13009,14 @@ dimwishlist:item=2171478765&perks=3250034553,106909392,3038247973,4104185692
 dimwishlist:item=2171478765&perks=202670084,106909392,3418782618,3824105627
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3418782618,4104185692
 dimwishlist:item=2171478765&perks=3250034553,106909392,3038247973,3824105627
-//notes: mixed pvp - Popularity [ CompPvP: 1.12%  QuickPvP: 1.57%  CompCoop: 1.64% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 1.1%  QuickPvP: 1.6%  CompCoop: 1.6% ] 
 dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,47981717
 dimwishlist:item=2171478765&perks=202670084,3142289711,2946784966,1015611457
 dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,47981717
 dimwishlist:item=2171478765&perks=4090651448,3142289711,2946784966,1015611457
 dimwishlist:item=2171478765&perks=202670084,3142289711,2946784966,47981717
 dimwishlist:item=2171478765&perks=4090651448,3142289711,2946784966,47981717
-//notes: pure pve - Popularity [ PvE: 5.03% ] 
+//notes: pure pve - Popularity [ PvE: 5.0% ] 
 dimwishlist:item=2171478765&perks=3250034553,106909392,3418782618,3824105627
 dimwishlist:item=2171478765&perks=3250034553,106909392,3418782618,4104185692
 // weapon: Fatebringer (Timelost)
@@ -13235,14 +13235,14 @@ dimwishlist:item=-834081972&perks=1926090090,1885400500,2846385770,2387244414
 dimwishlist:item=-834081972&perks=1926090090,1885400500,588594999,47981717
 dimwishlist:item=-834081972&perks=1926090090,1885400500,588594999,2387244414
 // weapon: Seventh Seraph Officer Revolver
-//notes: godroll - Popularity [ PvE: 0.33% ] 
+//notes: godroll - Popularity [ PvE: 0.3% ] 
 dimwishlist:item=3037520408&perks=1482024992,106909392,4071163871,2779035018
 dimwishlist:item=3037520408&perks=1482024992,1087426260,4071163871,2779035018
 dimwishlist:item=3037520408&perks=1840239774,106909392,4071163871,2779035018
 dimwishlist:item=3037520408&perks=1840239774,1087426260,4071163871,2779035018
 dimwishlist:item=3037520408&perks=4090651448,106909392,4071163871,2779035018
 dimwishlist:item=3037520408&perks=4090651448,1087426260,4071163871,2779035018
-//notes: mixed pve - Popularity [ PvE: 0.33% ] 
+//notes: mixed pve - Popularity [ PvE: 0.3% ] 
 dimwishlist:item=3037520408&perks=1840239774,2420895100,4071163871,2779035018
 dimwishlist:item=3037520408&perks=4090651448,106909392,4071163871,2213355989
 dimwishlist:item=3037520408&perks=1482024992,2420895100,4071163871,2779035018
@@ -13566,7 +13566,7 @@ dimwishlist:item=-3116356268&perks=202670084,1885400500,957782887,588594999
 dimwishlist:item=-3116356268&perks=202670084,1885400500,957782887,2846385770
 dimwishlist:item=-3116356268&perks=202670084,1885400500,957782887,3161816588
 // weapon: Survivor's Epitaph
-dimwishlist:item=-310708513 no random rolls specified -  Popularity [ CompPvP: 1.21%  QuickPvP: 1.97%  PvE: 0.30%  CompCoop: 0.58% ]
+dimwishlist:item=-310708513 no random rolls specified -  Popularity [ CompPvP: 1.2%  QuickPvP: 2.0%  PvE: 0.3%  CompCoop: 0.6% ]
 // weapon: Ten Paces
 dimwishlist:item=-2112909415 no random rolls specified -  [unpopular weapon]
 // weapon: The Old Fashioned
@@ -13981,7 +13981,7 @@ dimwishlist:item=-1706536806 cannot random roll -  [unpopular weapon]
 // weapon: The Steady Hand
 dimwishlist:item=-1189790632 cannot random roll -  [unpopular weapon]
 // weapon: The Steady Hand
-//notes: godroll - Popularity [ CompPvP: 5.37%  QuickPvP: 3.31%  PvE: 0.18%  CompCoop: 0.29% ] 
+//notes: godroll - Popularity [ CompPvP: 5.4%  QuickPvP: 3.3%  PvE: 0.2%  CompCoop: 0.3% ] 
 dimwishlist:item=2220884262&perks=1926090092,679225683,706527188,3592538738
 dimwishlist:item=2220884262&perks=1926090092,679225683,706527188,4082225868
 dimwishlist:item=2220884262&perks=1926090092,1561002382,706527188,3592538738
@@ -13990,7 +13990,7 @@ dimwishlist:item=2220884262&perks=1926090095,679225683,706527188,3592538738
 dimwishlist:item=2220884262&perks=1926090095,679225683,706527188,4082225868
 dimwishlist:item=2220884262&perks=1926090095,1561002382,706527188,3592538738
 dimwishlist:item=2220884262&perks=1926090095,1561002382,706527188,4082225868
-//notes: mixed pve - Popularity [ PvE: 0.18%  CompCoop: 0.29% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2%  CompCoop: 0.3% ] 
 dimwishlist:item=2220884262&perks=1926090095,3230963543,706527188,3592538738
 dimwishlist:item=2220884262&perks=1926090092,679225683,3161816588,4082225868
 dimwishlist:item=2220884262&perks=1926090092,679225683,1168162263,3592538738
@@ -14073,7 +14073,7 @@ dimwishlist:item=2220884262&perks=1926090094,3230963543,3161816588,4082225868
 dimwishlist:item=2220884262&perks=1926090094,3230963543,3161816588,3592538738
 dimwishlist:item=2220884262&perks=1926090094,2420895100,1168162263,3592538738
 dimwishlist:item=2220884262&perks=1926090094,1087426260,3161816588,4082225868
-//notes: mixed pvp - Popularity [ CompPvP: 5.37%  QuickPvP: 3.31%  CompCoop: 0.29% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 5.4%  QuickPvP: 3.3%  CompCoop: 0.3% ] 
 dimwishlist:item=2220884262&perks=1926090092,679225683,588594999,3592538738
 dimwishlist:item=2220884262&perks=1926090095,1561002382,2450788523,3592538738
 dimwishlist:item=2220884262&perks=1926090095,679225683,2387244414,4082225868
@@ -14204,7 +14204,7 @@ dimwishlist:item=2220884262&perks=1926090093,679225683,2387244414,3513791699
 dimwishlist:item=2220884262&perks=1926090093,679225683,2387244414,957782887
 dimwishlist:item=2220884262&perks=1926090093,679225683,588594999,3513791699
 dimwishlist:item=2220884262&perks=1926090093,1885400500,588594999,3592538738
-//notes: pure pvp - Popularity [ CompPvP: 5.37%  QuickPvP: 3.31% ] 
+//notes: pure pvp - Popularity [ CompPvP: 5.4%  QuickPvP: 3.3% ] 
 dimwishlist:item=2220884262&perks=1926090093,1885400500,588594999,957782887
 dimwishlist:item=2220884262&perks=1926090093,1885400500,588594999,3513791699
 dimwishlist:item=2220884262&perks=1926090093,1885400500,2387244414,957782887
@@ -14212,7 +14212,7 @@ dimwishlist:item=2220884262&perks=1926090093,1885400500,2387244414,3513791699
 dimwishlist:item=2220884262&perks=1926090093,1885400500,2450788523,957782887
 dimwishlist:item=2220884262&perks=1926090093,1885400500,2450788523,3513791699
 // weapon: True Prophecy
-//notes: godroll - Popularity [ CompPvP: 2.18%  QuickPvP: 1.17% ] 
+//notes: godroll - Popularity [ CompPvP: 2.2%  QuickPvP: 1.2% ] 
 dimwishlist:item=2742838700&perks=1926090092,106909392,3643424744,3511092054
 dimwishlist:item=2742838700&perks=1926090092,106909392,3643424744,3523296417
 dimwishlist:item=2742838700&perks=1926090094,106909392,3643424744,3511092054
@@ -14291,7 +14291,7 @@ dimwishlist:item=-2742838700&perks=1926090094,4134353779,1631667848,3425386926
 dimwishlist:item=-2742838700&perks=1926090092,1087426260,2869569095,3425386926
 dimwishlist:item=-2742838700&perks=1926090092,1087426260,1631667848,3425386926
 dimwishlist:item=-2742838700&perks=1926090094,1087426260,2869569095,3425386926
-//notes: mixed pvp - Popularity [ CompPvP: 2.18%  QuickPvP: 1.17% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 2.2%  QuickPvP: 1.2% ] 
 dimwishlist:item=2742838700&perks=1926090094,106909392,2846385770,3523296417
 dimwishlist:item=2742838700&perks=1926090094,3177308360,3643424744,3523296417
 dimwishlist:item=2742838700&perks=1926090092,3142289711,3643424744,3523296417
@@ -14393,7 +14393,7 @@ dimwishlist:item=-2742838700&perks=1926090095,1087426260,1631667848,3425386926
 dimwishlist:item=-2742838700&perks=1926090095,1087426260,2869569095,3425386926
 dimwishlist:item=-2742838700&perks=1926090095,4134353779,1631667848,3425386926
 dimwishlist:item=-2742838700&perks=1926090095,4134353779,2869569095,3425386926
-//notes: pure pvp - Popularity [ CompPvP: 2.18%  QuickPvP: 1.17% ] 
+//notes: pure pvp - Popularity [ CompPvP: 2.2%  QuickPvP: 1.2% ] 
 dimwishlist:item=2742838700&perks=1926090093,3177308360,47981717,3038247973
 dimwishlist:item=2742838700&perks=1926090093,3177308360,47981717,1954620775
 dimwishlist:item=2742838700&perks=1926090093,3177308360,2846385770,3038247973
@@ -14610,7 +14610,7 @@ dimwishlist:item=-48643186&perks=202670084,3142289711,699525795,2846385770
 // weapon: Annual Skate
 dimwishlist:item=-2145476623 cannot random roll -  [unpopular weapon]
 // weapon: Bottom Dollar
-//notes: mixed pve - Popularity [ PvE: 0.21%  CompCoop: 0.66% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2%  CompCoop: 0.7% ] 
 dimwishlist:item=1046651176&perks=1840239774,106909392,247725512,3038247973
 dimwishlist:item=1046651176&perks=1392496348,1087426260,247725512,3038247973
 dimwishlist:item=1046651176&perks=1392496348,106909392,247725512,3038247973
@@ -15043,7 +15043,7 @@ dimwishlist:item=1046651176&perks=1840239774,1087426260,1354429876,2458213969
 dimwishlist:item=1046651176&perks=1840239774,1087426260,1354429876,1683379515
 dimwishlist:item=1046651176&perks=1840239774,1087426260,1354429876,3592538738
 dimwishlist:item=1046651176&perks=1840239774,1087426260,1354429876,2726471870
-//notes: mixed pvp - Popularity [ CompPvP: 1.34%  QuickPvP: 1.58%  CompCoop: 0.66% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 1.3%  QuickPvP: 1.6%  CompCoop: 0.7% ] 
 dimwishlist:item=1046651176&perks=1840239774,3142289711,247725512,3038247973
 dimwishlist:item=1046651176&perks=1392496348,3142289711,247725512,3038247973
 dimwishlist:item=1046651176&perks=3250034553,3142289711,247725512,3038247973
@@ -15125,7 +15125,7 @@ dimwishlist:item=-701922966 cannot random roll -  [unpopular weapon]
 dimwishlist:item=-3813153080&perks=1926090092,1885400500,2039302152,4049631843
 dimwishlist:item=-3813153080&perks=1926090092,1561002382,2039302152,4049631843
 dimwishlist:item=-3813153080&perks=1926090092,1968497646,2039302152,4049631843
-//notes: mixed pvp - Popularity [ QuickPvP: 0.48% ] 
+//notes: mixed pvp - Popularity [ QuickPvP: 0.5% ] 
 dimwishlist:item=3813153080&perks=1926090091,1885400500,2039302152,2458213969
 dimwishlist:item=3813153080&perks=1926090091,1885400500,2039302152,591790007
 dimwishlist:item=3813153080&perks=1926090091,1561002382,2039302152,2458213969
@@ -15133,7 +15133,7 @@ dimwishlist:item=3813153080&perks=1926090091,1561002382,2039302152,591790007
 dimwishlist:item=3813153080&perks=1926090091,1087426260,2039302152,2458213969
 dimwishlist:item=3813153080&perks=1926090091,1087426260,2039302152,591790007
 // weapon: Igneous Hammer
-//notes: mixed pve - Popularity [ PvE: 0.14% ] 
+//notes: mixed pve - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=2351180975&perks=1482024992,2420895100,247725512,4049631843
 dimwishlist:item=2351180975&perks=1840239774,2420895100,247725512,3425386926
 dimwishlist:item=2351180975&perks=1482024992,1087426260,247725512,4049631843
@@ -15162,7 +15162,7 @@ dimwishlist:item=2351180975&perks=4090651448,1087426260,247725512,4049631843
 dimwishlist:item=2351180975&perks=4090651448,1087426260,247725512,3425386926
 dimwishlist:item=2351180975&perks=4090651448,2420895100,247725512,4049631843
 dimwishlist:item=2351180975&perks=4090651448,2420895100,247725512,3425386926
-//notes: mixed pvp - Popularity [ CompPvP: 3.82%  QuickPvP: 2.42% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 3.8%  QuickPvP: 2.4% ] 
 dimwishlist:item=2351180975&perks=1482024992,1885400500,247725512,588594999
 dimwishlist:item=2351180975&perks=1482024992,1885400500,247725512,957782887
 dimwishlist:item=2351180975&perks=1840239774,1561002382,247725512,957782887
@@ -15191,7 +15191,7 @@ dimwishlist:item=2351180975&perks=1840239774,1561002382,2450788523,588594999
 dimwishlist:item=2351180975&perks=1840239774,1561002382,2450788523,957782887
 dimwishlist:item=2351180975&perks=1840239774,1561002382,706527188,588594999
 dimwishlist:item=2351180975&perks=1840239774,1561002382,706527188,957782887
-//notes: pure pve - Popularity [ PvE: 0.14% ] 
+//notes: pure pve - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=2351180975&perks=4090651448,1087426260,1820235745,4049631843
 dimwishlist:item=2351180975&perks=4090651448,1087426260,1820235745,3425386926
 dimwishlist:item=2351180975&perks=4090651448,1087426260,1168162263,4049631843
@@ -15200,7 +15200,7 @@ dimwishlist:item=2351180975&perks=4090651448,2420895100,1820235745,4049631843
 dimwishlist:item=2351180975&perks=4090651448,2420895100,1820235745,3425386926
 dimwishlist:item=2351180975&perks=4090651448,2420895100,1168162263,4049631843
 dimwishlist:item=2351180975&perks=4090651448,2420895100,1168162263,3425386926
-//notes: pure pvp - Popularity [ CompPvP: 3.82%  QuickPvP: 2.42% ] 
+//notes: pure pvp - Popularity [ CompPvP: 3.8%  QuickPvP: 2.4% ] 
 dimwishlist:item=2351180975&perks=3250034553,1885400500,2450788523,588594999
 dimwishlist:item=2351180975&perks=3250034553,1885400500,2450788523,957782887
 dimwishlist:item=2351180975&perks=3250034553,1885400500,706527188,588594999
@@ -15239,7 +15239,7 @@ dimwishlist:item=-2527666306&perks=4090651448,1087426260,247725512,4049631843
 dimwishlist:item=-2527666306&perks=4090651448,1087426260,247725512,3425386926
 dimwishlist:item=-2527666306&perks=4090651448,2420895100,247725512,4049631843
 dimwishlist:item=-2527666306&perks=4090651448,2420895100,247725512,3425386926
-//notes: mixed pvp - Popularity [ CompPvP: 4.61%  QuickPvP: 1.82% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 4.6%  QuickPvP: 1.8% ] 
 dimwishlist:item=2527666306&perks=1482024992,1885400500,247725512,588594999
 dimwishlist:item=2527666306&perks=1482024992,1885400500,247725512,957782887
 dimwishlist:item=2527666306&perks=1840239774,1561002382,247725512,957782887
@@ -15277,7 +15277,7 @@ dimwishlist:item=-2527666306&perks=4090651448,2420895100,1820235745,4049631843
 dimwishlist:item=-2527666306&perks=4090651448,2420895100,1820235745,3425386926
 dimwishlist:item=-2527666306&perks=4090651448,2420895100,1168162263,4049631843
 dimwishlist:item=-2527666306&perks=4090651448,2420895100,1168162263,3425386926
-//notes: pure pvp - Popularity [ CompPvP: 4.61%  QuickPvP: 1.82% ] 
+//notes: pure pvp - Popularity [ CompPvP: 4.6%  QuickPvP: 1.8% ] 
 dimwishlist:item=2527666306&perks=3250034553,1885400500,2450788523,588594999
 dimwishlist:item=2527666306&perks=3250034553,1885400500,2450788523,957782887
 dimwishlist:item=2527666306&perks=3250034553,1885400500,706527188,588594999
@@ -16186,14 +16186,14 @@ dimwishlist:item=-2138599001&perks=4090651448,2420895100,1354429876,3523296417
 dimwishlist:item=-2138599001&perks=4090651448,106909392,1354429876,3523296417
 dimwishlist:item=-2138599001&perks=4090651448,1087426260,1354429876,3523296417
 // weapon: Posterity
-//notes: godroll - Popularity [ PvE: 0.17% ] 
+//notes: godroll - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=3281285075&perks=1482024992,106909392,247725512,3425386926
 dimwishlist:item=3281285075&perks=1482024992,106909392,247725512,3523296417
 dimwishlist:item=3281285075&perks=1840239774,106909392,247725512,3425386926
 dimwishlist:item=3281285075&perks=1840239774,106909392,247725512,3523296417
 dimwishlist:item=3281285075&perks=4090651448,106909392,247725512,3425386926
 dimwishlist:item=3281285075&perks=4090651448,106909392,247725512,3523296417
-//notes: mixed pve - Popularity [ PvE: 0.17% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=3281285075&perks=1482024992,1087426260,247725512,3425386926
 dimwishlist:item=3281285075&perks=4090651448,106909392,1523832109,3523296417
 dimwishlist:item=3281285075&perks=4090651448,106909392,1523832109,3425386926
@@ -16433,7 +16433,7 @@ dimwishlist:item=-3281285075&perks=3250034553,106909392,2450788523,47981717
 dimwishlist:item=-3281285075&perks=1482024992,3142289711,3436462433,47981717
 dimwishlist:item=-3281285075&perks=1482024992,3142289711,2450788523,47981717
 dimwishlist:item=-3281285075&perks=4090651448,3142289711,2450788523,47981717
-//notes: pure pve - Popularity [ PvE: 0.17% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=3281285075&perks=839105230,2420895100,1523832109,4049631843
 dimwishlist:item=3281285075&perks=839105230,2420895100,1523832109,3201496230
 dimwishlist:item=3281285075&perks=839105230,2420895100,1354429876,4049631843
@@ -16454,7 +16454,7 @@ dimwishlist:item=-2145476622 cannot random roll -  [unpopular weapon]
 // weapon: The Defiant
 dimwishlist:item=-2817949113 cannot random roll -  [unpopular weapon]
 // weapon: The Palindrome
-//notes: mixed pve - Popularity [ PvE: 0.16% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=432476743&perks=1840239774,1561002382,3643424744,4049631843
 dimwishlist:item=432476743&perks=1840239774,1885400500,3643424744,2213355989
 dimwishlist:item=432476743&perks=1840239774,1885400500,3643424744,3425386926
@@ -16631,7 +16631,7 @@ dimwishlist:item=432476743&perks=4090651448,2420895100,3643424744,2213355989
 dimwishlist:item=432476743&perks=4090651448,2420895100,3643424744,3425386926
 dimwishlist:item=432476743&perks=4090651448,2420895100,3643424744,2726471870
 dimwishlist:item=432476743&perks=1482024992,1087426260,1168162263,3425386926
-//notes: mixed pvp - Popularity [ CompPvP: 0.26%  QuickPvP: 0.48% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.3%  QuickPvP: 0.5% ] 
 dimwishlist:item=432476743&perks=1840239774,1561002382,3643424744,2846385770
 dimwishlist:item=432476743&perks=1482024992,1885400500,3643424744,2846385770
 dimwishlist:item=432476743&perks=3250034553,1561002382,3643424744,2846385770
@@ -16656,7 +16656,7 @@ dimwishlist:item=432476743&perks=1392496348,1561002382,2450788523,2846385770
 dimwishlist:item=432476743&perks=1392496348,1885400500,706527188,2846385770
 dimwishlist:item=432476743&perks=1392496348,1885400500,2450788523,2846385770
 dimwishlist:item=432476743&perks=1392496348,1561002382,706527188,2846385770
-//notes: pure pve - Popularity [ PvE: 0.16% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=432476743&perks=4090651448,1087426260,1168162263,2213355989
 dimwishlist:item=432476743&perks=4090651448,1087426260,1168162263,3425386926
 dimwishlist:item=432476743&perks=4090651448,1087426260,1168162263,2726471870
@@ -16674,7 +16674,7 @@ dimwishlist:item=432476743&perks=4090651448,2420895100,4252909580,3425386926
 dimwishlist:item=432476743&perks=4090651448,2420895100,4252909580,2726471870
 dimwishlist:item=432476743&perks=4090651448,2420895100,4252909580,4049631843
 // weapon: The Palindrome (Adept)
-//notes: pure pve - Popularity [ PvE: 0.29% ] 
+//notes: pure pve - Popularity [ PvE: 0.3% ] 
 dimwishlist:item=1481892490&perks=1482024992,1885400500,1168162263,2213355989
 dimwishlist:item=1481892490&perks=1482024992,1885400500,1168162263,3425386926
 dimwishlist:item=1481892490&perks=1482024992,1885400500,1168162263,2726471870
@@ -18396,9 +18396,9 @@ dimwishlist:item=-334171687&perks=1926090092,1561002382,2450788523,957782887
 dimwishlist:item=-334171687&perks=1926090092,3230963543,3161816588,957782887
 dimwishlist:item=-334171687&perks=1926090092,3230963543,2846385770,3161816588
 // weapon: Arbalest
-dimwishlist:item=2130065553 cannot random roll -  Popularity [ CompPvP: 0.42% ]
+dimwishlist:item=2130065553 cannot random roll -  Popularity [ CompPvP: 0.4% ]
 // weapon: Sleeper Simulant
-dimwishlist:item=4036115577 cannot random roll -  Popularity [ PvE: 0.17%  CompCoop: 0.27% ]
+dimwishlist:item=4036115577 cannot random roll -  Popularity [ PvE: 0.2%  CompCoop: 0.3% ]
 // weapon: The Queenbreaker
 dimwishlist:item=-2044500762 cannot random roll -  [unpopular weapon]
 // weapon: Corsair's Wrath
@@ -18806,7 +18806,7 @@ dimwishlist:item=-946443267&perks=202670084,689005463,2846385770,3425386926
 // weapon: Man o' War
 dimwishlist:item=-3909683950 cannot random roll -  [unpopular weapon]
 // weapon: Tarantula
-//notes: mixed pve - Popularity [ CompCoop: 0.38% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.4% ] 
 dimwishlist:item=3335343363&perks=3250034553,1483536627,2869569095,3592538738
 dimwishlist:item=3335343363&perks=1840239774,2680121939,2869569095,3592538738
 dimwishlist:item=3335343363&perks=1840239774,2680121939,2779035018,3592538738
@@ -18849,7 +18849,7 @@ dimwishlist:item=3335343363&perks=1482024992,1687452232,2779035018,3592538738
 dimwishlist:item=3335343363&perks=1840239774,2680121939,2779035018,2848615171
 dimwishlist:item=3335343363&perks=1840239774,2680121939,2779035018,1015611457
 dimwishlist:item=3335343363&perks=1840239774,2680121939,2869569095,2848615171
-//notes: mixed pvp - Popularity [ CompCoop: 0.38% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.4% ] 
 dimwishlist:item=3335343363&perks=3250034553,689005463,280464955,3592538738
 dimwishlist:item=3335343363&perks=1840239774,689005463,280464955,3592538738
 dimwishlist:item=3335343363&perks=3250034553,689005463,588594999,3592538738
@@ -18994,11 +18994,11 @@ dimwishlist:item=-3075224551&perks=4090651448,2680121939,3300816228,1546637391
 dimwishlist:item=-3075224551&perks=4090651448,2680121939,247725512,1546637391
 dimwishlist:item=-3075224551&perks=4090651448,2680121939,2284787283,1546637391
 // weapon: Heir Apparent
-dimwishlist:item=2084878005 cannot random roll -  Popularity [ CompPvP: 0.39%  QuickPvP: 0.50%  PvE: 0.14% ]
+dimwishlist:item=2084878005 cannot random roll -  Popularity [ CompPvP: 0.4%  QuickPvP: 0.5%  PvE: 0.1% ]
 // weapon: Thunderlord
 dimwishlist:item=-3325463374 cannot random roll -  [unpopular weapon]
 // weapon: Xenophage
-dimwishlist:item=1395261499 cannot random roll -  Popularity [ PvE: 6.95%  CompCoop: 1.84% ]
+dimwishlist:item=1395261499 cannot random roll -  Popularity [ PvE: 6.9%  CompCoop: 1.8% ]
 // weapon: 21% Delirium
 dimwishlist:item=-1600633250 cannot random roll -  [unpopular weapon]
 // weapon: A Fine Memorial
@@ -19079,12 +19079,12 @@ dimwishlist:item=-3325778512&perks=1482024992,1885400500,588594999,1890422124
 dimwishlist:item=-3325778512&perks=3250034553,679225683,588594999,1890422124
 dimwishlist:item=-3325778512&perks=3250034553,1885400500,588594999,1890422124
 // weapon: Archon's Thunder
-//notes: mixed pve - Popularity [ CompCoop: 0.27% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=1967303408&perks=1482024992,106909392,2869569095,3425386926
 dimwishlist:item=1967303408&perks=1482024992,106909392,3513791699,3425386926
 dimwishlist:item=1967303408&perks=1840239774,106909392,2869569095,3425386926
 dimwishlist:item=1967303408&perks=1840239774,106909392,3513791699,3425386926
-//notes: mixed pvp - Popularity [ QuickPvP: 0.47%  CompCoop: 0.27% ] 
+//notes: mixed pvp - Popularity [ QuickPvP: 0.5%  CompCoop: 0.3% ] 
 dimwishlist:item=1967303408&perks=1482024992,106909392,2846385770,957782887
 // weapon: Avalanche
 //notes: godroll - Popularity [] 
@@ -20591,10 +20591,10 @@ dimwishlist:item=-1496419775&perks=1467527085,1087426260,1890422124,3513791699
 dimwishlist:item=-1496419775&perks=1467527085,1561002382,1890422124,3513791699
 dimwishlist:item=-1496419775&perks=3250034553,1885400500,1890422124,3513791699
 // weapon: Commemoration
-//notes: godroll - Popularity [ CompPvP: 0.16%  QuickPvP: 0.29%  PvE: 0.31% ] 
+//notes: godroll - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3%  PvE: 0.3% ] 
 dimwishlist:item=4230965989&perks=1482024992,106909392,3436462433,3425386926
 dimwishlist:item=4230965989&perks=1840239774,106909392,3436462433,3425386926
-//notes: mixed pve - Popularity [ PvE: 0.31% ] 
+//notes: mixed pve - Popularity [ PvE: 0.3% ] 
 dimwishlist:item=4230965989&perks=1482024992,1087426260,3436462433,3425386926
 dimwishlist:item=4230965989&perks=1840239774,1087426260,3436462433,3425386926
 dimwishlist:item=4230965989&perks=839105230,106909392,3436462433,3425386926
@@ -20657,7 +20657,7 @@ dimwishlist:item=4230965989&perks=839105230,1087426260,2779035018,3425386926
 dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,3425386926
 dimwishlist:item=4230965989&perks=839105230,1087426260,3436462433,2848615171
 dimwishlist:item=4230965989&perks=4090651448,2420895100,3436462433,2848615171
-//notes: mixed pvp - Popularity [ CompPvP: 0.16%  QuickPvP: 0.29% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3% ] 
 dimwishlist:item=4230965989&perks=1840239774,3142289711,3436462433,3425386926
 dimwishlist:item=4230965989&perks=1482024992,106909392,3436462433,699525795
 dimwishlist:item=4230965989&perks=3250034553,106909392,3436462433,3425386926
@@ -20720,7 +20720,7 @@ dimwishlist:item=4230965989&perks=1840239774,3142289711,1359896290,699525795
 dimwishlist:item=4230965989&perks=1840239774,3142289711,2387244414,1645158859
 dimwishlist:item=4230965989&perks=1482024992,3142289711,1359896290,1645158859
 dimwishlist:item=4230965989&perks=3250034553,106909392,2387244414,1645158859
-//notes: pure pve - Popularity [ PvE: 0.31% ] 
+//notes: pure pve - Popularity [ PvE: 0.3% ] 
 dimwishlist:item=4230965989&perks=4090651448,2420895100,2779035018,2848615171
 dimwishlist:item=4230965989&perks=4090651448,2420895100,1523832109,2848615171
 dimwishlist:item=4230965989&perks=4090651448,1087426260,2779035018,2848615171
@@ -20729,7 +20729,7 @@ dimwishlist:item=4230965989&perks=839105230,2420895100,2779035018,2848615171
 dimwishlist:item=4230965989&perks=839105230,2420895100,1523832109,2848615171
 dimwishlist:item=4230965989&perks=839105230,1087426260,2779035018,2848615171
 dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,2848615171
-//notes: pure pvp - Popularity [ CompPvP: 0.16%  QuickPvP: 0.29% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3% ] 
 dimwishlist:item=4230965989&perks=1392496348,3142289711,1359896290,1645158859
 dimwishlist:item=4230965989&perks=1392496348,3142289711,1359896290,699525795
 dimwishlist:item=4230965989&perks=1392496348,3142289711,2387244414,1645158859
@@ -20739,7 +20739,7 @@ dimwishlist:item=4230965989&perks=3250034553,3142289711,1359896290,699525795
 dimwishlist:item=4230965989&perks=3250034553,3142289711,2387244414,1645158859
 dimwishlist:item=4230965989&perks=3250034553,3142289711,2387244414,699525795
 // weapon: Corrective Measure
-//notes: pure pve - Popularity [ PvE: 1.11% ] 
+//notes: pure pve - Popularity [ PvE: 1.1% ] 
 dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,3824105627
 dimwishlist:item=471518543&perks=1840239774,106909392,3523296417,4049631843
 dimwishlist:item=471518543&perks=1840239774,106909392,1820235745,3824105627
@@ -22081,7 +22081,7 @@ dimwishlist:item=-2582755344&perks=1482024992,1885400500,3300816228,3513791699
 dimwishlist:item=-2582755344&perks=1482024992,1885400500,2387244414,3513791699
 dimwishlist:item=-2582755344&perks=1482024992,1885400500,2387244414,47981717
 // weapon: Shattered Cipher
-//notes: mixed pve - Popularity [ PvE: 0.24%  CompCoop: 0.50% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2%  CompCoop: 0.5% ] 
 dimwishlist:item=2434225986&perks=1840239774,2420895100,1570042021,3425386926
 dimwishlist:item=2434225986&perks=1840239774,2420895100,1570042021,3708227201
 dimwishlist:item=2434225986&perks=1840239774,106909392,1570042021,3425386926
@@ -22094,9 +22094,9 @@ dimwishlist:item=2434225986&perks=4090651448,2420895100,1570042021,3425386926
 dimwishlist:item=2434225986&perks=4090651448,2420895100,1570042021,3708227201
 dimwishlist:item=2434225986&perks=4090651448,106909392,1570042021,3425386926
 dimwishlist:item=2434225986&perks=4090651448,106909392,1570042021,3708227201
-//notes: mixed pvp - Popularity [ CompCoop: 0.50% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.5% ] 
 dimwishlist:item=2434225986&perks=839105230,3142289711,1570042021,957782887
-//notes: pure pve - Popularity [ PvE: 0.24% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=2434225986&perks=1840239774,2420895100,3300816228,3425386926
 dimwishlist:item=2434225986&perks=1840239774,2420895100,3300816228,3708227201
 dimwishlist:item=2434225986&perks=1840239774,2420895100,2869569095,3425386926
@@ -23233,11 +23233,11 @@ dimwishlist:item=-1766088024&perks=3250034553,679225683,2450788523,1359896290
 // weapon: Bad Juju
 dimwishlist:item=-2816212794 cannot random roll -  [unpopular weapon]
 // weapon: No Time to Explain
-dimwishlist:item=1594120904 cannot random roll -  Popularity [ CompPvP: 0.56%  QuickPvP: 0.64%  CompCoop: 0.40% ]
+dimwishlist:item=1594120904 cannot random roll -  Popularity [ CompPvP: 0.6%  QuickPvP: 0.6%  CompCoop: 0.4% ]
 // weapon: Outbreak Perfected
-dimwishlist:item=400096939 cannot random roll -  Popularity [ QuickPvP: 0.23% ]
+dimwishlist:item=400096939 cannot random roll -  Popularity [ QuickPvP: 0.2% ]
 // weapon: Vigilance Wing
-dimwishlist:item=3628991659 cannot random roll -  Popularity [ CompPvP: 0.87%  QuickPvP: 0.92% ]
+dimwishlist:item=3628991659 cannot random roll -  Popularity [ CompPvP: 0.9%  QuickPvP: 0.9% ]
 // weapon: Graviton Lance
 dimwishlist:item=-3628991658 cannot random roll -  [unpopular weapon]
 // weapon: Autumn Wind
@@ -23710,7 +23710,7 @@ dimwishlist:item=-568515759&perks=4090651448,679225683,1168162263,3425386926
 dimwishlist:item=-568515759&perks=4090651448,1885400500,1168162263,2213355989
 dimwishlist:item=-568515759&perks=4090651448,1885400500,1168162263,3425386926
 // weapon: Cold Denial
-//notes: godroll - Popularity [ CompPvP: 0.21%  QuickPvP: 0.30%  CompCoop: 0.32% ] 
+//notes: godroll - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3%  CompCoop: 0.3% ] 
 dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,2458213969
 dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,3108830275
 dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,4082225868
@@ -23807,7 +23807,7 @@ dimwishlist:item=1216130969&perks=3661387068,1561002382,2450788523,4082225868
 dimwishlist:item=1216130969&perks=3661387068,1561002382,2779035018,2458213969
 dimwishlist:item=1216130969&perks=3661387068,1561002382,2779035018,3108830275
 dimwishlist:item=1216130969&perks=3661387068,1561002382,2779035018,4082225868
-//notes: mixed pve - Popularity [ CompCoop: 0.32% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,4082225868
 dimwishlist:item=1216130969&perks=1482024992,679225683,2779035018,3350417888
 dimwishlist:item=1216130969&perks=1482024992,3230963543,2450788523,3350417888
@@ -24000,7 +24000,7 @@ dimwishlist:item=1216130969&perks=4090651448,2420895100,2779035018,3350417888
 dimwishlist:item=1216130969&perks=4090651448,1087426260,2779035018,3350417888
 dimwishlist:item=1216130969&perks=1392496348,2420895100,2779035018,3350417888
 dimwishlist:item=1216130969&perks=4090651448,1087426260,2450788523,3350417888
-//notes: mixed pvp - Popularity [ CompPvP: 0.21%  QuickPvP: 0.30%  CompCoop: 0.32% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3%  CompCoop: 0.3% ] 
 dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,699525795
 dimwishlist:item=1216130969&perks=1482024992,679225683,972757866,2458213969
 dimwishlist:item=1216130969&perks=839105230,1561002382,2779035018,3108830275
@@ -25396,7 +25396,7 @@ dimwishlist:item=-2408405461&perks=202670084,1561002382,247725512,957782887
 // weapon: The Marine
 dimwishlist:item=-3529780349 cannot random roll -  [unpopular weapon]
 // weapon: The Messenger
-//notes: mixed pve - Popularity [ PvE: 0.15% ] 
+//notes: mixed pve - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=3658188704&perks=1482024992,2420895100,2450788523,3047969693
 dimwishlist:item=3658188704&perks=1482024992,2420895100,2450788523,1015611457
 dimwishlist:item=3658188704&perks=1482024992,2420895100,247725512,3047969693
@@ -25447,7 +25447,7 @@ dimwishlist:item=3658188704&perks=4090651448,2420895100,2450788523,4049631843
 dimwishlist:item=3658188704&perks=1482024992,2420895100,1168162263,4049631843
 dimwishlist:item=3658188704&perks=1482024992,1087426260,1168162263,4049631843
 dimwishlist:item=3658188704&perks=4090651448,2420895100,1168162263,3047969693
-//notes: mixed pvp - Popularity [ CompPvP: 1.03%  QuickPvP: 0.73% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 1.0%  QuickPvP: 0.7% ] 
 dimwishlist:item=3658188704&perks=1482024992,1885400500,247725512,3047969693
 dimwishlist:item=3658188704&perks=1482024992,1561002382,247725512,3047969693
 dimwishlist:item=3658188704&perks=1482024992,1561002382,247725512,1015611457
@@ -25514,12 +25514,12 @@ dimwishlist:item=3658188704&perks=1482024992,1561002382,588594999,460017080
 dimwishlist:item=3658188704&perks=1482024992,1885400500,588594999,460017080
 dimwishlist:item=3658188704&perks=3661387068,1561002382,247725512,460017080
 dimwishlist:item=3658188704&perks=1467527085,1885400500,2450788523,460017080
-//notes: pure pve - Popularity [ PvE: 0.15% ] 
+//notes: pure pve - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=3658188704&perks=1840239774,1087426260,1168162263,4049631843
 dimwishlist:item=3658188704&perks=1840239774,2420895100,1168162263,4049631843
 dimwishlist:item=3658188704&perks=4090651448,1087426260,1168162263,4049631843
 dimwishlist:item=3658188704&perks=4090651448,2420895100,1168162263,4049631843
-//notes: pure pvp - Popularity [ CompPvP: 1.03%  QuickPvP: 0.73% ] 
+//notes: pure pvp - Popularity [ CompPvP: 1.0%  QuickPvP: 0.7% ] 
 dimwishlist:item=3658188704&perks=3250034553,1885400500,588594999,460017080
 dimwishlist:item=3658188704&perks=3250034553,1561002382,588594999,460017080
 dimwishlist:item=3658188704&perks=1467527085,1885400500,588594999,460017080
@@ -25578,7 +25578,7 @@ dimwishlist:item=-1173780905&perks=4090651448,2420895100,2450788523,4049631843
 dimwishlist:item=-1173780905&perks=1482024992,2420895100,1168162263,4049631843
 dimwishlist:item=-1173780905&perks=1482024992,1087426260,1168162263,4049631843
 dimwishlist:item=-1173780905&perks=4090651448,2420895100,1168162263,3047969693
-//notes: mixed pvp - Popularity [ CompPvP: 0.47% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.5% ] 
 dimwishlist:item=1173780905&perks=1482024992,1885400500,247725512,3047969693
 dimwishlist:item=1173780905&perks=1482024992,1561002382,247725512,3047969693
 dimwishlist:item=1173780905&perks=1482024992,1561002382,247725512,1015611457
@@ -25650,7 +25650,7 @@ dimwishlist:item=-1173780905&perks=1840239774,1087426260,1168162263,4049631843
 dimwishlist:item=-1173780905&perks=1840239774,2420895100,1168162263,4049631843
 dimwishlist:item=-1173780905&perks=4090651448,1087426260,1168162263,4049631843
 dimwishlist:item=-1173780905&perks=4090651448,2420895100,1168162263,4049631843
-//notes: pure pvp - Popularity [ CompPvP: 0.47% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.5% ] 
 dimwishlist:item=1173780905&perks=3250034553,1885400500,588594999,460017080
 dimwishlist:item=1173780905&perks=3250034553,1561002382,588594999,460017080
 dimwishlist:item=1173780905&perks=1467527085,1885400500,588594999,460017080
@@ -25677,7 +25677,7 @@ dimwishlist:item=-3593598010&perks=13792279,1087426260,1820235745,3425386926
 dimwishlist:item=-3593598010&perks=13792279,1087426260,2779035018,3425386926
 dimwishlist:item=-3593598010&perks=13792279,2420895100,1820235745,3425386926
 dimwishlist:item=-3593598010&perks=13792279,2420895100,2779035018,3425386926
-//notes: mixed pvp - Popularity [ CompPvP: 0.19%  QuickPvP: 0.38% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.4% ] 
 dimwishlist:item=3593598010&perks=2405638014,1885400500,588594999,3425386926
 dimwishlist:item=3593598010&perks=2405638014,1885400500,706527188,3425386926
 dimwishlist:item=3593598010&perks=2405638014,1561002382,588594999,3425386926
@@ -25699,7 +25699,7 @@ dimwishlist:item=-3593598010&perks=13792279,1087426260,1820235745,4049631843
 dimwishlist:item=-3593598010&perks=13792279,1087426260,2779035018,4049631843
 dimwishlist:item=-3593598010&perks=13792279,2420895100,1820235745,4049631843
 dimwishlist:item=-3593598010&perks=13792279,2420895100,2779035018,4049631843
-//notes: pure pvp - Popularity [ CompPvP: 0.19%  QuickPvP: 0.38% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.4% ] 
 dimwishlist:item=3593598010&perks=2405638015,1885400500,588594999,11551321
 dimwishlist:item=3593598010&perks=2405638015,1885400500,706527188,11551321
 dimwishlist:item=3593598010&perks=2405638015,1561002382,588594999,11551321
@@ -26191,7 +26191,7 @@ dimwishlist:item=-1280933460&perks=3661387068,1885400500,1168162263,1015611457
 // weapon: Darkest Before
 dimwishlist:item=-325519402 cannot random roll -  [unpopular weapon]
 // weapon: Gridskipper
-//notes: godroll - Popularity [ CompPvP: 0.58%  QuickPvP: 1.17%  PvE: 0.23%  CompCoop: 0.37% ] 
+//notes: godroll - Popularity [ CompPvP: 0.6%  QuickPvP: 1.2%  PvE: 0.2%  CompCoop: 0.4% ] 
 dimwishlist:item=1621558458&perks=1482024992,1885400500,1570042021,2458213969
 dimwishlist:item=1621558458&perks=1482024992,1885400500,1570042021,2213355989
 dimwishlist:item=1621558458&perks=1482024992,1885400500,2450788523,2458213969
@@ -26208,7 +26208,7 @@ dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,2458213969
 dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,2213355989
 dimwishlist:item=1621558458&perks=839105230,1561002382,2450788523,2458213969
 dimwishlist:item=1621558458&perks=839105230,1561002382,2450788523,2213355989
-//notes: mixed pve - Popularity [ PvE: 0.23%  CompCoop: 0.37% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2%  CompCoop: 0.4% ] 
 dimwishlist:item=1621558458&perks=1482024992,1087426260,2450788523,2458213969
 dimwishlist:item=1621558458&perks=839105230,3230963543,2450788523,2213355989
 dimwishlist:item=1621558458&perks=839105230,3230963543,2450788523,2458213969
@@ -26421,7 +26421,7 @@ dimwishlist:item=1621558458&perks=1482024992,3230963543,2039302152,4104185692
 dimwishlist:item=1621558458&perks=1482024992,3230963543,2039302152,2726471870
 dimwishlist:item=1621558458&perks=839105230,1087426260,2946784966,2726471870
 dimwishlist:item=1621558458&perks=1840239774,3230963543,2450788523,2726471870
-//notes: mixed pvp - Popularity [ CompPvP: 0.58%  QuickPvP: 1.17%  CompCoop: 0.37% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.6%  QuickPvP: 1.2%  CompCoop: 0.4% ] 
 dimwishlist:item=1621558458&perks=839105230,1885400500,2450788523,957782887
 dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,2213355989
 dimwishlist:item=1621558458&perks=1482024992,1885400500,588594999,2458213969
@@ -26442,7 +26442,7 @@ dimwishlist:item=1621558458&perks=839105230,1885400500,588594999,957782887
 dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,957782887
 dimwishlist:item=1621558458&perks=1482024992,1561002382,588594999,957782887
 dimwishlist:item=1621558458&perks=1482024992,1885400500,588594999,957782887
-//notes: pure pve - Popularity [ PvE: 0.23% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=1621558458&perks=1840239774,3230963543,2039302152,2726471870
 dimwishlist:item=1621558458&perks=1840239774,3230963543,2039302152,4104185692
 dimwishlist:item=1621558458&perks=1840239774,3230963543,2946784966,2726471870
@@ -28369,7 +28369,7 @@ dimwishlist:item=-159056377 cannot random roll -  [unpopular weapon]
 // weapon: Right Side of Wrong
 dimwishlist:item=-3376406418 no random rolls specified -  [unpopular weapon]
 // weapon: Stars in Shadow
-//notes: godroll - Popularity [ CompPvP: 0.18%  QuickPvP: 0.27% ] 
+//notes: godroll - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3% ] 
 dimwishlist:item=2050789284&perks=1482024992,106909392,1168162263,1015611457
 dimwishlist:item=2050789284&perks=1482024992,106909392,1168162263,1683379515
 dimwishlist:item=2050789284&perks=1392496348,106909392,1168162263,1015611457
@@ -28683,7 +28683,7 @@ dimwishlist:item=-2050789284&perks=839105230,1087426260,2779035018,1015611457
 dimwishlist:item=-2050789284&perks=839105230,1087426260,2779035018,1683379515
 dimwishlist:item=-2050789284&perks=839105230,1087426260,2869569095,1015611457
 dimwishlist:item=-2050789284&perks=839105230,1087426260,2869569095,1683379515
-//notes: mixed pvp - Popularity [ CompPvP: 0.18%  QuickPvP: 0.27% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3% ] 
 dimwishlist:item=2050789284&perks=1467527085,106909392,1168162263,1683379515
 dimwishlist:item=2050789284&perks=3250034553,106909392,1168162263,460017080
 dimwishlist:item=2050789284&perks=1482024992,3177308360,1168162263,1015611457
@@ -28951,7 +28951,7 @@ dimwishlist:item=-2050789284&perks=839105230,1087426260,2869569095,1546637391
 dimwishlist:item=-2050789284&perks=839105230,1087426260,2869569095,2848615171
 dimwishlist:item=-2050789284&perks=839105230,1087426260,2869569095,3523296417
 dimwishlist:item=-2050789284&perks=839105230,1087426260,2869569095,2726471870
-//notes: pure pvp - Popularity [ CompPvP: 0.18%  QuickPvP: 0.27% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3% ] 
 dimwishlist:item=2050789284&perks=1467527085,3177308360,2450788523,588594999
 dimwishlist:item=2050789284&perks=1467527085,3177308360,2450788523,460017080
 dimwishlist:item=2050789284&perks=1467527085,3177308360,3436462433,588594999
@@ -29871,15 +29871,15 @@ dimwishlist:item=-4156253727&perks=1392496348,2420895100,3436462433,2848615171
 dimwishlist:item=-4156253727&perks=1392496348,2420895100,3436462433,2726471870
 dimwishlist:item=-4156253727&perks=1392496348,2420895100,3436462433,4049631843
 // weapon: Deathbringer
-dimwishlist:item=2232171099 cannot random roll -  Popularity [ QuickPvP: 0.27%  PvE: 1.03%  CompCoop: 0.90% ]
+dimwishlist:item=2232171099 cannot random roll -  Popularity [ QuickPvP: 0.3%  PvE: 1.0%  CompCoop: 0.9% ]
 // weapon: Eyes of Tomorrow
-dimwishlist:item=2399110176 cannot random roll -  Popularity [ PvE: 0.20%  CompCoop: 1.35% ]
+dimwishlist:item=2399110176 cannot random roll -  Popularity [ PvE: 0.2%  CompCoop: 1.4% ]
 // weapon: The Wardcliff Coil
-dimwishlist:item=1508896098 cannot random roll -  Popularity [ CompPvP: 1.23%  QuickPvP: 1.38%  PvE: 0.49%  CompCoop: 0.29% ]
+dimwishlist:item=1508896098 cannot random roll -  Popularity [ CompPvP: 1.2%  QuickPvP: 1.4%  PvE: 0.5%  CompCoop: 0.3% ]
 // weapon: Truth
-dimwishlist:item=1201830623 cannot random roll -  Popularity [ CompCoop: 0.78% ]
+dimwishlist:item=1201830623 cannot random roll -  Popularity [ CompCoop: 0.8% ]
 // weapon: Two-Tailed Fox
-dimwishlist:item=2694576561 cannot random roll -  Popularity [ PvE: 0.39%  CompCoop: 0.39% ]
+dimwishlist:item=2694576561 cannot random roll -  Popularity [ PvE: 0.4%  CompCoop: 0.4% ]
 // weapon: Apex Predator
 //notes: pure pve - [unpopular weapon] 
 dimwishlist:item=-2545083870&perks=3525010810,2822142346,3977735242,957782887
@@ -29887,7 +29887,7 @@ dimwishlist:item=-2545083870&perks=3525010810,2822142346,3977735242,3300816228
 dimwishlist:item=-2545083870&perks=1441682018,2822142346,3977735242,957782887
 dimwishlist:item=-2545083870&perks=1441682018,2822142346,3977735242,3300816228
 // weapon: Bad Omens
-//notes: godroll - Popularity [ CompPvP: 0.31%  QuickPvP: 0.42%  PvE: 0.50%  CompCoop: 1.72% ] 
+//notes: godroll - Popularity [ CompPvP: 0.3%  QuickPvP: 0.4%  PvE: 0.5%  CompCoop: 1.7% ] 
 dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761
 dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761
 dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761
@@ -29900,7 +29900,7 @@ dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761
 dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761
 dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,1275731761
 dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,1275731761
-//notes: mixed pve - Popularity [ PvE: 0.50%  CompCoop: 1.72% ] 
+//notes: mixed pve - Popularity [ PvE: 0.5%  CompCoop: 1.7% ] 
 dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,1275731761
 dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,1015611457
 dimwishlist:item=991314988&perks=1441682018,3492396210,3300816228,1275731761
@@ -29961,7 +29961,7 @@ dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,3096702027
 dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,1015611457
 dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,3096702027
 dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,1015611457
-//notes: mixed pvp - Popularity [ CompPvP: 0.31%  QuickPvP: 0.42%  CompCoop: 1.72% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.3%  QuickPvP: 0.4%  CompCoop: 1.7% ] 
 dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,706527188
 dimwishlist:item=991314988&perks=1441682018,2822142346,957782887,1275731761
 dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,706527188
@@ -30128,7 +30128,7 @@ dimwishlist:item=-1392429335 cannot random roll -  [unpopular weapon]
 // weapon: Classical-42
 dimwishlist:item=-2149166938 cannot random roll -  [unpopular weapon]
 // weapon: Code Duello
-//notes: mixed pve - Popularity [ PvE: 0.51%  CompCoop: 0.71% ] 
+//notes: mixed pve - Popularity [ PvE: 0.5%  CompCoop: 0.7% ] 
 dimwishlist:item=2496242052&perks=981914802,3796465595,951095735,2396489472
 dimwishlist:item=2496242052&perks=981914802,3796465595,3300816228,1275731761
 dimwishlist:item=2496242052&perks=3525010810,3796465595,951095735,2396489472
@@ -30213,14 +30213,14 @@ dimwishlist:item=2496242052&perks=981914802,2985827016,951095735,4104185692
 dimwishlist:item=2496242052&perks=3798852852,3796465595,3300816228,3927722942
 dimwishlist:item=2496242052&perks=981914802,2985827016,951095735,3927722942
 dimwishlist:item=2496242052&perks=3798852852,3796465595,951095735,3927722942
-//notes: mixed pvp - Popularity [ CompPvP: 0.26%  QuickPvP: 0.38%  CompCoop: 0.71% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.3%  QuickPvP: 0.4%  CompCoop: 0.7% ] 
 dimwishlist:item=2496242052&perks=3525010810,3796465595,706527188,1275731761
 dimwishlist:item=2496242052&perks=3525010810,3796465595,706527188,2396489472
 dimwishlist:item=2496242052&perks=981914802,3796465595,706527188,1275731761
 dimwishlist:item=2496242052&perks=981914802,3796465595,706527188,2396489472
 dimwishlist:item=2496242052&perks=1478423395,3796465595,706527188,1275731761
 dimwishlist:item=2496242052&perks=1478423395,3796465595,706527188,2396489472
-//notes: pure pve - Popularity [ PvE: 0.51% ] 
+//notes: pure pve - Popularity [ PvE: 0.5% ] 
 dimwishlist:item=2496242052&perks=3798852852,2985827016,3300816228,4104185692
 dimwishlist:item=2496242052&perks=3798852852,2985827016,3300816228,3927722942
 dimwishlist:item=2496242052&perks=3798852852,2985827016,2869569095,4104185692
@@ -30468,7 +30468,7 @@ dimwishlist:item=-3067821200&perks=981914802,2985827016,2869569095,1015611457
 dimwishlist:item=-3067821200&perks=3809316345,2985827016,2869569095,3927722942
 dimwishlist:item=-3067821200&perks=3809316345,2985827016,2869569095,1015611457
 // weapon: Hezen Vengeance
-//notes: pure pve - Popularity [ PvE: 1.43% ] 
+//notes: pure pve - Popularity [ PvE: 1.4% ] 
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,1275731761
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3523296417
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3927722942
@@ -30869,7 +30869,7 @@ dimwishlist:item=-308332265&perks=1478423395,2822142346,957782887,706527188
 dimwishlist:item=-308332265&perks=1478423395,1996142143,957782887,706527188
 dimwishlist:item=-308332265&perks=1478423395,2985827016,957782887,706527188
 // weapon: Royal Entry
-//notes: mixed pve - Popularity [ PvE: 0.43%  CompCoop: 0.68% ] 
+//notes: mixed pve - Popularity [ PvE: 0.4%  CompCoop: 0.7% ] 
 dimwishlist:item=2448907086&perks=981914802,3796465595,2869569095,2396489472
 dimwishlist:item=2448907086&perks=981914802,3796465595,951095735,2396489472
 dimwishlist:item=2448907086&perks=3525010810,3796465595,2869569095,2396489472
@@ -30930,7 +30930,7 @@ dimwishlist:item=2448907086&perks=3798852852,3796465595,951095735,3927722942
 dimwishlist:item=2448907086&perks=981914802,2985827016,2869569095,2284787283
 dimwishlist:item=2448907086&perks=981914802,2985827016,2869569095,3927722942
 dimwishlist:item=2448907086&perks=3798852852,3796465595,2869569095,3927722942
-//notes: mixed pvp - Popularity [ CompCoop: 0.68% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.7% ] 
 dimwishlist:item=2448907086&perks=3525010810,3796465595,706527188,2396489472
 dimwishlist:item=2448907086&perks=981914802,3796465595,706527188,2396489472
 dimwishlist:item=2448907086&perks=3525010810,3796465595,706527188,1275731761
@@ -30940,7 +30940,7 @@ dimwishlist:item=2448907086&perks=981914802,3796465595,706527188,3592538738
 dimwishlist:item=2448907086&perks=1478423395,3796465595,706527188,2396489472
 dimwishlist:item=2448907086&perks=1478423395,3796465595,706527188,1275731761
 dimwishlist:item=2448907086&perks=1478423395,3796465595,706527188,3592538738
-//notes: pure pve - Popularity [ PvE: 0.43% ] 
+//notes: pure pve - Popularity [ PvE: 0.4% ] 
 dimwishlist:item=2448907086&perks=3798852852,2985827016,951095735,2284787283
 dimwishlist:item=2448907086&perks=3798852852,2985827016,951095735,3927722942
 dimwishlist:item=2448907086&perks=3798852852,2985827016,3300816228,2284787283
@@ -31116,7 +31116,7 @@ dimwishlist:item=-3740842661&perks=1441682018,2985827016,3300816228,1275731761
 dimwishlist:item=-3740842661&perks=1441682018,2985827016,2869569095,1546637391
 dimwishlist:item=-3740842661&perks=1441682018,2985827016,2869569095,1275731761
 // weapon: Subzero Salvo
-//notes: mixed pve - Popularity [ CompCoop: 0.34% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=42351395&perks=3525010810,3796465595,706527188,2726471870
 dimwishlist:item=42351395&perks=3798852852,3796465595,706527188,2726471870
 dimwishlist:item=42351395&perks=3798852852,3796465595,706527188,1275731761
@@ -31186,7 +31186,7 @@ dimwishlist:item=42351395&perks=3798852852,2985827016,2010801679,3523296417
 dimwishlist:item=42351395&perks=3798852852,2985827016,706527188,2396489472
 dimwishlist:item=42351395&perks=3798852852,3796465595,2010801679,2396489472
 dimwishlist:item=42351395&perks=3525010810,2985827016,2450788523,2396489472
-//notes: mixed pvp - Popularity [ CompCoop: 0.34% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=42351395&perks=981914802,3796465595,706527188,3523296417
 dimwishlist:item=42351395&perks=981914802,3796465595,706527188,2726471870
 dimwishlist:item=42351395&perks=981914802,3796465595,706527188,1275731761
@@ -31232,14 +31232,14 @@ dimwishlist:item=-4041111172 cannot random roll -  [unpopular weapon]
 // weapon: Tiebreaker
 dimwishlist:item=-2792181427 cannot random roll -  [unpopular weapon]
 // weapon: Tomorrow's Answer
-//notes: godroll - Popularity [ CompPvP: 0.32%  QuickPvP: 0.26%  PvE: 0.13% ] 
+//notes: godroll - Popularity [ CompPvP: 0.3%  QuickPvP: 0.3%  PvE: 0.1% ] 
 dimwishlist:item=958384347&perks=1441682018,3796465595,951095735,1275731761
 dimwishlist:item=958384347&perks=1441682018,3796465595,3977735242,1275731761
 dimwishlist:item=958384347&perks=1844523823,3796465595,951095735,1275731761
 dimwishlist:item=958384347&perks=1844523823,3796465595,3977735242,1275731761
 dimwishlist:item=958384347&perks=1478423395,3796465595,951095735,1275731761
 dimwishlist:item=958384347&perks=1478423395,3796465595,3977735242,1275731761
-//notes: mixed pve - Popularity [ PvE: 0.13% ] 
+//notes: mixed pve - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=958384347&perks=1478423395,3796465595,3977735242,2284787283
 dimwishlist:item=958384347&perks=1478423395,2985827016,3977735242,1275731761
 dimwishlist:item=958384347&perks=3809316345,3796465595,3977735242,1275731761
@@ -31642,7 +31642,7 @@ dimwishlist:item=958384347&perks=3798852852,3796465595,3300816228,1683379515
 dimwishlist:item=958384347&perks=3798852852,3796465595,3300816228,2284787283
 dimwishlist:item=958384347&perks=3798852852,3796465595,3300816228,2396489472
 dimwishlist:item=958384347&perks=3798852852,3796465595,3300816228,3927722942
-//notes: mixed pvp - Popularity [ CompPvP: 0.32%  QuickPvP: 0.26% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.3%  QuickPvP: 0.3% ] 
 dimwishlist:item=958384347&perks=1441682018,3796465595,951095735,957782887
 dimwishlist:item=958384347&perks=1441682018,3796465595,3977735242,957782887
 dimwishlist:item=958384347&perks=1441682018,3796465595,588594999,1275731761
@@ -31655,7 +31655,7 @@ dimwishlist:item=958384347&perks=1478423395,3796465595,588594999,1275731761
 dimwishlist:item=958384347&perks=1844523823,3796465595,588594999,957782887
 dimwishlist:item=958384347&perks=1441682018,3796465595,588594999,957782887
 dimwishlist:item=958384347&perks=1478423395,3796465595,588594999,957782887
-//notes: pure pve - Popularity [ PvE: 0.13% ] 
+//notes: pure pve - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=958384347&perks=3798852852,2822142346,3300816228,3927722942
 dimwishlist:item=958384347&perks=3798852852,2822142346,3300816228,2396489472
 dimwishlist:item=958384347&perks=3798852852,2822142346,3300816228,2284787283
@@ -32112,7 +32112,7 @@ dimwishlist:item=-3776129137&perks=1478423395,1996142143,3300816228,1015611457
 // weapon: Zenobia-D
 dimwishlist:item=-1411084669 cannot random roll -  [unpopular weapon]
 // weapon: Dead Man's Tale
-//notes: mixed pve - Popularity [ PvE: 0.28%  CompCoop: 1.18% ] 
+//notes: mixed pve - Popularity [ PvE: 0.3%  CompCoop: 1.2% ] 
 dimwishlist:item=3654674561&perks=1392496348,1561002382,1168162263,3465198467
 dimwishlist:item=3654674561&perks=1840239774,1561002382,1546637391,1067908860
 dimwishlist:item=3654674561&perks=1840239774,1561002382,1168162263,1067908860
@@ -32248,7 +32248,7 @@ dimwishlist:item=3654674561&perks=4090651448,3230963543,1546637391,1067908860
 dimwishlist:item=3654674561&perks=4090651448,3230963543,1546637391,3465198467
 dimwishlist:item=3654674561&perks=4090651448,3230963543,1168162263,1067908860
 dimwishlist:item=3654674561&perks=4090651448,1561002382,1546637391,990298390
-//notes: mixed pvp - Popularity [ CompPvP: 4.06%  QuickPvP: 2.76%  CompCoop: 1.18% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 4.1%  QuickPvP: 2.8%  CompCoop: 1.2% ] 
 dimwishlist:item=3654674561&perks=1392496348,1561002382,588594999,1067908860
 dimwishlist:item=3654674561&perks=1840239774,1561002382,588594999,1067908860
 dimwishlist:item=3654674561&perks=1840239774,1561002382,588594999,3465198467
@@ -32321,7 +32321,7 @@ dimwishlist:item=3654674561&perks=3250034553,1885400500,957782887,3465198467
 dimwishlist:item=3654674561&perks=3250034553,1885400500,957782887,1067908860
 dimwishlist:item=3654674561&perks=3250034553,1885400500,588594999,3465198467
 dimwishlist:item=3654674561&perks=3250034553,3142289711,2450788523,3465198467
-//notes: pure pve - Popularity [ PvE: 0.28% ] 
+//notes: pure pve - Popularity [ PvE: 0.3% ] 
 dimwishlist:item=3654674561&perks=4090651448,679225683,1354429876,990298390
 dimwishlist:item=3654674561&perks=4090651448,679225683,1546637391,990298390
 dimwishlist:item=3654674561&perks=4090651448,679225683,1168162263,990298390
@@ -32332,9 +32332,9 @@ dimwishlist:item=3654674561&perks=4090651448,3230963543,1354429876,990298390
 dimwishlist:item=3654674561&perks=4090651448,3230963543,1546637391,990298390
 dimwishlist:item=3654674561&perks=4090651448,3230963543,1168162263,990298390
 // weapon: MIDA Multi-Tool
-dimwishlist:item=1331482397 cannot random roll -  Popularity [ CompPvP: 0.63%  QuickPvP: 0.55% ]
+dimwishlist:item=1331482397 cannot random roll -  Popularity [ CompPvP: 0.6%  QuickPvP: 0.6% ]
 // weapon: The Jade Rabbit
-dimwishlist:item=3844694310 cannot random roll -  Popularity [ CompPvP: 0.32%  QuickPvP: 0.37% ]
+dimwishlist:item=3844694310 cannot random roll -  Popularity [ CompPvP: 0.3%  QuickPvP: 0.4% ]
 // weapon: Polaris Lance
 dimwishlist:item=-3413074534 cannot random roll -  [unpopular weapon]
 // weapon: Skyburner's Oath
@@ -32501,16 +32501,16 @@ dimwishlist:item=-3435238843 cannot random roll -  [unpopular weapon]
 // weapon: Haunted Earth
 dimwishlist:item=-2625782212 cannot random roll -  [unpopular weapon]
 // weapon: Hung Jury SR4
-//notes: mixed pve - Popularity [ PvE: 1.78%  CompCoop: 1.15% ] 
+//notes: mixed pve - Popularity [ PvE: 1.8%  CompCoop: 1.2% ] 
 dimwishlist:item=4281371574&perks=1482024992,106909392,1820235745,3824105627
 dimwishlist:item=4281371574&perks=1482024992,106909392,1820235745,4049631843
 dimwishlist:item=4281371574&perks=1482024992,106909392,1820235745,3038247973
 dimwishlist:item=4281371574&perks=1840239774,106909392,1820235745,3824105627
 dimwishlist:item=4281371574&perks=1840239774,106909392,1820235745,4049631843
 dimwishlist:item=4281371574&perks=1840239774,106909392,1820235745,3038247973
-//notes: mixed pvp - Popularity [ CompPvP: 0.19%  QuickPvP: 0.31%  CompCoop: 1.15% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3%  CompCoop: 1.2% ] 
 dimwishlist:item=4281371574&perks=3250034553,3142289711,1820235745,2551157718
-//notes: pure pve - Popularity [ PvE: 1.78% ] 
+//notes: pure pve - Popularity [ PvE: 1.8% ] 
 dimwishlist:item=4281371574&perks=1482024992,106909392,247725512,3824105627
 dimwishlist:item=4281371574&perks=1482024992,106909392,247725512,4049631843
 dimwishlist:item=4281371574&perks=1482024992,106909392,247725512,3038247973
@@ -32886,10 +32886,10 @@ dimwishlist:item=-3040742682&perks=2405638015,2420895100,3400784728,3038247973
 // weapon: Niflheim Frost
 dimwishlist:item=-1350102270 cannot random roll -  [unpopular weapon]
 // weapon: Night Watch
-//notes: godroll - Popularity [ CompPvP: 0.31%  QuickPvP: 0.48%  PvE: 1.86%  CompCoop: 2.05% ] 
+//notes: godroll - Popularity [ CompPvP: 0.3%  QuickPvP: 0.5%  PvE: 1.9%  CompCoop: 2.1% ] 
 dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3038247973
 dimwishlist:item=3504336176&perks=839105230,106909392,1168162263,3038247973
-//notes: mixed pve - Popularity [ PvE: 1.86%  CompCoop: 2.05% ] 
+//notes: mixed pve - Popularity [ PvE: 1.9%  CompCoop: 2.1% ] 
 dimwishlist:item=3504336176&perks=839105230,1087426260,247725512,3038247973
 dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3425386926
 dimwishlist:item=3504336176&perks=1840239774,106909392,247725512,3038247973
@@ -32938,7 +32938,7 @@ dimwishlist:item=3504336176&perks=1840239774,106909392,1820235745,3425386926
 dimwishlist:item=3504336176&perks=839105230,1087426260,1820235745,2458213969
 dimwishlist:item=3504336176&perks=839105230,1087426260,1820235745,3425386926
 dimwishlist:item=3504336176&perks=1840239774,106909392,1820235745,2458213969
-//notes: mixed pvp - Popularity [ CompPvP: 0.31%  QuickPvP: 0.48%  CompCoop: 2.05% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.3%  QuickPvP: 0.5%  CompCoop: 2.1% ] 
 dimwishlist:item=3504336176&perks=1467527085,106909392,247725512,3038247973
 dimwishlist:item=3504336176&perks=839105230,3230963543,1168162263,3038247973
 dimwishlist:item=3504336176&perks=839105230,3230963543,247725512,3038247973
@@ -32985,7 +32985,7 @@ dimwishlist:item=3504336176&perks=1467527085,3230963543,1168162263,588594999
 dimwishlist:item=3504336176&perks=1467527085,3230963543,1168162263,3523296417
 dimwishlist:item=3504336176&perks=1467527085,3230963543,247725512,588594999
 dimwishlist:item=3504336176&perks=1467527085,3230963543,247725512,3523296417
-//notes: pure pve - Popularity [ PvE: 1.86% ] 
+//notes: pure pve - Popularity [ PvE: 1.9% ] 
 dimwishlist:item=3504336176&perks=1840239774,1087426260,1820235745,2458213969
 dimwishlist:item=3504336176&perks=1840239774,1087426260,1820235745,3425386926
 dimwishlist:item=3504336176&perks=3661387068,1087426260,1820235745,2458213969
@@ -33928,10 +33928,10 @@ dimwishlist:item=-2625782213 cannot random roll -  [unpopular weapon]
 dimwishlist:item=-2034817450&perks=3250034553,3142289711,1168162263,3038247973
 dimwishlist:item=-2034817450&perks=1467527085,3142289711,1168162263,3038247973
 // weapon: Eternal Blazon
-//notes: godroll - Popularity [ PvE: 0.15%  CompCoop: 0.25% ] 
+//notes: godroll - Popularity [ PvE: 0.1%  CompCoop: 0.3% ] 
 dimwishlist:item=3514096004&perks=1628165636,1885400500,247725512,1015611457
 dimwishlist:item=3514096004&perks=1628165636,1561002382,247725512,1015611457
-//notes: mixed pve - Popularity [ PvE: 0.15%  CompCoop: 0.25% ] 
+//notes: mixed pve - Popularity [ PvE: 0.1%  CompCoop: 0.3% ] 
 dimwishlist:item=3514096004&perks=1628165636,1885400500,247725512,2726471870
 dimwishlist:item=3514096004&perks=1628165636,1885400500,247725512,1683379515
 dimwishlist:item=3514096004&perks=1628165636,1885400500,247725512,4049631843
@@ -34086,7 +34086,7 @@ dimwishlist:item=3514096004&perks=194952923,2420895100,247725512,4049631843
 dimwishlist:item=3514096004&perks=1628165636,1087426260,3643424744,2726471870
 dimwishlist:item=3514096004&perks=194952923,2420895100,3643424744,1015611457
 dimwishlist:item=3514096004&perks=194952923,1561002382,3643424744,2726471870
-//notes: mixed pvp - Popularity [ CompCoop: 0.25% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=3514096004&perks=1628165637,1885400500,247725512,1015611457
 dimwishlist:item=3514096004&perks=194952922,1885400500,247725512,1015611457
 dimwishlist:item=3514096004&perks=1628165636,1885400500,247725512,2846385770
@@ -34121,7 +34121,7 @@ dimwishlist:item=3514096004&perks=1628165637,1561002382,2450788523,2846385770
 dimwishlist:item=3514096004&perks=1628165637,1885400500,2450788523,2846385770
 dimwishlist:item=3514096004&perks=1628165637,1885400500,706527188,2846385770
 dimwishlist:item=3514096004&perks=194952922,1561002382,2450788523,2846385770
-//notes: pure pve - Popularity [ PvE: 0.15% ] 
+//notes: pure pve - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=3514096004&perks=1409978308,1087426260,3643424744,2726471870
 dimwishlist:item=3514096004&perks=1409978308,1087426260,3643424744,1683379515
 dimwishlist:item=3514096004&perks=1409978308,1087426260,3643424744,4049631843
@@ -34887,10 +34887,10 @@ dimwishlist:item=-1825472717 cannot random roll -  [unpopular weapon]
 // weapon: Tone Patrol
 dimwishlist:item=-1885753223 cannot random roll -  [unpopular weapon]
 // weapon: Trustee
-//notes: godroll - Popularity [ CompPvP: 0.19%  QuickPvP: 0.23%  PvE: 0.75%  CompCoop: 0.34% ] 
+//notes: godroll - Popularity [ CompPvP: 0.2%  QuickPvP: 0.2%  PvE: 0.8%  CompCoop: 0.3% ] 
 dimwishlist:item=1392919471&perks=1482024992,106909392,3436462433,3592538738
 dimwishlist:item=1392919471&perks=1840239774,106909392,3436462433,3592538738
-//notes: mixed pve - Popularity [ PvE: 0.75%  CompCoop: 0.34% ] 
+//notes: mixed pve - Popularity [ PvE: 0.8%  CompCoop: 0.3% ] 
 dimwishlist:item=1392919471&perks=1482024992,106909392,1523832109,3592538738
 dimwishlist:item=1392919471&perks=1840239774,1087426260,3436462433,3592538738
 dimwishlist:item=1392919471&perks=1840239774,106909392,1523832109,3592538738
@@ -34981,7 +34981,7 @@ dimwishlist:item=1392919471&perks=1482024992,2420895100,1168162263,2213355989
 dimwishlist:item=1392919471&perks=839105230,1087426260,3436462433,2213355989
 dimwishlist:item=1392919471&perks=839105230,1087426260,3436462433,3201496230
 dimwishlist:item=1392919471&perks=839105230,106909392,1168162263,3201496230
-//notes: mixed pvp - Popularity [ CompPvP: 0.19%  QuickPvP: 0.23%  CompCoop: 0.34% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.2%  CompCoop: 0.3% ] 
 dimwishlist:item=1392919471&perks=1840239774,3142289711,3436462433,3592538738
 dimwishlist:item=1392919471&perks=1482024992,106909392,3436462433,47981717
 dimwishlist:item=1392919471&perks=3250034553,106909392,3436462433,3592538738
@@ -35044,7 +35044,7 @@ dimwishlist:item=1392919471&perks=1840239774,3142289711,2387244414,47981717
 dimwishlist:item=1392919471&perks=1840239774,3142289711,2450788523,699525795
 dimwishlist:item=1392919471&perks=1482024992,3142289711,2387244414,699525795
 dimwishlist:item=1392919471&perks=3250034553,106909392,2450788523,699525795
-//notes: pure pve - Popularity [ PvE: 0.75% ] 
+//notes: pure pve - Popularity [ PvE: 0.8% ] 
 dimwishlist:item=1392919471&perks=4090651448,2420895100,1168162263,2213355989
 dimwishlist:item=1392919471&perks=4090651448,2420895100,1168162263,3201496230
 dimwishlist:item=1392919471&perks=4090651448,2420895100,1523832109,2213355989
@@ -35061,7 +35061,7 @@ dimwishlist:item=1392919471&perks=839105230,1087426260,1168162263,2213355989
 dimwishlist:item=1392919471&perks=839105230,1087426260,1168162263,3201496230
 dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109,2213355989
 dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109,3201496230
-//notes: pure pvp - Popularity [ CompPvP: 0.19%  QuickPvP: 0.23% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.2% ] 
 dimwishlist:item=1392919471&perks=1392496348,3142289711,2387244414,699525795
 dimwishlist:item=1392919471&perks=1392496348,3142289711,2387244414,47981717
 dimwishlist:item=1392919471&perks=1392496348,3142289711,2450788523,699525795
@@ -35073,7 +35073,7 @@ dimwishlist:item=1392919471&perks=3250034553,3142289711,2450788523,47981717
 // weapon: Vacuna SR4
 dimwishlist:item=-1159252500 cannot random roll -  [unpopular weapon]
 // weapon: Vision of Confluence
-//notes: pure pve - Popularity [ PvE: 2.83% ] 
+//notes: pure pve - Popularity [ PvE: 2.8% ] 
 dimwishlist:item=3186018373&perks=1840239774,1885400500,3418782618,4104185692
 dimwishlist:item=3186018373&perks=1840239774,1885400500,3418782618,1683379515
 dimwishlist:item=3186018373&perks=1840239774,1885400500,3418782618,3824105627
@@ -36540,9 +36540,9 @@ dimwishlist:item=-3242168339&perks=3661387068,1087426260,2010801679,1168162263
 dimwishlist:item=-3242168339&perks=3661387068,1087426260,2010801679,3400784728
 dimwishlist:item=-3242168339&perks=3661387068,1087426260,2010801679,2848615171
 // weapon: The Chaperone
-dimwishlist:item=3413860062 cannot random roll -  Popularity [ CompPvP: 1.89%  QuickPvP: 1.35% ]
+dimwishlist:item=3413860062 cannot random roll -  Popularity [ CompPvP: 1.9%  QuickPvP: 1.3% ]
 // weapon: Duality
-dimwishlist:item=3460576091 cannot random roll -  Popularity [ CompPvP: 0.49%  QuickPvP: 0.71% ]
+dimwishlist:item=3460576091 cannot random roll -  Popularity [ CompPvP: 0.5%  QuickPvP: 0.7% ]
 // weapon: Lord of Wolves
 dimwishlist:item=-3413860063 cannot random roll -  [unpopular weapon]
 // weapon: The Fourth Horseman
@@ -36552,7 +36552,7 @@ dimwishlist:item=-1744115122 cannot random roll -  [unpopular weapon]
 // weapon: Legend of Acrius
 dimwishlist:item=-3580904580 cannot random roll -  [unpopular weapon]
 // weapon: Tractor Cannon
-dimwishlist:item=3580904581 cannot random roll -  Popularity [ PvE: 0.13% ]
+dimwishlist:item=3580904581 cannot random roll -  Popularity [ PvE: 0.1% ]
 // weapon: Astral Horizon
 //notes: mixed pve - [unpopular weapon] 
 dimwishlist:item=-1697682876&perks=1482024992,791862061,3300816228,3511092054
@@ -36841,7 +36841,7 @@ dimwishlist:item=-3461377698&perks=1300023272,791862061,2117683199,1168162263
 dimwishlist:item=-3461377698&perks=1300023272,791862061,4071163871,3300816228
 dimwishlist:item=-3461377698&perks=1300023272,791862061,4071163871,1168162263
 // weapon: Blasphemer
-//notes: pure pve - Popularity [ PvE: 0.17% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=2782847179&perks=1482024992,106909392,3436462433,4082225868
 dimwishlist:item=2782847179&perks=1482024992,106909392,3436462433,3425386926
 dimwishlist:item=2782847179&perks=1482024992,106909392,1354429876,4082225868
@@ -37047,7 +37047,7 @@ dimwishlist:item=-1807343361&perks=1300023272,106909392,2869569095,3708227201
 dimwishlist:item=-1807343361&perks=1482024992,679225683,2869569095,3708227201
 dimwishlist:item=-1807343361&perks=1482024992,106909392,2869569095,3708227201
 // weapon: Heritage
-//notes: mixed pve - Popularity [ PvE: 3.32%  CompCoop: 1.07% ] 
+//notes: mixed pve - Popularity [ PvE: 3.3%  CompCoop: 1.1% ] 
 dimwishlist:item=4248569242&perks=839105230,106909392,1168162263,2726471870
 dimwishlist:item=4248569242&perks=4090651448,791862061,3161816588,2726471870
 dimwishlist:item=4248569242&perks=4090651448,791862061,3161816588,469285294
@@ -37140,7 +37140,7 @@ dimwishlist:item=4248569242&perks=1482024992,106909392,1523832109,469285294
 dimwishlist:item=4248569242&perks=1482024992,106909392,3300816228,2726471870
 dimwishlist:item=4248569242&perks=1482024992,106909392,3300816228,469285294
 dimwishlist:item=4248569242&perks=1840239774,1087426260,1523832109,2726471870
-//notes: mixed pvp - Popularity [ CompCoop: 1.07% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 1.1% ] 
 dimwishlist:item=4248569242&perks=839105230,106909392,1168162263,588594999
 dimwishlist:item=4248569242&perks=1840239774,106909392,1168162263,957782887
 dimwishlist:item=4248569242&perks=1840239774,106909392,1168162263,2450788523
@@ -37195,7 +37195,7 @@ dimwishlist:item=4248569242&perks=1840239774,106909392,1866048759,957782887
 dimwishlist:item=4248569242&perks=839105230,791862061,1866048759,588594999
 dimwishlist:item=4248569242&perks=839105230,791862061,1866048759,957782887
 dimwishlist:item=4248569242&perks=4090651448,791862061,1866048759,2450788523
-//notes: pure pve - Popularity [ PvE: 3.32% ] 
+//notes: pure pve - Popularity [ PvE: 3.3% ] 
 dimwishlist:item=4248569242&perks=1482024992,1087426260,3300816228,469285294
 dimwishlist:item=4248569242&perks=1482024992,1087426260,3300816228,2726471870
 dimwishlist:item=4248569242&perks=1482024992,1087426260,1523832109,469285294
@@ -37782,7 +37782,7 @@ dimwishlist:item=-3393519051&perks=1332244541,3142289711,3523296417,3425386926
 // weapon: Perfect Paradox
 dimwishlist:item=-2248667690 cannot random roll -  [unpopular weapon]
 // weapon: Riiswalker
-//notes: pure pvp - Popularity [ CompPvP: 3.45%  QuickPvP: 4.74% ] 
+//notes: pure pvp - Popularity [ CompPvP: 3.4%  QuickPvP: 4.7% ] 
 dimwishlist:item=108221785&perks=4090651448,3142289711,706527188,2450788523
 dimwishlist:item=108221785&perks=4090651448,3142289711,706527188,591790007
 dimwishlist:item=108221785&perks=4090651448,3142289711,2039302152,2450788523
@@ -38002,7 +38002,7 @@ dimwishlist:item=-1664372054&perks=1482024992,106909392,2360754333,4071163871
 dimwishlist:item=-1664372054&perks=1482024992,1087426260,3708227201,4071163871
 dimwishlist:item=-1664372054&perks=1482024992,1087426260,2360754333,4071163871
 // weapon: Toil and Trouble
-//notes: mixed pve - Popularity [ PvE: 0.15%  CompCoop: 0.62% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2%  CompCoop: 0.6% ] 
 dimwishlist:item=2957367743&perks=4090651448,791862061,2117683199,3300816228
 dimwishlist:item=2957367743&perks=1300023272,791862061,3161816588,1168162263
 dimwishlist:item=2957367743&perks=1300023272,791862061,3161816588,3300816228
@@ -38039,7 +38039,7 @@ dimwishlist:item=2957367743&perks=4090651448,106909392,3161816588,3300816228
 dimwishlist:item=2957367743&perks=4090651448,106909392,2117683199,3425386926
 dimwishlist:item=2957367743&perks=4090651448,106909392,2117683199,1168162263
 dimwishlist:item=2957367743&perks=4090651448,106909392,2117683199,3300816228
-//notes: mixed pvp - Popularity [ CompPvP: 0.68%  QuickPvP: 0.81%  CompCoop: 0.62% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.7%  QuickPvP: 0.8%  CompCoop: 0.6% ] 
 dimwishlist:item=2957367743&perks=1047830412,791862061,3161816588,588594999
 dimwishlist:item=2957367743&perks=1332244541,791862061,3161816588,588594999
 dimwishlist:item=2957367743&perks=1332244541,791862061,2117683199,957782887
@@ -38060,7 +38060,7 @@ dimwishlist:item=2957367743&perks=1332244541,791862061,4071163871,588594999
 dimwishlist:item=2957367743&perks=1332244541,791862061,4071163871,957782887
 dimwishlist:item=2957367743&perks=1047830412,3142289711,2117683199,957782887
 dimwishlist:item=2957367743&perks=1047830412,3142289711,2117683199,588594999
-//notes: pure pvp - Popularity [ CompPvP: 0.68%  QuickPvP: 0.81% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.7%  QuickPvP: 0.8% ] 
 dimwishlist:item=2957367743&perks=1047830412,3142289711,4071163871,588594999
 dimwishlist:item=2957367743&perks=1047830412,3142289711,4071163871,957782887
 dimwishlist:item=2957367743&perks=1332244541,3142289711,4071163871,588594999
@@ -38412,16 +38412,16 @@ dimwishlist:item=-3861448240&perks=1047830412,3142289711,957782887,3425386926
 dimwishlist:item=-3861448240&perks=1047830412,3142289711,957782887,47981717
 dimwishlist:item=-3861448240&perks=1047830412,3142289711,957782887,3161816588
 // weapon: Felwinter's Lie
-dimwishlist:item=1179141605 cannot random roll -  Popularity [ CompPvP: 7.37%  QuickPvP: 5.52%  PvE: 0.20%  CompCoop: 0.51% ]
+dimwishlist:item=1179141605 cannot random roll -  Popularity [ CompPvP: 7.4%  QuickPvP: 5.5%  PvE: 0.2%  CompCoop: 0.5% ]
 // weapon: First In, Last Out
 dimwishlist:item=-515224227 cannot random roll -  [unpopular weapon]
 // weapon: First In, Last Out
-//notes: godroll - Popularity [ CompPvP: 0.20%  QuickPvP: 0.35%  PvE: 1.83%  CompCoop: 0.56% ] 
+//notes: godroll - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3%  PvE: 1.8%  CompCoop: 0.6% ] 
 dimwishlist:item=3616586446&perks=1482024992,791862061,1168162263,1546637391
 dimwishlist:item=3616586446&perks=1482024992,791862061,1168162263,3523296417
 dimwishlist:item=3616586446&perks=1840239774,791862061,1168162263,1546637391
 dimwishlist:item=3616586446&perks=1840239774,791862061,1168162263,3523296417
-//notes: mixed pve - Popularity [ PvE: 1.83%  CompCoop: 0.56% ] 
+//notes: mixed pve - Popularity [ PvE: 1.8%  CompCoop: 0.6% ] 
 dimwishlist:item=3616586446&perks=839105230,791862061,1168162263,3523296417
 dimwishlist:item=3616586446&perks=1840239774,1087426260,1168162263,1546637391
 dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,3523296417
@@ -38486,7 +38486,7 @@ dimwishlist:item=3616586446&perks=3250034553,106909392,3300816228,1546637391
 dimwishlist:item=3616586446&perks=1482024992,1087426260,3300816228,3708227201
 dimwishlist:item=3616586446&perks=1482024992,106909392,3300816228,3708227201
 dimwishlist:item=3616586446&perks=3250034553,1087426260,1168162263,3708227201
-//notes: mixed pvp - Popularity [ CompPvP: 0.20%  QuickPvP: 0.35%  CompCoop: 0.56% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3%  CompCoop: 0.6% ] 
 dimwishlist:item=3616586446&perks=4090651448,791862061,1168162263,3523296417
 dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,1546637391
 dimwishlist:item=3616586446&perks=1840239774,3142289711,1168162263,1546637391
@@ -38551,25 +38551,25 @@ dimwishlist:item=3616586446&perks=202670084,3142289711,3161816588,1546637391
 dimwishlist:item=3616586446&perks=1482024992,3142289711,1866048759,47981717
 dimwishlist:item=3616586446&perks=1482024992,3142289711,3161816588,47981717
 dimwishlist:item=3616586446&perks=202670084,791862061,3161816588,47981717
-//notes: pure pve - Popularity [ PvE: 1.83% ] 
+//notes: pure pve - Popularity [ PvE: 1.8% ] 
 dimwishlist:item=3616586446&perks=3250034553,106909392,3300816228,3708227201
 dimwishlist:item=3616586446&perks=3250034553,1087426260,3300816228,3708227201
 dimwishlist:item=3616586446&perks=839105230,106909392,3300816228,3708227201
 dimwishlist:item=3616586446&perks=839105230,1087426260,3300816228,3708227201
-//notes: pure pvp - Popularity [ CompPvP: 0.20%  QuickPvP: 0.35% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.3% ] 
 dimwishlist:item=3616586446&perks=202670084,3142289711,3161816588,47981717
 dimwishlist:item=3616586446&perks=202670084,3142289711,1866048759,47981717
 dimwishlist:item=3616586446&perks=4090651448,3142289711,3161816588,47981717
 dimwishlist:item=3616586446&perks=4090651448,3142289711,1866048759,47981717
 // weapon: Found Verdict
-//notes: mixed pve - Popularity [ PvE: 0.93%  CompCoop: 0.49% ] 
+//notes: mixed pve - Popularity [ PvE: 0.9%  CompCoop: 0.5% ] 
 dimwishlist:item=3197270240&perks=1047830412,791862061,3300816228,1546637391
 dimwishlist:item=3197270240&perks=1047830412,791862061,3300816228,4104185692
 dimwishlist:item=3197270240&perks=1047830412,791862061,3300816228,2679249093
 dimwishlist:item=3197270240&perks=1047830412,791862061,3418782618,1546637391
 dimwishlist:item=3197270240&perks=1047830412,791862061,3418782618,4104185692
 dimwishlist:item=3197270240&perks=1047830412,791862061,3418782618,2679249093
-//notes: mixed pvp - Popularity [ CompPvP: 2.36%  QuickPvP: 2.16%  CompCoop: 0.49% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 2.4%  QuickPvP: 2.2%  CompCoop: 0.5% ] 
 dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1047830412,791862061,3436462433,47981717
 dimwishlist:item=3197270240&perks=1047830412,791862061,3436462433,2450788523
@@ -38586,7 +38586,7 @@ dimwishlist:item=3197270240&perks=1482024992,791862061,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1482024992,791862061,3161816588,47981717
 dimwishlist:item=3197270240&perks=1482024992,791862061,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1482024992,791862061,3436462433,47981717
-//notes: pure pvp - Popularity [ CompPvP: 2.36%  QuickPvP: 2.16% ] 
+//notes: pure pvp - Popularity [ CompPvP: 2.4%  QuickPvP: 2.2% ] 
 dimwishlist:item=3197270240&perks=1300023272,3142289711,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1300023272,3142289711,3161816588,47981717
 dimwishlist:item=3197270240&perks=1300023272,3142289711,3436462433,2450788523
@@ -39302,7 +39302,7 @@ dimwishlist:item=-755130877&perks=1482024992,791862061,1631667848,2679249093
 dimwishlist:item=-755130877&perks=1047830412,679225683,47981717,4082225868
 dimwishlist:item=-755130877&perks=1047830412,3142289711,47981717,4082225868
 // weapon: Mindbender's Ambition
-//notes: godroll - Popularity [ CompPvP: 0.20%  QuickPvP: 0.23% ] 
+//notes: godroll - Popularity [ CompPvP: 0.2%  QuickPvP: 0.2% ] 
 dimwishlist:item=4117693024&perks=1482024992,791862061,3161816588,706527188
 dimwishlist:item=4117693024&perks=1482024992,791862061,3161816588,3425386926
 //notes: mixed pve - [unpopular weapon] 
@@ -39377,7 +39377,7 @@ dimwishlist:item=-4117693024&perks=4090651448,106909392,4071163871,3425386926
 dimwishlist:item=-4117693024&perks=4090651448,106909392,4071163871,706527188
 dimwishlist:item=-4117693024&perks=4090651448,106909392,972757866,3425386926
 dimwishlist:item=-4117693024&perks=4090651448,1087426260,972757866,3425386926
-//notes: mixed pvp - Popularity [ CompPvP: 0.20%  QuickPvP: 0.23% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.2% ] 
 dimwishlist:item=4117693024&perks=1047830412,791862061,3161816588,706527188
 dimwishlist:item=4117693024&perks=1332244541,791862061,3161816588,706527188
 dimwishlist:item=4117693024&perks=1482024992,791862061,3161816588,588594999
@@ -39419,7 +39419,7 @@ dimwishlist:item=-4117693024&perks=1300023272,106909392,972757866,3300816228
 dimwishlist:item=-4117693024&perks=1300023272,106909392,4071163871,3300816228
 dimwishlist:item=-4117693024&perks=1300023272,1087426260,972757866,3300816228
 dimwishlist:item=-4117693024&perks=1300023272,1087426260,4071163871,3300816228
-//notes: pure pvp - Popularity [ CompPvP: 0.20%  QuickPvP: 0.23% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.2% ] 
 dimwishlist:item=4117693024&perks=1047830412,3142289711,957782887,588594999
 dimwishlist:item=4117693024&perks=1332244541,3142289711,957782887,588594999
 // weapon: Motion to Vacate
@@ -39650,7 +39650,7 @@ dimwishlist:item=-838556752 cannot random roll -  [unpopular weapon]
 // weapon: Quitclaim Shotgun III
 dimwishlist:item=-2478247171 cannot random roll -  [unpopular weapon]
 // weapon: Retold Tale
-//notes: godroll - Popularity [ CompPvP: 0.43%  QuickPvP: 0.46% ] 
+//notes: godroll - Popularity [ CompPvP: 0.4%  QuickPvP: 0.5% ] 
 dimwishlist:item=346136302&perks=1047830412,3142289711,706527188,3523296417
 dimwishlist:item=346136302&perks=1047830412,791862061,706527188,3523296417
 //notes: mixed pve - [unpopular weapon] 
@@ -39808,7 +39808,7 @@ dimwishlist:item=-346136302&perks=1047830412,106909392,3436462433,2117683199
 dimwishlist:item=-346136302&perks=1047830412,106909392,3436462433,2679249093
 dimwishlist:item=-346136302&perks=1047830412,106909392,3436462433,1546637391
 dimwishlist:item=-346136302&perks=4090651448,791862061,1556840489,2117683199
-//notes: mixed pvp - Popularity [ CompPvP: 0.43%  QuickPvP: 0.46% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.4%  QuickPvP: 0.5% ] 
 dimwishlist:item=346136302&perks=1047830412,791862061,706527188,2450788523
 dimwishlist:item=346136302&perks=1332244541,3142289711,706527188,3523296417
 dimwishlist:item=346136302&perks=1047830412,3142289711,3161816588,3523296417
@@ -39877,7 +39877,7 @@ dimwishlist:item=-346136302&perks=1482024992,1087426260,1556840489,1546637391
 dimwishlist:item=-346136302&perks=1482024992,1087426260,1556840489,2679249093
 dimwishlist:item=-346136302&perks=1482024992,1087426260,1556840489,2117683199
 // weapon: Retrofuturist
-//notes: mixed pve - Popularity [ CompCoop: 0.28% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=1402766122&perks=4090651448,791862061,2779035018,4082225868
 dimwishlist:item=1402766122&perks=4090651448,791862061,25606670,4082225868
 dimwishlist:item=1402766122&perks=1300023272,791862061,2779035018,4082225868
@@ -39890,7 +39890,7 @@ dimwishlist:item=1402766122&perks=1300023272,2420895100,2779035018,4082225868
 dimwishlist:item=1402766122&perks=1300023272,2420895100,25606670,4082225868
 dimwishlist:item=1402766122&perks=1300023272,791862061,2779035018,2360754333
 dimwishlist:item=1402766122&perks=1300023272,791862061,25606670,2360754333
-//notes: mixed pvp - Popularity [ CompPvP: 0.28%  QuickPvP: 0.46%  CompCoop: 0.28% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.3%  QuickPvP: 0.5%  CompCoop: 0.3% ] 
 dimwishlist:item=1402766122&perks=1047830412,791862061,706527188,4082225868
 dimwishlist:item=1402766122&perks=1332244541,791862061,706527188,4082225868
 dimwishlist:item=1402766122&perks=1047830412,3142289711,706527188,4082225868
@@ -39902,16 +39902,16 @@ dimwishlist:item=-1402766122&perks=4090651448,2420895100,2779035018,2360754333
 dimwishlist:item=-1402766122&perks=4090651448,2420895100,25606670,2360754333
 dimwishlist:item=-1402766122&perks=1300023272,2420895100,2779035018,2360754333
 dimwishlist:item=-1402766122&perks=1300023272,2420895100,25606670,2360754333
-//notes: pure pvp - Popularity [ CompPvP: 0.28%  QuickPvP: 0.46% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.3%  QuickPvP: 0.5% ] 
 dimwishlist:item=1402766122&perks=1047830412,3142289711,706527188,957782887
 dimwishlist:item=1402766122&perks=1332244541,3142289711,706527188,957782887
 // weapon: Retrofuturist
 dimwishlist:item=-1325579289 cannot random roll -  [unpopular weapon]
 // weapon: Seventh Seraph CQC-12
-//notes: godroll - Popularity [ CompPvP: 1.22%  QuickPvP: 1.54%  PvE: 0.15%  CompCoop: 0.37% ] 
+//notes: godroll - Popularity [ CompPvP: 1.2%  QuickPvP: 1.5%  PvE: 0.2%  CompCoop: 0.4% ] 
 dimwishlist:item=1821724780&perks=1482024992,106909392,3161816588,1546637391
 dimwishlist:item=1821724780&perks=1482024992,791862061,3161816588,1546637391
-//notes: mixed pve - Popularity [ PvE: 0.15%  CompCoop: 0.37% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2%  CompCoop: 0.4% ] 
 dimwishlist:item=1821724780&perks=4090651448,791862061,3161816588,1546637391
 dimwishlist:item=1821724780&perks=4090651448,106909392,3161816588,1546637391
 dimwishlist:item=1821724780&perks=1482024992,106909392,3300816228,1546637391
@@ -39960,7 +39960,7 @@ dimwishlist:item=1821724780&perks=4090651448,1087426260,3300816228,1546637391
 dimwishlist:item=1821724780&perks=4090651448,106909392,1556840489,2360754333
 dimwishlist:item=1821724780&perks=4090651448,106909392,3300816228,2360754333
 dimwishlist:item=1821724780&perks=4090651448,1087426260,3161816588,2360754333
-//notes: mixed pvp - Popularity [ CompPvP: 1.22%  QuickPvP: 1.54%  CompCoop: 0.37% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 1.2%  QuickPvP: 1.5%  CompCoop: 0.4% ] 
 dimwishlist:item=1821724780&perks=1482024992,3142289711,3161816588,1546637391
 dimwishlist:item=1821724780&perks=1482024992,791862061,706527188,1546637391
 dimwishlist:item=1821724780&perks=1332244541,791862061,3161816588,1546637391
@@ -39993,16 +39993,16 @@ dimwishlist:item=1821724780&perks=1047830412,106909392,706527188,957782887
 dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,1546637391
 dimwishlist:item=1821724780&perks=1332244541,791862061,706527188,957782887
 dimwishlist:item=1821724780&perks=1047830412,3142289711,3161816588,957782887
-//notes: pure pve - Popularity [ PvE: 0.15% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=1821724780&perks=4090651448,1087426260,3300816228,2360754333
 dimwishlist:item=1821724780&perks=4090651448,1087426260,1556840489,2360754333
 dimwishlist:item=1821724780&perks=1300023272,1087426260,3300816228,2360754333
 dimwishlist:item=1821724780&perks=1300023272,1087426260,1556840489,2360754333
-//notes: pure pvp - Popularity [ CompPvP: 1.22%  QuickPvP: 1.54% ] 
+//notes: pure pvp - Popularity [ CompPvP: 1.2%  QuickPvP: 1.5% ] 
 dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,957782887
 dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,957782887
 // weapon: Sojourner's Tale
-//notes: mixed pve - Popularity [ PvE: 0.43%  CompCoop: 0.57% ] 
+//notes: mixed pve - Popularity [ PvE: 0.4%  CompCoop: 0.6% ] 
 dimwishlist:item=599895591&perks=3250034553,3142289711,706527188,3708227201
 dimwishlist:item=599895591&perks=3250034553,3142289711,706527188,4104185692
 dimwishlist:item=599895591&perks=3250034553,3142289711,3300816228,3708227201
@@ -40011,7 +40011,7 @@ dimwishlist:item=599895591&perks=3250034553,791862061,706527188,3708227201
 dimwishlist:item=599895591&perks=3250034553,791862061,706527188,4104185692
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,3708227201
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,4104185692
-//notes: mixed pvp - Popularity [ CompPvP: 0.29%  QuickPvP: 0.59%  CompCoop: 0.57% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.3%  QuickPvP: 0.6%  CompCoop: 0.6% ] 
 dimwishlist:item=599895591&perks=3250034553,3142289711,706527188,47981717
 // weapon: Somerled-D
 dimwishlist:item=-2703340117 cannot random roll -  [unpopular weapon]
@@ -40342,7 +40342,7 @@ dimwishlist:item=-2891672170&perks=1332244541,3142289711,2039302152,3523296417
 // weapon: Zenith of Your Kind
 dimwishlist:item=-2707464805 cannot random roll -  [unpopular weapon]
 // weapon: Cryosthesia 77K
-dimwishlist:item=603721696 cannot random roll -  Popularity [ CompPvP: 0.23%  QuickPvP: 0.89%  PvE: 0.14%  CompCoop: 1.54% ]
+dimwishlist:item=603721696 cannot random roll -  Popularity [ CompPvP: 0.2%  QuickPvP: 0.9%  PvE: 0.1%  CompCoop: 1.5% ]
 // weapon: Rat King
 dimwishlist:item=-2362471601 cannot random roll -  [unpopular weapon]
 // weapon: Traveler's Chosen
@@ -40834,7 +40834,7 @@ dimwishlist:item=-1723380073&perks=445755704,1885400500,2387244414,2846385770
 // weapon: Enigma's Draw
 dimwishlist:item=-2581162758 cannot random roll -  [unpopular weapon]
 // weapon: Farewell
-//notes: mixed pve - Popularity [ CompCoop: 0.49% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.5% ] 
 dimwishlist:item=541188001&perks=1482024992,106909392,4267945040,4104185692
 dimwishlist:item=541188001&perks=4090651448,106909392,4267945040,4104185692
 dimwishlist:item=541188001&perks=4090651448,3142289711,4267945040,4104185692
@@ -40875,7 +40875,7 @@ dimwishlist:item=541188001&perks=839105230,1087426260,4267945040,4104185692
 dimwishlist:item=541188001&perks=839105230,3142289711,1820235745,4104185692
 dimwishlist:item=541188001&perks=1482024992,3230963543,1570042021,4104185692
 dimwishlist:item=541188001&perks=839105230,3142289711,1570042021,4104185692
-//notes: mixed pvp - Popularity [ CompCoop: 0.49% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.5% ] 
 dimwishlist:item=541188001&perks=4090651448,3142289711,4267945040,2726471870
 dimwishlist:item=541188001&perks=1482024992,106909392,4267945040,2726471870
 dimwishlist:item=541188001&perks=4090651448,106909392,4267945040,2726471870
@@ -41140,7 +41140,7 @@ dimwishlist:item=-1197486957&perks=4090651448,3142289711,2450788523,957782887
 // weapon: Last of the Legion
 dimwishlist:item=-2084611899 cannot random roll -  [unpopular weapon]
 // weapon: Lonesome
-//notes: mixed pve - Popularity [ CompCoop: 0.49% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.5% ] 
 dimwishlist:item=2199171672&perks=1840239774,3230963543,2387244414,1015611457
 dimwishlist:item=2199171672&perks=1392496348,3230963543,2387244414,1015611457
 dimwishlist:item=2199171672&perks=1392496348,3230963543,2387244414,3523296417
@@ -41249,7 +41249,7 @@ dimwishlist:item=2199171672&perks=1392496348,3230963543,2387244414,4082225868
 dimwishlist:item=2199171672&perks=839105230,1431678320,4267945040,4082225868
 dimwishlist:item=2199171672&perks=839105230,1431678320,1168162263,1015611457
 dimwishlist:item=2199171672&perks=839105230,1431678320,1168162263,3523296417
-//notes: mixed pvp - Popularity [ CompPvP: 0.16%  QuickPvP: 0.22%  CompCoop: 0.49% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.2%  CompCoop: 0.5% ] 
 dimwishlist:item=2199171672&perks=3250034553,1561002382,2387244414,3523296417
 dimwishlist:item=2199171672&perks=3250034553,679225683,2387244414,1015611457
 dimwishlist:item=2199171672&perks=3250034553,679225683,2387244414,3523296417
@@ -41359,7 +41359,7 @@ dimwishlist:item=-2199171672&perks=839105230,1431678320,247725512,2458213969
 dimwishlist:item=-2199171672&perks=839105230,1431678320,247725512,4082225868
 dimwishlist:item=-2199171672&perks=839105230,1431678320,1168162263,2458213969
 dimwishlist:item=-2199171672&perks=839105230,1431678320,1168162263,4082225868
-//notes: pure pvp - Popularity [ CompPvP: 0.16%  QuickPvP: 0.22% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.2% ] 
 dimwishlist:item=2199171672&perks=3250034553,679225683,1631667848,47981717
 dimwishlist:item=2199171672&perks=3250034553,1885400500,1631667848,47981717
 dimwishlist:item=2199171672&perks=3250034553,1561002382,1631667848,47981717
@@ -41922,7 +41922,7 @@ dimwishlist:item=-3751622019&perks=445755704,3142289711,588594999,2846385770
 // weapon: Death by Scorn
 dimwishlist:item=-3334276333 cannot random roll -  [unpopular weapon]
 // weapon: Drang
-dimwishlist:item=2362471600 cannot random roll -  Popularity [ CompPvP: 0.21% ]
+dimwishlist:item=2362471600 cannot random roll -  Popularity [ CompPvP: 0.2% ]
 // weapon: Drang (Baroque)
 //notes: godroll - Popularity [] 
 dimwishlist:item=79075821&perks=3250034553,1885400500,706527188,4082225868
@@ -42779,7 +42779,7 @@ dimwishlist:item=-1084788061 cannot random roll -  [unpopular weapon]
 // weapon: The Fool's Remedy
 dimwishlist:item=-3424403076 cannot random roll -  [unpopular weapon]
 // weapon: The Fool's Remedy
-//notes: godroll - Popularity [ QuickPvP: 0.23% ] 
+//notes: godroll - Popularity [ QuickPvP: 0.2% ] 
 dimwishlist:item=65611680&perks=445755706,679225683,2779035018,1015611457
 dimwishlist:item=65611680&perks=445755706,679225683,2779035018,706527188
 dimwishlist:item=65611680&perks=445755706,3230963543,2779035018,1015611457
@@ -42871,7 +42871,7 @@ dimwishlist:item=-65611680&perks=445755705,1087426260,1354429876,1015611457
 dimwishlist:item=-65611680&perks=445755705,1087426260,1820235745,706527188
 dimwishlist:item=-65611680&perks=445755705,1087426260,1820235745,1015611457
 dimwishlist:item=-65611680&perks=445755705,2420895100,1354429876,706527188
-//notes: mixed pvp - Popularity [ QuickPvP: 0.23% ] 
+//notes: mixed pvp - Popularity [ QuickPvP: 0.2% ] 
 dimwishlist:item=65611680&perks=445755707,3230963543,588594999,706527188
 dimwishlist:item=65611680&perks=445755707,679225683,972757866,706527188
 dimwishlist:item=65611680&perks=445755707,679225683,972757866,1015611457
@@ -43136,7 +43136,7 @@ dimwishlist:item=65611680&perks=445755704,679225683,1866048759,699525795
 dimwishlist:item=65611680&perks=445755707,1561002382,588594999,699525795
 dimwishlist:item=65611680&perks=445755704,679225683,1866048759,4152709778
 dimwishlist:item=65611680&perks=445755704,679225683,1866048759,2846385770
-//notes: pure pvp - Popularity [ QuickPvP: 0.23% ] 
+//notes: pure pvp - Popularity [ QuickPvP: 0.2% ] 
 dimwishlist:item=65611680&perks=445755704,1561002382,1866048759,2846385770
 dimwishlist:item=65611680&perks=445755704,1561002382,1866048759,4152709778
 dimwishlist:item=65611680&perks=445755704,1561002382,1866048759,699525795
@@ -43179,7 +43179,7 @@ dimwishlist:item=-409551876&perks=4090651448,2420895100,247725512,2726471870
 dimwishlist:item=-409551876&perks=4090651448,2420895100,247725512,4049631843
 dimwishlist:item=-409551876&perks=3250034553,1087426260,3436462433,2726471870
 dimwishlist:item=-409551876&perks=4090651448,2420895100,3436462433,2458213969
-//notes: mixed pvp - Popularity [ CompPvP: 0.17%  QuickPvP: 0.24% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.2% ] 
 dimwishlist:item=409551876&perks=3250034553,1561002382,247725512,2458213969
 dimwishlist:item=409551876&perks=3250034553,1885400500,247725512,2458213969
 dimwishlist:item=409551876&perks=3250034553,1885400500,247725512,3592538738
@@ -43237,7 +43237,7 @@ dimwishlist:item=-409551876&perks=4090651448,1087426260,3436462433,2726471870
 dimwishlist:item=-409551876&perks=4090651448,1087426260,3436462433,4049631843
 dimwishlist:item=-409551876&perks=4090651448,2420895100,3436462433,2726471870
 dimwishlist:item=-409551876&perks=4090651448,2420895100,3436462433,4049631843
-//notes: pure pvp - Popularity [ CompPvP: 0.17%  QuickPvP: 0.24% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.2% ] 
 dimwishlist:item=409551876&perks=1482024992,1885400500,588594999,3592538738
 dimwishlist:item=409551876&perks=1482024992,1885400500,588594999,957782887
 dimwishlist:item=409551876&perks=1482024992,1885400500,588594999,2387244414
@@ -43263,7 +43263,7 @@ dimwishlist:item=409551876&perks=1392496348,1561002382,2450788523,3592538738
 dimwishlist:item=409551876&perks=1392496348,1561002382,2450788523,957782887
 dimwishlist:item=409551876&perks=1392496348,1561002382,2450788523,2387244414
 // weapon: The Last Dance
-//notes: mixed pve - Popularity [ CompCoop: 0.30% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=2009277538&perks=445755706,2420895100,4267945040,1015611457
 dimwishlist:item=2009277538&perks=445755706,2420895100,4267945040,2848615171
 dimwishlist:item=2009277538&perks=445755711,1087426260,4267945040,2848615171
@@ -43288,7 +43288,7 @@ dimwishlist:item=2009277538&perks=445755706,2420895100,1168162263,2848615171
 dimwishlist:item=2009277538&perks=445755706,2420895100,1168162263,1015611457
 dimwishlist:item=2009277538&perks=445755711,1087426260,1168162263,1015611457
 dimwishlist:item=2009277538&perks=445755711,1087426260,1168162263,2848615171
-//notes: mixed pvp - Popularity [ CompPvP: 0.27%  QuickPvP: 0.24%  CompCoop: 0.30% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.3%  QuickPvP: 0.2%  CompCoop: 0.3% ] 
 dimwishlist:item=2009277538&perks=445755705,1561002382,4267945040,47981717
 dimwishlist:item=2009277538&perks=445755711,1885400500,4267945040,1890422124
 dimwishlist:item=2009277538&perks=445755711,1885400500,4267945040,2846385770
@@ -43330,12 +43330,12 @@ dimwishlist:item=-3967155859 cannot random roll -  [unpopular weapon]
 // weapon: The Rattler
 dimwishlist:item=-1911843788 cannot random roll -  [unpopular weapon]
 // weapon: The Vision
-//notes: mixed pve - Popularity [ CompCoop: 0.28% ] 
+//notes: mixed pve - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=2414141462&perks=445755706,106909392,2010801679,4082225868
 dimwishlist:item=2414141462&perks=445755706,106909392,2010801679,4049631843
 dimwishlist:item=2414141462&perks=445755706,1087426260,2010801679,4082225868
 dimwishlist:item=2414141462&perks=445755706,1087426260,2010801679,4049631843
-//notes: mixed pvp - Popularity [ CompCoop: 0.28% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.3% ] 
 dimwishlist:item=2414141462&perks=445755706,3142289711,2450788523,1015611457
 dimwishlist:item=2414141462&perks=445755706,3142289711,3436462433,1015611457
 //notes: pure pve - [unpopular weapon] 
@@ -43663,11 +43663,11 @@ dimwishlist:item=-1533499362 cannot random roll -  [unpopular weapon]
 // weapon: Vestian Dynasty
 dimwishlist:item=-3334276332 cannot random roll -  [unpopular weapon]
 // weapon: Izanagi's Burden
-dimwishlist:item=3211806999 cannot random roll -  Popularity [ PvE: 0.22%  CompCoop: 0.24% ]
+dimwishlist:item=3211806999 cannot random roll -  Popularity [ PvE: 0.2%  CompCoop: 0.2% ]
 // weapon: Borealis
 dimwishlist:item=-3141979347 cannot random roll -  [unpopular weapon]
 // weapon: Cloudstrike
-dimwishlist:item=2603483885 cannot random roll -  Popularity [ CompPvP: 0.32%  QuickPvP: 0.33% ]
+dimwishlist:item=2603483885 cannot random roll -  Popularity [ CompPvP: 0.3%  QuickPvP: 0.3% ]
 // weapon: D.A.R.C.I.
 dimwishlist:item=-3141979346 cannot random roll -  [unpopular weapon]
 // weapon: Whisper of the Worm
@@ -43797,12 +43797,12 @@ dimwishlist:item=-3169616514&perks=839105230,106909392,957782887,588594999
 // weapon: Dreaded Venture
 dimwishlist:item=-3100452337 no random rolls specified -  [unpopular weapon]
 // weapon: Eye of Sol
-//notes: godroll - Popularity [ CompPvP: 2.81%  QuickPvP: 1.07%  PvE: 0.35%  CompCoop: 0.34% ] 
+//notes: godroll - Popularity [ CompPvP: 2.8%  QuickPvP: 1.1%  PvE: 0.4%  CompCoop: 0.3% ] 
 dimwishlist:item=3164743584&perks=1840239774,106909392,280464955,2551157718
 dimwishlist:item=3164743584&perks=1840239774,106909392,280464955,1546637391
 dimwishlist:item=3164743584&perks=839105230,106909392,280464955,2551157718
 dimwishlist:item=3164743584&perks=839105230,106909392,280464955,1546637391
-//notes: mixed pve - Popularity [ PvE: 0.35%  CompCoop: 0.34% ] 
+//notes: mixed pve - Popularity [ PvE: 0.4%  CompCoop: 0.3% ] 
 dimwishlist:item=3164743584&perks=4090651448,106909392,280464955,1546637391
 dimwishlist:item=3164743584&perks=839105230,1087426260,280464955,1546637391
 dimwishlist:item=3164743584&perks=1840239774,2420895100,280464955,2551157718
@@ -43853,7 +43853,7 @@ dimwishlist:item=3164743584&perks=4090651448,2420895100,2869569095,1546637391
 dimwishlist:item=3164743584&perks=4090651448,2420895100,2869569095,2551157718
 dimwishlist:item=3164743584&perks=4090651448,2420895100,1168162263,1546637391
 dimwishlist:item=3164743584&perks=4090651448,1087426260,1168162263,1546637391
-//notes: mixed pvp - Popularity [ CompPvP: 2.81%  QuickPvP: 1.07%  CompCoop: 0.34% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 2.8%  QuickPvP: 1.1%  CompCoop: 0.3% ] 
 dimwishlist:item=3164743584&perks=839105230,3230963543,280464955,1546637391
 dimwishlist:item=3164743584&perks=1840239774,3142289711,280464955,1546637391
 dimwishlist:item=3164743584&perks=839105230,3142289711,280464955,2551157718
@@ -43934,7 +43934,7 @@ dimwishlist:item=3164743584&perks=1482024992,3230963543,280464955,47981717
 dimwishlist:item=3164743584&perks=1482024992,3230963543,280464955,957782887
 dimwishlist:item=3164743584&perks=1482024992,3230963543,957782887,1546637391
 dimwishlist:item=3164743584&perks=1482024992,3230963543,957782887,2551157718
-//notes: pure pvp - Popularity [ CompPvP: 2.81%  QuickPvP: 1.07% ] 
+//notes: pure pvp - Popularity [ CompPvP: 2.8%  QuickPvP: 1.1% ] 
 dimwishlist:item=3164743584&perks=1482024992,3230963543,957782887,957782887
 dimwishlist:item=3164743584&perks=1482024992,3230963543,957782887,47981717
 dimwishlist:item=3164743584&perks=1482024992,3230963543,957782887,1264398905
@@ -43942,7 +43942,7 @@ dimwishlist:item=3164743584&perks=1482024992,3142289711,957782887,957782887
 dimwishlist:item=3164743584&perks=1482024992,3142289711,957782887,47981717
 dimwishlist:item=3164743584&perks=1482024992,3142289711,957782887,1264398905
 // weapon: Eye of Sol (Adept)
-//notes: godroll - Popularity [ CompPvP: 0.39% ] 
+//notes: godroll - Popularity [ CompPvP: 0.4% ] 
 dimwishlist:item=3637570176&perks=1840239774,106909392,280464955,2551157718
 dimwishlist:item=3637570176&perks=1840239774,106909392,280464955,1546637391
 dimwishlist:item=3637570176&perks=839105230,106909392,280464955,2551157718
@@ -43998,7 +43998,7 @@ dimwishlist:item=-3637570176&perks=4090651448,2420895100,2869569095,1546637391
 dimwishlist:item=-3637570176&perks=4090651448,2420895100,2869569095,2551157718
 dimwishlist:item=-3637570176&perks=4090651448,2420895100,1168162263,1546637391
 dimwishlist:item=-3637570176&perks=4090651448,1087426260,1168162263,1546637391
-//notes: mixed pvp - Popularity [ CompPvP: 0.39% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.4% ] 
 dimwishlist:item=3637570176&perks=839105230,3230963543,280464955,1546637391
 dimwishlist:item=3637570176&perks=1840239774,3142289711,280464955,1546637391
 dimwishlist:item=3637570176&perks=839105230,3142289711,280464955,2551157718
@@ -44079,7 +44079,7 @@ dimwishlist:item=3637570176&perks=1482024992,3230963543,280464955,47981717
 dimwishlist:item=3637570176&perks=1482024992,3230963543,280464955,957782887
 dimwishlist:item=3637570176&perks=1482024992,3230963543,957782887,1546637391
 dimwishlist:item=3637570176&perks=1482024992,3230963543,957782887,2551157718
-//notes: pure pvp - Popularity [ CompPvP: 0.39% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.4% ] 
 dimwishlist:item=3637570176&perks=1482024992,3230963543,957782887,957782887
 dimwishlist:item=3637570176&perks=1482024992,3230963543,957782887,47981717
 dimwishlist:item=3637570176&perks=1482024992,3230963543,957782887,1264398905
@@ -44087,7 +44087,7 @@ dimwishlist:item=3637570176&perks=1482024992,3142289711,957782887,957782887
 dimwishlist:item=3637570176&perks=1482024992,3142289711,957782887,47981717
 dimwishlist:item=3637570176&perks=1482024992,3142289711,957782887,1264398905
 // weapon: Long Shadow
-//notes: mixed pve - Popularity [ PvE: 0.29%  CompCoop: 0.42% ] 
+//notes: mixed pve - Popularity [ PvE: 0.3%  CompCoop: 0.4% ] 
 dimwishlist:item=3745990145&perks=893526893,2420895100,280464955,1168162263
 dimwishlist:item=3745990145&perks=893526892,2420895100,280464955,3425386926
 dimwishlist:item=3745990145&perks=893526892,2420895100,280464955,1168162263
@@ -44163,7 +44163,7 @@ dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,3425386926
 dimwishlist:item=3745990145&perks=893526893,1431678320,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526893,1431678320,2869569095,3400784728
 dimwishlist:item=3745990145&perks=893526895,1087426260,280464955,3400784728
-//notes: mixed pvp - Popularity [ CompPvP: 0.25%  CompCoop: 0.42% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.3%  CompCoop: 0.4% ] 
 dimwishlist:item=3745990145&perks=893526893,106909392,280464955,1168162263
 dimwishlist:item=3745990145&perks=893526892,106909392,280464955,1168162263
 dimwishlist:item=3745990145&perks=893526892,106909392,280464955,3425386926
@@ -44218,7 +44218,7 @@ dimwishlist:item=3745990145&perks=893526893,106909392,957782887,588594999
 dimwishlist:item=3745990145&perks=893526893,106909392,4071163871,588594999
 dimwishlist:item=3745990145&perks=893526893,3230963543,957782887,588594999
 dimwishlist:item=3745990145&perks=893526893,3230963543,4071163871,588594999
-//notes: pure pve - Popularity [ PvE: 0.29% ] 
+//notes: pure pve - Popularity [ PvE: 0.3% ] 
 dimwishlist:item=3745990145&perks=893526895,1431678320,2869569095,3400784728
 dimwishlist:item=3745990145&perks=893526895,1431678320,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526895,2420895100,2869569095,3400784728
@@ -44226,7 +44226,7 @@ dimwishlist:item=3745990145&perks=893526895,2420895100,247725512,3400784728
 dimwishlist:item=3745990145&perks=893526895,1087426260,2869569095,3400784728
 dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,3400784728
 // weapon: Praedyth's Revenge
-//notes: pure pve - Popularity [ PvE: 1.26% ] 
+//notes: pure pve - Popularity [ PvE: 1.3% ] 
 dimwishlist:item=3653573172&perks=1840239774,106909392,3418782618,3824105627
 dimwishlist:item=3653573172&perks=1840239774,106909392,3418782618,2213355989
 dimwishlist:item=3653573172&perks=1840239774,106909392,3418782618,4104185692
@@ -44242,7 +44242,7 @@ dimwishlist:item=-1987769101&perks=1840239774,106909392,1774574192,3824105627
 dimwishlist:item=-1987769101&perks=1840239774,106909392,1774574192,2213355989
 dimwishlist:item=-1987769101&perks=1840239774,106909392,1774574192,4104185692
 // weapon: Revoker
-dimwishlist:item=654608616 cannot random roll -  Popularity [ CompPvP: 0.24% ]
+dimwishlist:item=654608616 cannot random roll -  Popularity [ CompPvP: 0.2% ]
 // weapon: Shepherd's Watch
 dimwishlist:item=-3312073053 cannot random roll -  [unpopular weapon]
 // weapon: Show of Force XF4865
@@ -44402,7 +44402,7 @@ dimwishlist:item=-4148143418&perks=893526893,3177308360,957782887,588594999
 // weapon: Silicon Neuroma
 dimwishlist:item=-990416096 cannot random roll -  [unpopular weapon]
 // weapon: Succession
-//notes: mixed pve - Popularity [ PvE: 2.14%  CompCoop: 0.39% ] 
+//notes: mixed pve - Popularity [ PvE: 2.1%  CompCoop: 0.4% ] 
 dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391
 dimwishlist:item=2990047042&perks=1840239774,106909392,1556840489,1546637391
 dimwishlist:item=2990047042&perks=1467527085,106909392,1523832109,1546637391
@@ -44439,7 +44439,7 @@ dimwishlist:item=2990047042&perks=839105230,106909392,1523832109,2726471870
 dimwishlist:item=2990047042&perks=1840239774,2420895100,1523832109,469285294
 dimwishlist:item=2990047042&perks=839105230,106909392,1556840489,469285294
 dimwishlist:item=2990047042&perks=839105230,106909392,1556840489,2726471870
-//notes: mixed pvp - Popularity [ CompPvP: 0.29%  CompCoop: 0.39% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.3%  CompCoop: 0.4% ] 
 dimwishlist:item=2990047042&perks=1840239774,106909392,2039302152,1546637391
 dimwishlist:item=2990047042&perks=1840239774,106909392,2450788523,1546637391
 dimwishlist:item=2990047042&perks=1840239774,106909392,588594999,1546637391
@@ -44452,7 +44452,7 @@ dimwishlist:item=2990047042&perks=1840239774,3142289711,588594999,1546637391
 dimwishlist:item=2990047042&perks=1840239774,3142289711,2039302152,957782887
 dimwishlist:item=2990047042&perks=1840239774,3142289711,2450788523,957782887
 dimwishlist:item=2990047042&perks=1840239774,3142289711,588594999,957782887
-//notes: pure pve - Popularity [ PvE: 2.14% ] 
+//notes: pure pve - Popularity [ PvE: 2.1% ] 
 dimwishlist:item=2990047042&perks=1467527085,2420895100,1523832109,469285294
 dimwishlist:item=2990047042&perks=1467527085,2420895100,1523832109,2726471870
 dimwishlist:item=2990047042&perks=1467527085,2420895100,1556840489,469285294
@@ -44953,7 +44953,7 @@ dimwishlist:item=-1645386487&perks=839105230,3142289711,2866798147,957782887
 // weapon: A Single Clap
 dimwishlist:item=-3312073052 cannot random roll -  [unpopular weapon]
 // weapon: Adored
-dimwishlist:item=4184808992 cannot random roll -  Popularity [ CompPvP: 3.14%  QuickPvP: 1.33%  PvE: 0.38%  CompCoop: 0.48% ]
+dimwishlist:item=4184808992 cannot random roll -  Popularity [ CompPvP: 3.1%  QuickPvP: 1.3%  PvE: 0.4%  CompCoop: 0.5% ]
 // weapon: Anniella
 dimwishlist:item=-905092001 cannot random roll -  [unpopular weapon]
 // weapon: Apostate
@@ -45852,7 +45852,7 @@ dimwishlist:item=-893527433&perks=1467527085,3142289711,706527188,47981717
 // weapon: Fate Cries Foul
 dimwishlist:item=-1684914716 no random rolls specified -  [unpopular weapon]
 // weapon: Frozen Orbit
-//notes: mixed pve - Popularity [ PvE: 0.37%  CompCoop: 0.47% ] 
+//notes: mixed pve - Popularity [ PvE: 0.4%  CompCoop: 0.5% ] 
 dimwishlist:item=3473290087&perks=3250034553,106909392,3400784728,1546637391
 dimwishlist:item=3473290087&perks=1840239774,106909392,1168162263,3592538738
 dimwishlist:item=3473290087&perks=1840239774,106909392,1168162263,2213355989
@@ -45952,7 +45952,7 @@ dimwishlist:item=3473290087&perks=839105230,106909392,2284787283,3592538738
 dimwishlist:item=3473290087&perks=839105230,106909392,1168162263,1546637391
 dimwishlist:item=3473290087&perks=839105230,106909392,1168162263,2213355989
 dimwishlist:item=3473290087&perks=839105230,106909392,1168162263,3592538738
-//notes: mixed pvp - Popularity [ CompPvP: 2.48%  QuickPvP: 1.38%  CompCoop: 0.47% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 2.5%  QuickPvP: 1.4%  CompCoop: 0.5% ] 
 dimwishlist:item=3473290087&perks=1482024992,106909392,280464955,706527188
 dimwishlist:item=3473290087&perks=1482024992,106909392,280464955,957782887
 dimwishlist:item=3473290087&perks=1482024992,106909392,280464955,47981717
@@ -46007,7 +46007,7 @@ dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,47981717
 dimwishlist:item=3473290087&perks=1840239774,3142289711,2450788523,706527188
 dimwishlist:item=3473290087&perks=1840239774,3142289711,2450788523,957782887
 dimwishlist:item=3473290087&perks=1840239774,3142289711,280464955,47981717
-//notes: pure pve - Popularity [ PvE: 0.37% ] 
+//notes: pure pve - Popularity [ PvE: 0.4% ] 
 dimwishlist:item=3473290087&perks=1467527085,2420895100,3400784728,1546637391
 dimwishlist:item=3473290087&perks=1467527085,2420895100,3400784728,2213355989
 dimwishlist:item=3473290087&perks=1467527085,2420895100,3400784728,3592538738
@@ -46049,7 +46049,7 @@ dimwishlist:item=-2660862359 cannot random roll -  [unpopular weapon]
 // weapon: IKELOS_SR_v1.0.1
 dimwishlist:item=-847450546 cannot random roll -  [unpopular weapon]
 // weapon: IKELOS_SR_v1.0.2
-//notes: mixed pve - Popularity [ PvE: 0.21% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=1253087083&perks=1840239774,106909392,3400784728,2551157718
 dimwishlist:item=1253087083&perks=1840239774,106909392,2779035018,2551157718
 dimwishlist:item=1253087083&perks=1840239774,106909392,1354429876,2551157718
@@ -46141,7 +46141,7 @@ dimwishlist:item=-1253087083&perks=1482024992,106909392,2866798147,706527188
 dimwishlist:item=-1253087083&perks=1840239774,1140096971,588594999,706527188
 dimwishlist:item=-1253087083&perks=1482024992,106909392,588594999,706527188
 dimwishlist:item=-1253087083&perks=1840239774,1140096971,2866798147,706527188
-//notes: pure pve - Popularity [ PvE: 0.21% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=1253087083&perks=1392496348,2420895100,2779035018,2213355989
 dimwishlist:item=1253087083&perks=1392496348,2420895100,3400784728,2213355989
 dimwishlist:item=1253087083&perks=1392496348,2420895100,1354429876,2213355989
@@ -46180,14 +46180,14 @@ dimwishlist:item=-3239754990 cannot random roll -  [unpopular weapon]
 // weapon: Occluded Finality
 dimwishlist:item=-3434507093 cannot random roll -  [unpopular weapon]
 // weapon: Occluded Finality
-//notes: mixed pve - Popularity [ PvE: 0.21%  CompCoop: 0.26% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2%  CompCoop: 0.3% ] 
 dimwishlist:item=852551895&perks=1840239774,1561002382,3300816228,1546637391
-//notes: mixed pvp - Popularity [ CompPvP: 1.07%  QuickPvP: 0.89%  CompCoop: 0.26% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 1.1%  QuickPvP: 0.9%  CompCoop: 0.3% ] 
 dimwishlist:item=852551895&perks=3250034553,1561002382,957782887,47981717
 dimwishlist:item=852551895&perks=202670084,1561002382,957782887,47981717
-//notes: pure pve - Popularity [ PvE: 0.21% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=852551895&perks=1840239774,1087426260,3300816228,1546637391
-//notes: pure pvp - Popularity [ CompPvP: 1.07%  QuickPvP: 0.89% ] 
+//notes: pure pvp - Popularity [ CompPvP: 1.1%  QuickPvP: 0.9% ] 
 dimwishlist:item=852551895&perks=3250034553,1885400500,957782887,47981717
 dimwishlist:item=852551895&perks=202670084,1885400500,957782887,47981717
 // weapon: Omniscient Eye
@@ -46849,7 +46849,7 @@ dimwishlist:item=-3297863558&perks=1840239774,3142289711,247725512,3400784728
 //notes: mixed pvp - [unpopular weapon] 
 dimwishlist:item=-3297863558&perks=1840239774,3142289711,47981717,3400784728
 // weapon: Uzume RR4
-//notes: pure pve - Popularity [ PvE: 0.24% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=2065081837&perks=1840239774,106909392,2284787283,2213355989
 dimwishlist:item=2065081837&perks=1840239774,106909392,2284787283,1546637391
 dimwishlist:item=2065081837&perks=1840239774,106909392,2284787283,3038247973
@@ -47363,9 +47363,9 @@ dimwishlist:item=-1271343896&perks=839105230,3142289711,3161816588,3523296417
 // weapon: Widow's Bite
 dimwishlist:item=-3312073055 cannot random roll -  [unpopular weapon]
 // weapon: The Huckleberry
-dimwishlist:item=2286143274 cannot random roll -  Popularity [ CompPvP: 0.16%  QuickPvP: 0.29%  PvE: 0.25%  CompCoop: 0.60% ]
+dimwishlist:item=2286143274 cannot random roll -  Popularity [ CompPvP: 0.2%  QuickPvP: 0.3%  PvE: 0.3%  CompCoop: 0.6% ]
 // weapon: Riskrunner
-dimwishlist:item=3089417789 cannot random roll -  Popularity [ CompPvP: 0.31%  QuickPvP: 0.46%  PvE: 0.31%  CompCoop: 1.83% ]
+dimwishlist:item=3089417789 cannot random roll -  Popularity [ CompPvP: 0.3%  QuickPvP: 0.5%  PvE: 0.3%  CompCoop: 1.8% ]
 // weapon: Tarrabah
 dimwishlist:item=-3110698812 cannot random roll -  [unpopular weapon]
 // weapon: Adjudicator
@@ -49073,14 +49073,14 @@ dimwishlist:item=-1506719573&perks=3661387068,3142289711,205890336,1359896290
 // weapon: Escape Velocity
 dimwishlist:item=-1459443448 cannot random roll -  [unpopular weapon]
 // weapon: Escape Velocity
-//notes: godroll - Popularity [ PvE: 0.14% ] 
+//notes: godroll - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=1786797708&perks=663495155,106909392,4071163871,706527188
 dimwishlist:item=1786797708&perks=663495155,106909392,3643424744,706527188
 dimwishlist:item=1786797708&perks=2209280306,106909392,4071163871,706527188
 dimwishlist:item=1786797708&perks=2209280306,106909392,3643424744,706527188
 dimwishlist:item=1786797708&perks=2209280307,106909392,4071163871,706527188
 dimwishlist:item=1786797708&perks=2209280307,106909392,3643424744,706527188
-//notes: mixed pve - Popularity [ PvE: 0.14% ] 
+//notes: mixed pve - Popularity [ PvE: 0.1% ] 
 dimwishlist:item=1786797708&perks=2209280306,3230963543,4071163871,706527188
 dimwishlist:item=1786797708&perks=2209280307,1087426260,3643424744,706527188
 dimwishlist:item=1786797708&perks=663495155,3230963543,4071163871,706527188
@@ -49263,7 +49263,7 @@ dimwishlist:item=-1786797708&perks=663495154,3142289711,2387244414,3511092054
 // weapon: Exit Strategy
 dimwishlist:item=-4227181568 cannot random roll -  [unpopular weapon]
 // weapon: Extraordinary Rendition
-//notes: mixed pve - Popularity [ PvE: 1.25%  CompCoop: 1.26% ] 
+//notes: mixed pve - Popularity [ PvE: 1.3%  CompCoop: 1.3% ] 
 dimwishlist:item=1097616550&perks=1482024992,106909392,3436462433,2458213969
 dimwishlist:item=1097616550&perks=4090651448,2420895100,3436462433,2458213969
 dimwishlist:item=1097616550&perks=4090651448,2420895100,3643424744,2458213969
@@ -49432,7 +49432,7 @@ dimwishlist:item=1097616550&perks=1482024992,2420895100,1168162263,2726471870
 dimwishlist:item=1097616550&perks=1482024992,2420895100,1168162263,3425386926
 dimwishlist:item=1097616550&perks=1482024992,2420895100,1168162263,4104185692
 dimwishlist:item=1097616550&perks=1392496348,106909392,1168162263,2726471870
-//notes: mixed pvp - Popularity [ QuickPvP: 0.24%  CompCoop: 1.26% ] 
+//notes: mixed pvp - Popularity [ QuickPvP: 0.2%  CompCoop: 1.3% ] 
 dimwishlist:item=1097616550&perks=1392496348,3177308360,3436462433,2458213969
 dimwishlist:item=1097616550&perks=4090651448,3177308360,3436462433,2458213969
 dimwishlist:item=1097616550&perks=4090651448,3177308360,3643424744,2458213969
@@ -49479,7 +49479,7 @@ dimwishlist:item=1097616550&perks=1392496348,3177308360,2387244414,1890422124
 dimwishlist:item=1097616550&perks=1482024992,3177308360,2387244414,1890422124
 dimwishlist:item=1097616550&perks=1482024992,3142289711,2387244414,1890422124
 dimwishlist:item=1097616550&perks=3250034553,3142289711,3643424744,1890422124
-//notes: pure pve - Popularity [ PvE: 1.25% ] 
+//notes: pure pve - Popularity [ PvE: 1.3% ] 
 dimwishlist:item=1097616550&perks=1840239774,2420895100,1168162263,4049631843
 dimwishlist:item=1097616550&perks=1840239774,2420895100,1168162263,4104185692
 dimwishlist:item=1097616550&perks=1840239774,2420895100,1168162263,3425386926
@@ -49492,7 +49492,7 @@ dimwishlist:item=1097616550&perks=1840239774,1087426260,1168162263,4049631843
 dimwishlist:item=1097616550&perks=1840239774,1087426260,1168162263,4104185692
 dimwishlist:item=1097616550&perks=1840239774,1087426260,1168162263,3425386926
 dimwishlist:item=1097616550&perks=1840239774,1087426260,1168162263,2726471870
-//notes: pure pvp - Popularity [ QuickPvP: 0.24% ] 
+//notes: pure pvp - Popularity [ QuickPvP: 0.2% ] 
 dimwishlist:item=1097616550&perks=3250034553,3177308360,2387244414,1890422124
 dimwishlist:item=1097616550&perks=3250034553,3142289711,2387244414,1890422124
 // weapon: Friction Fire
@@ -49874,10 +49874,10 @@ dimwishlist:item=-2611861926 cannot random roll -  [unpopular weapon]
 // weapon: Motion to Suppress
 dimwishlist:item=-3950088638 cannot random roll -  [unpopular weapon]
 // weapon: Multimach CCX
-//notes: godroll - Popularity [ CompPvP: 0.25%  QuickPvP: 0.59%  PvE: 0.30%  CompCoop: 0.38% ] 
+//notes: godroll - Popularity [ CompPvP: 0.2%  QuickPvP: 0.6%  PvE: 0.3%  CompCoop: 0.4% ] 
 dimwishlist:item=3717177717&perks=663495155,106909392,2450788523,1015611457
 dimwishlist:item=3717177717&perks=663495155,1087426260,2450788523,1015611457
-//notes: mixed pve - Popularity [ PvE: 0.30%  CompCoop: 0.38% ] 
+//notes: mixed pve - Popularity [ PvE: 0.3%  CompCoop: 0.4% ] 
 dimwishlist:item=3717177717&perks=663495155,106909392,2450788523,4049631843
 dimwishlist:item=3717177717&perks=2209280306,106909392,2450788523,1015611457
 dimwishlist:item=3717177717&perks=2209280307,1087426260,2450788523,1015611457
@@ -49926,7 +49926,7 @@ dimwishlist:item=3717177717&perks=2209280307,1087426260,1820235745,4049631843
 dimwishlist:item=3717177717&perks=663495155,2420895100,4071163871,4049631843
 dimwishlist:item=3717177717&perks=663495155,2420895100,1820235745,4049631843
 dimwishlist:item=3717177717&perks=2209280306,2420895100,2450788523,4049631843
-//notes: mixed pvp - Popularity [ CompPvP: 0.25%  QuickPvP: 0.59%  CompCoop: 0.38% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.6%  CompCoop: 0.4% ] 
 dimwishlist:item=3717177717&perks=663495155,1087426260,2450788523,11551321
 dimwishlist:item=3717177717&perks=663495155,3177308360,2450788523,1015611457
 dimwishlist:item=3717177717&perks=663495155,106909392,706527188,1015611457
@@ -49969,12 +49969,12 @@ dimwishlist:item=3717177717&perks=663495155,3142289711,706527188,11551321
 dimwishlist:item=3717177717&perks=663495154,3177308360,2450788523,11551321
 dimwishlist:item=3717177717&perks=663495154,3177308360,706527188,1015611457
 dimwishlist:item=3717177717&perks=663495154,3177308360,1359896290,1015611457
-//notes: pure pve - Popularity [ PvE: 0.30% ] 
+//notes: pure pve - Popularity [ PvE: 0.3% ] 
 dimwishlist:item=3717177717&perks=2209280306,2420895100,4071163871,4049631843
 dimwishlist:item=3717177717&perks=2209280306,2420895100,1820235745,4049631843
 dimwishlist:item=3717177717&perks=2209280307,2420895100,4071163871,4049631843
 dimwishlist:item=3717177717&perks=2209280307,2420895100,1820235745,4049631843
-//notes: pure pvp - Popularity [ CompPvP: 0.25%  QuickPvP: 0.59% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.2%  QuickPvP: 0.6% ] 
 dimwishlist:item=3717177717&perks=663495154,3177308360,1359896290,11551321
 dimwishlist:item=3717177717&perks=663495154,3177308360,706527188,11551321
 dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,11551321
@@ -50408,7 +50408,7 @@ dimwishlist:item=-2105827099&perks=1288081797,1087426260,1890422124,1359896290
 dimwishlist:item=-2105827099&perks=1288081798,1885400500,1890422124,1359896290
 dimwishlist:item=-2105827099&perks=1288081797,1885400500,1890422124,1359896290
 // weapon: Borrowed Time
-//notes: mixed pve - Popularity [ PvE: 0.19%  CompCoop: 1.17% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2%  CompCoop: 1.2% ] 
 dimwishlist:item=875848769&perks=1482024992,1885400500,4071163871,3523296417
 dimwishlist:item=875848769&perks=1392496348,1885400500,4071163871,3523296417
 dimwishlist:item=875848769&perks=3250034553,1885400500,4071163871,3523296417
@@ -50571,12 +50571,12 @@ dimwishlist:item=875848769&perks=3250034553,2420895100,4071163871,4104185692
 dimwishlist:item=875848769&perks=3250034553,2420895100,4071163871,2848615171
 dimwishlist:item=875848769&perks=3250034553,2420895100,3643424744,3523296417
 dimwishlist:item=875848769&perks=3250034553,1561002382,4071163871,3708227201
-//notes: mixed pvp - Popularity [ CompCoop: 1.17% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 1.2% ] 
 dimwishlist:item=875848769&perks=839105230,1885400500,4071163871,3523296417
 dimwishlist:item=875848769&perks=839105230,1885400500,1359896290,3523296417
 dimwishlist:item=875848769&perks=839105230,1885400500,4071163871,1890422124
 dimwishlist:item=875848769&perks=839105230,1885400500,1359896290,1890422124
-//notes: pure pve - Popularity [ PvE: 0.19% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=875848769&perks=1482024992,1561002382,2779035018,3708227201
 dimwishlist:item=875848769&perks=1482024992,1561002382,2779035018,3425386926
 dimwishlist:item=875848769&perks=1482024992,1561002382,2779035018,4049631843
@@ -51015,12 +51015,12 @@ dimwishlist:item=-174192097&perks=839105230,1087426260,1631667848,3708227201
 dimwishlist:item=-174192097&perks=839105230,1087426260,1359896290,3708227201
 dimwishlist:item=-174192097&perks=839105230,1087426260,699525795,3708227201
 // weapon: Death Adder
-//notes: godroll - Popularity [ PvE: 0.21% ] 
+//notes: godroll - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=2742490609&perks=1482024992,106909392,2779035018,706527188
 dimwishlist:item=2742490609&perks=1392496348,106909392,2779035018,706527188
 dimwishlist:item=2742490609&perks=3250034553,106909392,2779035018,706527188
 dimwishlist:item=2742490609&perks=4090651448,106909392,2779035018,706527188
-//notes: mixed pve - Popularity [ PvE: 0.21% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=2742490609&perks=4090651448,106909392,1820235745,706527188
 dimwishlist:item=2742490609&perks=3250034553,106909392,2779035018,2848615171
 dimwishlist:item=2742490609&perks=4090651448,1087426260,2779035018,706527188
@@ -51404,7 +51404,7 @@ dimwishlist:item=-2742490609&perks=1482024992,1431678320,1359896290,588594999
 dimwishlist:item=-2742490609&perks=4090651448,3142289711,1866048759,588594999
 dimwishlist:item=-2742490609&perks=4090651448,3142289711,1866048759,2846385770
 dimwishlist:item=-2742490609&perks=4090651448,3142289711,1866048759,699525795
-//notes: pure pve - Popularity [ PvE: 0.21% ] 
+//notes: pure pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=2742490609&perks=1840239774,3230963543,1820235745,1683379515
 dimwishlist:item=2742490609&perks=1840239774,3230963543,1820235745,2848615171
 dimwishlist:item=2742490609&perks=1840239774,3230963543,3300816228,1683379515
@@ -51608,7 +51608,7 @@ dimwishlist:item=-2700862856 cannot random roll -  [unpopular weapon]
 // weapon: IKELOS_SMG_v1.0.1
 dimwishlist:item=-1723472487 cannot random roll -  [unpopular weapon]
 // weapon: IKELOS_SMG_v1.0.2
-//notes: mixed pve - Popularity [ PvE: 4.31%  CompCoop: 4.14% ] 
+//notes: mixed pve - Popularity [ PvE: 4.3%  CompCoop: 4.1% ] 
 dimwishlist:item=2222560548&perks=1482024992,1140096971,1631667848,3523296417
 dimwishlist:item=2222560548&perks=1392496348,1140096971,1820235745,3523296417
 dimwishlist:item=2222560548&perks=1392496348,1140096971,4071163871,1546637391
@@ -51873,7 +51873,7 @@ dimwishlist:item=2222560548&perks=1482024992,3230963543,1820235745,3708227201
 dimwishlist:item=2222560548&perks=1482024992,3230963543,1631667848,1683379515
 dimwishlist:item=2222560548&perks=1482024992,3230963543,1631667848,3708227201
 dimwishlist:item=2222560548&perks=1392496348,1087426260,1631667848,1683379515
-//notes: mixed pvp - Popularity [ CompPvP: 0.43%  QuickPvP: 0.86%  CompCoop: 4.14% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.4%  QuickPvP: 0.9%  CompCoop: 4.1% ] 
 dimwishlist:item=2222560548&perks=1392496348,106909392,1359896290,3523296417
 dimwishlist:item=2222560548&perks=4090651448,1140096971,1359896290,3523296417
 dimwishlist:item=2222560548&perks=4090651448,1140096971,1359896290,1546637391
@@ -51930,7 +51930,7 @@ dimwishlist:item=2222560548&perks=3661387068,3142289711,1359896290,1546637391
 dimwishlist:item=2222560548&perks=1482024992,3142289711,1359896290,1890422124
 dimwishlist:item=2222560548&perks=1482024992,3177308360,1359896290,1890422124
 dimwishlist:item=2222560548&perks=4090651448,3177308360,1359896290,1890422124
-//notes: pure pve - Popularity [ PvE: 4.31% ] 
+//notes: pure pve - Popularity [ PvE: 4.3% ] 
 dimwishlist:item=2222560548&perks=202670084,3230963543,1631667848,3708227201
 dimwishlist:item=2222560548&perks=202670084,3230963543,1631667848,1683379515
 dimwishlist:item=2222560548&perks=202670084,3230963543,1820235745,3708227201
@@ -51967,7 +51967,7 @@ dimwishlist:item=2222560548&perks=1840239774,1087426260,1820235745,3708227201
 dimwishlist:item=2222560548&perks=1840239774,1087426260,1820235745,1683379515
 dimwishlist:item=2222560548&perks=1840239774,1087426260,4071163871,3708227201
 dimwishlist:item=2222560548&perks=1840239774,1087426260,4071163871,1683379515
-//notes: pure pvp - Popularity [ CompPvP: 0.43%  QuickPvP: 0.86% ] 
+//notes: pure pvp - Popularity [ CompPvP: 0.4%  QuickPvP: 0.9% ] 
 dimwishlist:item=2222560548&perks=3250034553,3177308360,1359896290,1890422124
 dimwishlist:item=2222560548&perks=3250034553,3142289711,1359896290,1890422124
 dimwishlist:item=2222560548&perks=3661387068,3177308360,1359896290,1890422124
@@ -51989,7 +51989,7 @@ dimwishlist:item=-566976652 cannot random roll -  [unpopular weapon]
 // weapon: Royal Dispensation II
 dimwishlist:item=-3889907763 cannot random roll -  [unpopular weapon]
 // weapon: Seventh Seraph VY-7
-//notes: godroll - Popularity [ PvE: 0.38%  CompCoop: 0.40% ] 
+//notes: godroll - Popularity [ PvE: 0.4%  CompCoop: 0.4% ] 
 dimwishlist:item=766323545&perks=1482024992,106909392,280464955,1546637391
 dimwishlist:item=766323545&perks=1482024992,106909392,280464955,2779035018
 dimwishlist:item=766323545&perks=1482024992,1087426260,280464955,1546637391
@@ -52002,7 +52002,7 @@ dimwishlist:item=766323545&perks=1840239774,106909392,280464955,1546637391
 dimwishlist:item=766323545&perks=1840239774,106909392,280464955,2779035018
 dimwishlist:item=766323545&perks=1840239774,1087426260,280464955,1546637391
 dimwishlist:item=766323545&perks=1840239774,1087426260,280464955,2779035018
-//notes: mixed pve - Popularity [ PvE: 0.38%  CompCoop: 0.40% ] 
+//notes: mixed pve - Popularity [ PvE: 0.4%  CompCoop: 0.4% ] 
 dimwishlist:item=766323545&perks=1392496348,1087426260,1354429876,2779035018
 dimwishlist:item=766323545&perks=839105230,106909392,280464955,1546637391
 dimwishlist:item=766323545&perks=839105230,106909392,280464955,2779035018
@@ -52097,7 +52097,7 @@ dimwishlist:item=766323545&perks=1392496348,2420895100,1354429876,2848615171
 dimwishlist:item=766323545&perks=1482024992,2420895100,2010801679,2848615171
 dimwishlist:item=766323545&perks=1482024992,2420895100,1354429876,2848615171
 dimwishlist:item=766323545&perks=839105230,106909392,1354429876,2848615171
-//notes: mixed pvp - Popularity [ CompCoop: 0.40% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.4% ] 
 dimwishlist:item=766323545&perks=1840239774,3177308360,280464955,2779035018
 dimwishlist:item=766323545&perks=1840239774,3177308360,280464955,1546637391
 dimwishlist:item=766323545&perks=1840239774,106909392,972757866,1546637391
@@ -52180,28 +52180,28 @@ dimwishlist:item=766323545&perks=1392496348,3142289711,972757866,3511092054
 dimwishlist:item=766323545&perks=1392496348,3177308360,972757866,3511092054
 dimwishlist:item=766323545&perks=1482024992,3142289711,972757866,3511092054
 dimwishlist:item=766323545&perks=1482024992,3177308360,972757866,3511092054
-//notes: pure pve - Popularity [ PvE: 0.38% ] 
+//notes: pure pve - Popularity [ PvE: 0.4% ] 
 dimwishlist:item=766323545&perks=839105230,2420895100,1354429876,2848615171
 dimwishlist:item=766323545&perks=839105230,2420895100,2010801679,2848615171
 //notes: pure pvp - [unpopular weapon] 
 dimwishlist:item=-766323545&perks=3250034553,3177308360,972757866,3511092054
 dimwishlist:item=-766323545&perks=3250034553,3142289711,972757866,3511092054
 // weapon: Shayura's Wrath
-//notes: mixed pve - Popularity [ PvE: 1.03%  CompCoop: 0.57% ] 
+//notes: mixed pve - Popularity [ PvE: 1.0%  CompCoop: 0.6% ] 
 dimwishlist:item=3682803680&perks=1482024992,3230963543,1570042021,1015611457
-//notes: mixed pvp - Popularity [ CompPvP: 0.88%  QuickPvP: 1.02%  CompCoop: 0.57% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.9%  QuickPvP: 1.0%  CompCoop: 0.6% ] 
 dimwishlist:item=3682803680&perks=3250034553,3142289711,2946784966,1015611457
 // weapon: Shayura's Wrath (Adept)
-//notes: mixed pve - Popularity [ PvE: 0.20% ] 
+//notes: mixed pve - Popularity [ PvE: 0.2% ] 
 dimwishlist:item=4023807721&perks=1482024992,3230963543,1570042021,1015611457
-//notes: mixed pvp - Popularity [ CompPvP: 0.19% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2% ] 
 dimwishlist:item=4023807721&perks=3250034553,3142289711,2946784966,1015611457
 // weapon: Sol Pariah 6
 dimwishlist:item=-3991544422 cannot random roll -  [unpopular weapon]
 // weapon: Stochastic Variable
 dimwishlist:item=-1339362514 cannot random roll -  [unpopular weapon]
 // weapon: Stochastic Variable
-//notes: godroll - Popularity [ QuickPvP: 0.26%  PvE: 0.46%  CompCoop: 0.71% ] 
+//notes: godroll - Popularity [ QuickPvP: 0.3%  PvE: 0.5%  CompCoop: 0.7% ] 
 dimwishlist:item=2272470786&perks=1482024992,830282363,2450788523,3592538738
 dimwishlist:item=2272470786&perks=1482024992,830282363,2450788523,2458213969
 dimwishlist:item=2272470786&perks=1482024992,1885400500,2450788523,3592538738
@@ -52214,7 +52214,7 @@ dimwishlist:item=2272470786&perks=1840239774,1885400500,2450788523,3592538738
 dimwishlist:item=2272470786&perks=1840239774,1885400500,2450788523,2458213969
 dimwishlist:item=2272470786&perks=1840239774,1561002382,2450788523,3592538738
 dimwishlist:item=2272470786&perks=1840239774,1561002382,2450788523,2458213969
-//notes: mixed pve - Popularity [ PvE: 0.46%  CompCoop: 0.71% ] 
+//notes: mixed pve - Popularity [ PvE: 0.5%  CompCoop: 0.7% ] 
 dimwishlist:item=2272470786&perks=1392496348,1885400500,2450788523,3592538738
 dimwishlist:item=2272470786&perks=1482024992,830282363,2779035018,2458213969
 dimwishlist:item=2272470786&perks=1840239774,1561002382,2010801679,2458213969
@@ -52284,7 +52284,7 @@ dimwishlist:item=2272470786&perks=1392496348,1561002382,2010801679,2848615171
 dimwishlist:item=2272470786&perks=1392496348,830282363,2010801679,2848615171
 dimwishlist:item=2272470786&perks=1392496348,1561002382,2779035018,2848615171
 dimwishlist:item=2272470786&perks=1392496348,1885400500,2010801679,2848615171
-//notes: mixed pvp - Popularity [ QuickPvP: 0.26%  CompCoop: 0.71% ] 
+//notes: mixed pvp - Popularity [ QuickPvP: 0.3%  CompCoop: 0.7% ] 
 dimwishlist:item=2272470786&perks=3250034553,1885400500,2450788523,3592538738
 dimwishlist:item=2272470786&perks=1482024992,830282363,3436462433,3592538738
 dimwishlist:item=2272470786&perks=1482024992,830282363,3436462433,2458213969
@@ -52662,13 +52662,13 @@ dimwishlist:item=-2433826056 cannot random roll -  [unpopular weapon]
 // weapon: The Recluse
 dimwishlist:item=-3354242550 cannot random roll -  [unpopular weapon]
 // weapon: Black Talon
-dimwishlist:item=3766045777 cannot random roll -  Popularity [ CompPvP: 0.50%  QuickPvP: 0.30%  PvE: 0.19%  CompCoop: 0.26% ]
+dimwishlist:item=3766045777 cannot random roll -  Popularity [ CompPvP: 0.5%  QuickPvP: 0.3%  PvE: 0.2%  CompCoop: 0.3% ]
 // weapon: The Lament
-dimwishlist:item=3487253372 cannot random roll -  Popularity [ PvE: 2.18%  CompCoop: 0.58% ]
+dimwishlist:item=3487253372 cannot random roll -  Popularity [ PvE: 2.2%  CompCoop: 0.6% ]
 // weapon: Worldline Zero
-dimwishlist:item=1864563948 cannot random roll -  Popularity [ PvE: 0.16% ]
+dimwishlist:item=1864563948 cannot random roll -  Popularity [ PvE: 0.2% ]
 // weapon: Crown-Splitter
-dimwishlist:item=-2782325302 no random rolls specified -  Popularity [ PvE: 1.19%  CompCoop: 1.14% ]
+dimwishlist:item=-2782325302 no random rolls specified -  Popularity [ PvE: 1.2%  CompCoop: 1.1% ]
 // weapon: Crown-Splitter
 dimwishlist:item=-1180270694 cannot random roll -  [unpopular weapon]
 // weapon: Throne-Cleaver
@@ -52711,13 +52711,13 @@ dimwishlist:item=-569799273&perks=436053704,1749209109,354401740
 // weapon: Goldtusk
 dimwishlist:item=-569799275 no random rolls specified -  [unpopular weapon]
 // weapon: Quickfang
-dimwishlist:item=-2782325300 no random rolls specified -  Popularity [ CompPvP: 0.18%  QuickPvP: 0.22%  PvE: 0.41%  CompCoop: 0.71% ]
+dimwishlist:item=-2782325300 no random rolls specified -  Popularity [ CompPvP: 0.2%  QuickPvP: 0.2%  PvE: 0.4%  CompCoop: 0.7% ]
 // weapon: Quickfang
 dimwishlist:item=-1180270692 cannot random roll -  [unpopular weapon]
 // weapon: Death's Razor
 dimwishlist:item=-569799274 no random rolls specified -  [unpopular weapon]
 // weapon: Eternity's Edge
-dimwishlist:item=-2782325301 no random rolls specified -  Popularity [ PvE: 0.21%  CompCoop: 0.30% ]
+dimwishlist:item=-2782325301 no random rolls specified -  Popularity [ PvE: 0.2%  CompCoop: 0.3% ]
 // weapon: Eternity's Edge
 dimwishlist:item=-1180270693 cannot random roll -  [unpopular weapon]
 // weapon: Abide the Return
@@ -52797,7 +52797,7 @@ dimwishlist:item=-287042893 cannot random roll -  [unpopular weapon]
 // weapon: Double-Edged Answer
 dimwishlist:item=-3551104348 cannot random roll -  [unpopular weapon]
 // weapon: Falling Guillotine
-//notes: mixed pve - Popularity [ PvE: 2.74%  CompCoop: 2.21% ] 
+//notes: mixed pve - Popularity [ PvE: 2.7%  CompCoop: 2.2% ] 
 dimwishlist:item=614426548&perks=938542991,269888150,1749209109,3913600130
 dimwishlist:item=614426548&perks=938542991,269888150,1749209109,3708227201
 dimwishlist:item=614426548&perks=938542991,269888150,2590710093,3913600130
@@ -52834,7 +52834,7 @@ dimwishlist:item=614426548&perks=2827049491,3625355092,1749209109,3913600130
 dimwishlist:item=614426548&perks=2827049491,3625355092,1749209109,3708227201
 dimwishlist:item=614426548&perks=2827049491,3625355092,2590710093,3913600130
 dimwishlist:item=614426548&perks=2827049491,3625355092,2590710093,3708227201
-//notes: mixed pvp - Popularity [ CompPvP: 0.16%  CompCoop: 2.21% ] 
+//notes: mixed pvp - Popularity [ CompPvP: 0.2%  CompCoop: 2.2% ] 
 dimwishlist:item=614426548&perks=938542991,269888150,1749209109,1685431615
 dimwishlist:item=614426548&perks=938542991,269888150,1749209109,3016987351
 dimwishlist:item=614426548&perks=938542991,269888150,2590710093,1685431615
@@ -53309,7 +53309,7 @@ dimwishlist:item=-3704653637&perks=436053704,52780822,1749209109,3913600130
 dimwishlist:item=-3704653637&perks=3666208348,3625355092,354401740,1685431615
 dimwishlist:item=-3704653637&perks=2827049491,3625355092,354401740,1685431615
 // weapon: Temptation's Hook
-//notes: godroll - Popularity [ PvE: 0.15%  CompCoop: 0.52% ] 
+//notes: godroll - Popularity [ PvE: 0.1%  CompCoop: 0.5% ] 
 dimwishlist:item=35794111&perks=938542991,269888150,1749209109,1546637391
 dimwishlist:item=35794111&perks=938542991,269888150,2590710093,1546637391
 dimwishlist:item=35794111&perks=938542991,2349202967,1749209109,1546637391
@@ -53328,7 +53328,7 @@ dimwishlist:item=35794111&perks=2827049491,2349202967,1749209109,1546637391
 dimwishlist:item=35794111&perks=2827049491,2349202967,2590710093,1546637391
 dimwishlist:item=35794111&perks=2827049491,3625355092,1749209109,1546637391
 dimwishlist:item=35794111&perks=2827049491,3625355092,2590710093,1546637391
-//notes: mixed pve - Popularity [ PvE: 0.15%  CompCoop: 0.52% ] 
+//notes: mixed pve - Popularity [ PvE: 0.1%  CompCoop: 0.5% ] 
 dimwishlist:item=35794111&perks=938542991,269888150,1749209109,3913600130
 dimwishlist:item=35794111&perks=938542991,269888150,1749209109,3708227201
 dimwishlist:item=35794111&perks=938542991,269888150,2590710093,3913600130
@@ -53365,7 +53365,7 @@ dimwishlist:item=35794111&perks=2827049491,3625355092,1749209109,3913600130
 dimwishlist:item=35794111&perks=2827049491,3625355092,1749209109,3708227201
 dimwishlist:item=35794111&perks=2827049491,3625355092,2590710093,3913600130
 dimwishlist:item=35794111&perks=2827049491,3625355092,2590710093,3708227201
-//notes: mixed pvp - Popularity [ CompCoop: 0.52% ] 
+//notes: mixed pvp - Popularity [ CompCoop: 0.5% ] 
 dimwishlist:item=35794111&perks=938542991,269888150,1749209109,1685431615
 dimwishlist:item=35794111&perks=938542991,269888150,2590710093,1685431615
 dimwishlist:item=35794111&perks=938542991,2349202967,1749209109,1685431615
@@ -53393,10 +53393,10 @@ dimwishlist:item=-4203034886 cannot random roll -  [unpopular weapon]
 // weapon: Coldheart
 dimwishlist:item=-1345867571 cannot random roll -  [unpopular weapon]
 // weapon: Divinity
-dimwishlist:item=4103414242 cannot random roll -  Popularity [ PvE: 0.14% ]
+dimwishlist:item=4103414242 cannot random roll -  Popularity [ PvE: 0.1% ]
 // weapon: Prometheus Lens
 dimwishlist:item=-19024058 cannot random roll -  [unpopular weapon]
 // weapon: Ruinous Effigy
-dimwishlist:item=1363238943 cannot random roll -  Popularity [ CompCoop: 0.27% ]
+dimwishlist:item=1363238943 cannot random roll -  Popularity [ CompCoop: 0.3% ]
 // weapon: Wavesplitter
 dimwishlist:item=-1852863732 cannot random roll -  [unpopular weapon]
