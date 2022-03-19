@@ -31,8 +31,10 @@ dimwishlist:item=1481892490&perks=1168162263,2846385770
 dimwishlist:item=1481892490&perks=706527188,3425386926
 dimwishlist:item=1481892490&perks=2450788523,3425386926
 // weapon: Ace of Spades
+//notes: mode: comp_pvp
 dimwishlist:item=347366834
 // weapon: The Last Word
+//notes: mode: comp_pvp
 dimwishlist:item=1364093401
 // weapon: Funnelweb
 //notes: mode: comp_pvp
@@ -45,6 +47,7 @@ dimwishlist:item=3341893443&perks=972757866,4104185692
 dimwishlist:item=3341893443&perks=1820235745,2726471870
 dimwishlist:item=3341893443&perks=509074078,4104185692
 // weapon: Reckless Endangerment
+//notes: mode: comp_pvp
 dimwishlist:item=3216652511
 // weapon: The Summoner
 //notes: mode: comp_pvp
@@ -57,8 +60,10 @@ dimwishlist:item=1907698332&perks=588594999,2846385770
 dimwishlist:item=1907698332&perks=3643424744,2848615171
 dimwishlist:item=1907698332&perks=2387244414,3425386926
 // weapon: Le Monarque
+//notes: mode: comp_pvp
 dimwishlist:item=3588934839
 // weapon: The Chaperone
+//notes: mode: comp_pvp
 dimwishlist:item=3413860062
 // weapon: The Messenger
 //notes: mode: comp_pvp
@@ -81,8 +86,10 @@ dimwishlist:item=1821724780&perks=3161816588,1546637391
 dimwishlist:item=1821724780&perks=1556840489,2360754333
 dimwishlist:item=1821724780&perks=706527188,2360754333
 // weapon: Crimson
+//notes: mode: comp_pvp
 dimwishlist:item=3437746471
 // weapon: Gjallarhorn
+//notes: mode: comp_pvp
 dimwishlist:item=1363886209
 // weapon: Felwinter's Lie
 //notes: mode: comp_pvp
@@ -157,6 +164,7 @@ dimwishlist:item=2638190703&perks=671806388,1546637391
 dimwishlist:item=2638190703&perks=1428297954,1354429876
 dimwishlist:item=2638190703&perks=1583705720,1546637391
 // weapon: Thorn
+//notes: mode: comp_pvp
 dimwishlist:item=3973202132
 // weapon: Piece of Mind
 //notes: mode: comp_pvp
@@ -219,6 +227,7 @@ dimwishlist:item=3717177717&perks=1359896290,591790007
 dimwishlist:item=3717177717&perks=1359896290,11551321
 dimwishlist:item=3717177717&perks=4071163871,591790007
 // weapon: Osteo Striga
+//notes: mode: comp_pvp
 dimwishlist:item=46524085
 // weapon: Ragnhild-D
 //notes: mode: comp_pvp
@@ -281,6 +290,7 @@ dimwishlist:item=2856514843&perks=1347741687,1546637391
 dimwishlist:item=2856514843&perks=1168162263,1546637391
 dimwishlist:item=2856514843&perks=1347741687,3418165135
 // weapon: Jötunn
+//notes: mode: comp_pvp
 dimwishlist:item=417164956
 // weapon: Wastelander M5
 //notes: mode: comp_pvp
@@ -293,8 +303,10 @@ dimwishlist:item=1679868061&perks=1428297954,2450788523
 dimwishlist:item=1679868061&perks=1820235745,2679249093
 dimwishlist:item=1679868061&perks=2621346526,47981717
 // weapon: Witherhoard
+//notes: mode: comp_pvp
 dimwishlist:item=2357297366
 // weapon: No Time to Explain
+//notes: mode: comp_pvp
 dimwishlist:item=1594120904
 // weapon: Shayura's Wrath (Adept)
 //notes: mode: comp_pvp
@@ -367,6 +379,7 @@ dimwishlist:item=1173780905&perks=247725512,1015611457
 dimwishlist:item=1173780905&perks=1168162263,1015611457
 dimwishlist:item=1173780905&perks=247725512,460017080
 // weapon: Lorentz Driver
+//notes: mode: comp_pvp
 dimwishlist:item=3761898871
 // weapon: Eye of Sol (Adept)
 //notes: mode: comp_pvp
@@ -379,6 +392,7 @@ dimwishlist:item=3637570176&perks=280464955,957782887
 dimwishlist:item=3637570176&perks=2621346526,957782887
 dimwishlist:item=3637570176&perks=588594999,47981717
 // weapon: Vigilance Wing
+//notes: mode: comp_pvp
 dimwishlist:item=3628991659
 // weapon: Fatebringer
 //notes: mode: comp_pvp
@@ -401,8 +415,10 @@ dimwishlist:item=2527666306&perks=1820235745,3425386926
 dimwishlist:item=2527666306&perks=247725512,957782887
 dimwishlist:item=2527666306&perks=2450788523,957782887
 // weapon: Vex Mythoclast
+//notes: mode: comp_pvp
 dimwishlist:item=4289226715
 // weapon: Outbreak Perfected
+//notes: mode: comp_pvp
 dimwishlist:item=400096939
 // weapon: Retold Tale
 //notes: mode: comp_pvp
@@ -485,8 +501,10 @@ dimwishlist:item=4067556514&perks=2682205016,1771339417
 dimwishlist:item=4067556514&perks=2682205016,395388285
 dimwishlist:item=4067556514&perks=3643424744,395388285
 // weapon: Duality
+//notes: mode: comp_pvp
 dimwishlist:item=3460576091
 // weapon: Cloudstrike
+//notes: mode: comp_pvp
 dimwishlist:item=2603483885
 // weapon: Insidious
 //notes: mode: comp_pvp
@@ -519,6 +537,7 @@ dimwishlist:item=432476743&perks=706527188,3425386926
 dimwishlist:item=432476743&perks=3643424744,3425386926
 dimwishlist:item=432476743&perks=2450788523,2846385770
 // weapon: Lord of Wolves
+//notes: mode: comp_pvp
 dimwishlist:item=3413860063
 // weapon: Darkest Before
 //notes: mode: comp_pvp
@@ -531,6 +550,7 @@ dimwishlist:item=2481758391&perks=3643424744,4267945040
 dimwishlist:item=2481758391&perks=3161816588,3425386926
 dimwishlist:item=2481758391&perks=2946784966,4267945040
 // weapon: SUROS Regime
+//notes: mode: comp_pvp
 dimwishlist:item=2856683562
 // weapon: PLUG ONE.1 (Adept)
 //notes: mode: comp_pvp
@@ -603,8 +623,10 @@ dimwishlist:item=310708513&perks=2450788523,1015611457
 dimwishlist:item=310708513&perks=1168162263,2213355989
 dimwishlist:item=310708513&perks=2946784966,2458213969
 // weapon: Dead Messenger
+//notes: mode: comp_pvp
 dimwishlist:item=2812324401
 // weapon: MIDA Multi-Tool
+//notes: mode: comp_pvp
 dimwishlist:item=1331482397
 // weapon: Fortissimo-11
 //notes: mode: comp_pvp
@@ -633,6 +655,7 @@ dimwishlist:item=725408022&perks=951095735,2396489472
 dimwishlist:item=725408022&perks=2010801679,3194351027
 dimwishlist:item=725408022&perks=2010801679,2396489472
 // weapon: Tarrabah
+//notes: mode: comp_pvp
 dimwishlist:item=3110698812
 // weapon: Herod-C
 //notes: mode: comp_pvp
@@ -655,6 +678,7 @@ dimwishlist:item=3568377122&perks=951095735,11612903
 dimwishlist:item=3568377122&perks=1583705720,4049631843
 dimwishlist:item=3568377122&perks=3096702027,3592538738
 // weapon: Arbalest
+//notes: mode: comp_pvp
 dimwishlist:item=2130065553
 // weapon: Sweet Sorrow
 //notes: mode: comp_pvp
@@ -703,8 +727,10 @@ dimwishlist:item=3865728990&perks=2866798147,4116820839
 dimwishlist:item=3865728990&perks=2866798147,957782887
 dimwishlist:item=3865728990&perks=3974407819,957782887
 // weapon: Telesto
+//notes: mode: comp_pvp
 dimwishlist:item=2208405142
 // weapon: Riskrunner
+//notes: mode: comp_pvp
 dimwishlist:item=3089417789
 // weapon: Heritage
 //notes: mode: comp_pvp
@@ -727,6 +753,7 @@ dimwishlist:item=1119734784&perks=1359896290,1015611457
 dimwishlist:item=1119734784&perks=1359896290,3425386926
 dimwishlist:item=1119734784&perks=1570042021,1015611457
 // weapon: Sunshot
+//notes: mode: comp_pvp
 dimwishlist:item=2907129557
 // weapon: Memory Interdict
 //notes: mode: comp_pvp
@@ -759,6 +786,7 @@ dimwishlist:item=829330711&perks=2846385770,3523296417
 dimwishlist:item=829330711&perks=2450788523,124408337
 dimwishlist:item=829330711&perks=2450788523,4082225868
 // weapon: Bastion
+//notes: mode: comp_pvp
 dimwishlist:item=2415517654
 // weapon: Frontier's Cry
 //notes: mode: quick_pvp
@@ -881,8 +909,10 @@ dimwishlist:item=232928045&perks=201365942,1048183818
 dimwishlist:item=232928045&perks=201365942,3431277734
 dimwishlist:item=232928045&perks=3523746922,1048183818
 // weapon: The Wardcliff Coil
+//notes: mode: quick_pvp
 dimwishlist:item=1508896098
 // weapon: Eriana's Vow
+//notes: mode: gambit
 dimwishlist:item=3524313097
 // weapon: Recurrent Impact
 //notes: mode: gambit
@@ -895,6 +925,7 @@ dimwishlist:item=1572896086&perks=4245865861,3007133316
 dimwishlist:item=1572896086&perks=1820235745,3007133316
 dimwishlist:item=1572896086&perks=4245865861,4104185692
 // weapon: Grand Overture
+//notes: mode: gambit
 dimwishlist:item=1763584999
 // weapon: Royal Entry
 //notes: mode: gambit
@@ -907,6 +938,7 @@ dimwishlist:item=2448907086&perks=2869569095,3927722942
 dimwishlist:item=2448907086&perks=3300816228,1275731761
 dimwishlist:item=2448907086&perks=951095735,2284787283
 // weapon: Parasite
+//notes: mode: gambit
 dimwishlist:item=2812324400
 // weapon: Empirical Evidence
 //notes: mode: gambit
@@ -969,6 +1001,7 @@ dimwishlist:item=3565520715&perks=972757866,2396489472
 dimwishlist:item=3565520715&perks=4071163871,706527188
 dimwishlist:item=3565520715&perks=3096702027,3511092054
 // weapon: Sweet Business
+//notes: mode: gambit
 dimwishlist:item=1345867570
 // weapon: Explosive Personality
 //notes: mode: gambit
@@ -991,10 +1024,13 @@ dimwishlist:item=3849810018&perks=3300816228,3425386926
 dimwishlist:item=3849810018&perks=2010801679,3425386926
 dimwishlist:item=3849810018&perks=3300816228,960810156
 // weapon: Sleeper Simulant
+//notes: mode: gambit
 dimwishlist:item=4036115577
 // weapon: Malfeasance
+//notes: mode: gambit
 dimwishlist:item=204878059
 // weapon: Izanagi's Burden
+//notes: mode: gambit
 dimwishlist:item=3211806999
 // weapon: Forbearance
 //notes: mode: gambit
@@ -1033,6 +1069,7 @@ dimwishlist:item=2721157927&perks=706527188,598607952
 dimwishlist:item=2721157927&perks=706527188,2396489472
 dimwishlist:item=2721157927&perks=1961144892,2396489472
 // weapon: Monte Carlo
+//notes: mode: gambit
 dimwishlist:item=4068264807
 // weapon: Cataclysmic
 //notes: mode: gambit
@@ -1045,8 +1082,10 @@ dimwishlist:item=999767358&perks=848860060,2284787283
 dimwishlist:item=999767358&perks=848860060,3563868667
 dimwishlist:item=999767358&perks=1354429876,2284787283
 // weapon: Trinity Ghoul
+//notes: mode: gambit
 dimwishlist:item=814876685
 // weapon: Hard Light
+//notes: mode: gambit
 dimwishlist:item=4124984448
 // weapon: The Hothead (Adept)
 //notes: mode: gambit
@@ -1069,6 +1108,7 @@ dimwishlist:item=2222560548&perks=1820235745,1546637391
 dimwishlist:item=2222560548&perks=1359896290,1890422124
 dimwishlist:item=2222560548&perks=4071163871,1546637391
 // weapon: Truth
+//notes: mode: gambit
 dimwishlist:item=1201830623
 // weapon: Ignition Code
 //notes: mode: gambit
@@ -1081,6 +1121,7 @@ dimwishlist:item=304659313&perks=2010801679,3523296417
 dimwishlist:item=304659313&perks=1556840489,1546637391
 dimwishlist:item=304659313&perks=3161816588,2726471870
 // weapon: Ager's Scepter
+//notes: mode: gambit
 dimwishlist:item=1833195496
 // weapon: Reed's Regret
 //notes: mode: gambit
@@ -1093,6 +1134,7 @@ dimwishlist:item=1399243961&perks=2284787283,1771339417
 dimwishlist:item=1399243961&perks=3436462433,1771339417
 dimwishlist:item=1399243961&perks=3436462433,1546637391
 // weapon: Ticuu's Divination
+//notes: mode: gambit
 dimwishlist:item=3260753130
 // weapon: Borrowed Time
 //notes: mode: gambit
@@ -1105,6 +1147,7 @@ dimwishlist:item=875848769&perks=3643424744,4104185692
 dimwishlist:item=875848769&perks=3643424744,2848615171
 dimwishlist:item=875848769&perks=3436462433,4104185692
 // weapon: Eyes of Tomorrow
+//notes: mode: gambit
 dimwishlist:item=2399110176
 // weapon: Lubrae's Ruin
 //notes: mode: gambit
@@ -1157,8 +1200,10 @@ dimwishlist:item=1399109800&perks=3523746922,3365897133
 dimwishlist:item=1399109800&perks=201365942,1551736345
 dimwishlist:item=1399109800&perks=201365942,3365897133
 // weapon: Graviton Lance
+//notes: mode: gambit
 dimwishlist:item=3628991658
 // weapon: Deathbringer
+//notes: mode: gambit
 dimwishlist:item=2232171099
 // weapon: The Other Half
 //notes: mode: gambit
@@ -1171,6 +1216,7 @@ dimwishlist:item=3257091167&perks=1749209109,1546637391
 dimwishlist:item=3257091167&perks=3705817207,3708227201
 dimwishlist:item=3257091167&perks=3705817207,1546637391
 // weapon: Divinity
+//notes: mode: pve
 dimwishlist:item=4103414242
 // weapon: Succession
 //notes: mode: pve
@@ -1193,6 +1239,7 @@ dimwishlist:item=4050645223&perks=3300816228,1275731761
 dimwishlist:item=4050645223&perks=3643424744,1275731761
 dimwishlist:item=4050645223&perks=3300816228,3927722942
 // weapon: Xenophage
+//notes: mode: pve
 dimwishlist:item=1395261499
 // weapon: Deafening Whisper
 //notes: mode: pve
@@ -1225,6 +1272,7 @@ dimwishlist:item=3186018373&perks=3436462433,3824105627
 dimwishlist:item=3186018373&perks=2387244414,3824105627
 dimwishlist:item=3186018373&perks=2387244414,4267945040
 // weapon: The Lament
+//notes: mode: pve
 dimwishlist:item=3487253372
 // weapon: Extraordinary Rendition
 //notes: mode: pve
